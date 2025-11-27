@@ -1,0 +1,183 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Digitalización",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Música",
+    "Segunda Lengua Extranjera",
+    "Tecnología",
+    "Digitalización Aplicada",
+    "Filosofía",
+    "Lengua Asturiana y Literatura",
+    "Proyecto de Emprendimiento Social o Empresarial",
+    "Taller de Economía Aplicada",
+    "Religión"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 389,
+      "start_page_post_offset": 389,
+      "end_page_pre_offset": 391,
+      "end_page_post_offset": 391,
+      "anexo_nombre": "ANEXO III Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 22,
+    "start_page_post_offset": 22,
+    "end_page_pre_offset": 32,
+    "end_page_post_offset": 32,
+    "anexo_nombre": "ANEXO I Perfil de salida del alumnado al término de la enseñanza básica (Competencias clave)"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 33,
+      "start_page_post_offset": 33,
+      "end_page_pre_offset": 49,
+      "end_page_post_offset": 49
+    },
+    {
+      "titulo": "Digitalización",
+      "start_page_pre_offset": 49,
+      "start_page_post_offset": 49,
+      "end_page_pre_offset": 69,
+      "end_page_post_offset": 69
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 69,
+      "start_page_post_offset": 69,
+      "end_page_pre_offset": 83,
+      "end_page_post_offset": 83
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 83,
+      "start_page_post_offset": 83,
+      "end_page_pre_offset": 111,
+      "end_page_post_offset": 111
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 111,
+      "start_page_post_offset": 111,
+      "end_page_pre_offset": 126,
+      "end_page_post_offset": 126
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 126,
+      "start_page_post_offset": 126,
+      "end_page_pre_offset": 136,
+      "end_page_post_offset": 136
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 136,
+      "start_page_post_offset": 136,
+      "end_page_pre_offset": 162,
+      "end_page_post_offset": 162
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 162,
+      "start_page_post_offset": 162,
+      "end_page_pre_offset": 174,
+      "end_page_post_offset": 174
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 174,
+      "start_page_post_offset": 174,
+      "end_page_pre_offset": 202,
+      "end_page_post_offset": 202
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 202,
+      "start_page_post_offset": 202,
+      "end_page_pre_offset": 223,
+      "end_page_post_offset": 223
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 223,
+      "start_page_post_offset": 223,
+      "end_page_pre_offset": 253,
+      "end_page_post_offset": 253
+    },
+    {
+      "titulo": "Música",
+      "start_page_pre_offset": 253,
+      "start_page_post_offset": 253,
+      "end_page_pre_offset": 267,
+      "end_page_post_offset": 267
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 267,
+      "start_page_post_offset": 267,
+      "end_page_pre_offset": 288,
+      "end_page_post_offset": 288
+    },
+    {
+      "titulo": "Tecnología",
+      "start_page_pre_offset": 288,
+      "start_page_post_offset": 288,
+      "end_page_pre_offset": 327,
+      "end_page_post_offset": 327
+    },
+    {
+      "titulo": "Digitalización Aplicada",
+      "start_page_pre_offset": 327,
+      "start_page_post_offset": 327,
+      "end_page_pre_offset": 336,
+      "end_page_post_offset": 336
+    },
+    {
+      "titulo": "Filosofía",
+      "start_page_pre_offset": 336,
+      "start_page_post_offset": 336,
+      "end_page_pre_offset": 343,
+      "end_page_post_offset": 343
+    },
+    {
+      "titulo": "Lengua Asturiana y Literatura",
+      "start_page_pre_offset": 343,
+      "start_page_post_offset": 343,
+      "end_page_pre_offset": 372,
+      "end_page_post_offset": 372
+    },
+    {
+      "titulo": "Proyecto de Emprendimiento Social o Empresarial",
+      "start_page_pre_offset": 372,
+      "start_page_post_offset": 372,
+      "end_page_pre_offset": 379,
+      "end_page_post_offset": 379
+    },
+    {
+      "titulo": "Taller de Economía Aplicada",
+      "start_page_pre_offset": 379,
+      "start_page_post_offset": 379,
+      "end_page_pre_offset": 388,
+      "end_page_post_offset": 388
+    },
+    {
+      "titulo": "Religión",
+      "start_page_pre_offset": 388,
+      "start_page_post_offset": 388,
+      "end_page_pre_offset": 389,
+      "end_page_post_offset": 389
+    }
+  ]
+}

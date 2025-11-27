@@ -1,0 +1,111 @@
+{
+  "lista_materias": [
+    "Ciencias de la Naturaleza",
+    "Ciencias Sociales",
+    "Educación Artística",
+    "Educación Física",
+    "Educación en Valores Cívicos y Éticos",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Lengua Asturiana y Literatura",
+    "Cultura Asturiana",
+    "Religión"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 180,
+      "start_page_post_offset": 180,
+      "end_page_pre_offset": 182,
+      "end_page_post_offset": 182,
+      "anexo_nombre": "Anexo III. Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 15,
+    "start_page_post_offset": 15,
+    "end_page_pre_offset": 25,
+    "end_page_post_offset": 25,
+    "anexo_nombre": "Anexo I. Perfil de salida al término de la enseñanza básica / Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "Ciencias de la Naturaleza",
+      "start_page_pre_offset": 26,
+      "start_page_post_offset": 26,
+      "end_page_pre_offset": 39,
+      "end_page_post_offset": 39
+    },
+    {
+      "titulo": "Ciencias Sociales",
+      "start_page_pre_offset": 39,
+      "start_page_post_offset": 39,
+      "end_page_pre_offset": 52,
+      "end_page_post_offset": 52
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page_pre_offset": 52,
+      "start_page_post_offset": 52,
+      "end_page_pre_offset": 65,
+      "end_page_post_offset": 65
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 65,
+      "start_page_post_offset": 65,
+      "end_page_pre_offset": 80,
+      "end_page_post_offset": 80
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 80,
+      "start_page_post_offset": 80,
+      "end_page_pre_offset": 88,
+      "end_page_post_offset": 88
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 88,
+      "start_page_post_offset": 88,
+      "end_page_pre_offset": 108,
+      "end_page_post_offset": 108
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 108,
+      "start_page_post_offset": 108,
+      "end_page_pre_offset": 122,
+      "end_page_post_offset": 122
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 122,
+      "start_page_post_offset": 122,
+      "end_page_pre_offset": 144,
+      "end_page_post_offset": 144
+    },
+    {
+      "titulo": "Lengua Asturiana y Literatura",
+      "start_page_pre_offset": 144,
+      "start_page_post_offset": 144,
+      "end_page_pre_offset": 165,
+      "end_page_post_offset": 165
+    },
+    {
+      "titulo": "Cultura Asturiana",
+      "start_page_pre_offset": 165,
+      "start_page_post_offset": 165,
+      "end_page_pre_offset": 179,
+      "end_page_post_offset": 179
+    },
+    {
+      "titulo": "Religión",
+      "start_page_pre_offset": 179,
+      "start_page_post_offset": 179,
+      "end_page_pre_offset": 180,
+      "end_page_post_offset": 180
+    }
+  ]
+}

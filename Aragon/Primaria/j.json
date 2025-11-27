@@ -1,0 +1,127 @@
+{
+  "lista_materias": [
+    "Ciencias de la Naturaleza",
+    "Ciencias Sociales",
+    "Educación Plástica y Visual",
+    "Música y Danza",
+    "Educación Física",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera: Alemán",
+    "Lengua Extranjera: Francés",
+    "Lengua Extranjera: Inglés",
+    "Matemáticas",
+    "Educación en Valores Cívicos y Éticos",
+    "Lengua Propia de Aragón: Aragonés",
+    "Lengua Propia de Aragón: Catalán"
+  ],
+  "offset": 25613,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 25675,
+      "start_page_post_offset": 62,
+      "end_page_pre_offset": 25676,
+      "end_page_post_offset": 63,
+      "anexo_nombre": "IV.3. Diseño de situaciones de aprendizaje (Estructura y elementos incluidos)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 25638,
+    "start_page_post_offset": 25,
+    "end_page_pre_offset": 25648,
+    "end_page_post_offset": 35,
+    "anexo_nombre": "ANEXO I Perfil de salida del alumnado al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "Ciencias de la Naturaleza",
+      "start_page_pre_offset": 25650,
+      "start_page_post_offset": 37,
+      "end_page_pre_offset": 25691,
+      "end_page_post_offset": 78
+    },
+    {
+      "titulo": "Ciencias Sociales",
+      "start_page_pre_offset": 25691,
+      "start_page_post_offset": 78,
+      "end_page_pre_offset": 25719,
+      "end_page_post_offset": 106
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 25719,
+      "start_page_post_offset": 106,
+      "end_page_pre_offset": 25738,
+      "end_page_post_offset": 125
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 25738,
+      "start_page_post_offset": 125,
+      "end_page_pre_offset": 25779,
+      "end_page_post_offset": 166
+    },
+    {
+      "titulo": "Educación Plástica y Visual",
+      "start_page_pre_offset": 25779,
+      "start_page_post_offset": 166,
+      "end_page_pre_offset": 25808,
+      "end_page_post_offset": 195
+    },
+    {
+      "titulo": "Lengua Extranjera: Alemán",
+      "start_page_pre_offset": 25808,
+      "start_page_post_offset": 195,
+      "end_page_pre_offset": 25846,
+      "end_page_post_offset": 233
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 25846,
+      "start_page_post_offset": 233,
+      "end_page_pre_offset": 25884,
+      "end_page_post_offset": 271
+    },
+    {
+      "titulo": "Lengua Extranjera: Francés",
+      "start_page_pre_offset": 25884,
+      "start_page_post_offset": 271,
+      "end_page_pre_offset": 25936,
+      "end_page_post_offset": 323
+    },
+    {
+      "titulo": "Lengua Extranjera: Inglés",
+      "start_page_pre_offset": 25936,
+      "start_page_post_offset": 323,
+      "end_page_pre_offset": 25990,
+      "end_page_post_offset": 377
+    },
+    {
+      "titulo": "Lengua Propia: Aragonés",
+      "start_page_pre_offset": 25990,
+      "start_page_post_offset": 377,
+      "end_page_pre_offset": 26031,
+      "end_page_post_offset": 418
+    },
+    {
+      "titulo": "Lengua Propia: Catalán",
+      "start_page_pre_offset": 26031,
+      "start_page_post_offset": 418,
+      "end_page_pre_offset": 26059,
+      "end_page_post_offset": 446
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 26059,
+      "start_page_post_offset": 446,
+      "end_page_pre_offset": 26148,
+      "end_page_post_offset": 535
+    },
+    {
+      "titulo": "Música y Danza",
+      "start_page_pre_offset": 26148,
+      "start_page_post_offset": 535,
+      "end_page_pre_offset": 26177,
+      "end_page_post_offset": 564
+    }
+  ]
+}

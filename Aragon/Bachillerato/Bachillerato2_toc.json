@@ -1,0 +1,207 @@
+{
+  "lista_materias": [
+    "Imagen y Sonido",
+    "Informática",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera: Alemán",
+    "Lengua Extranjera: Francés",
+    "Lengua Extranjera: Inglés",
+    "Lenguaje y Práctica Musical",
+    "Lenguas Propias de Aragón: Aragonés",
+    "Lenguas Propias de Aragón: Catalán",
+    "Literatura Dramática",
+    "Literatura Universal",
+    "Matemáticas Aplicadas a las Ciencias Sociales",
+    "Matemáticas Generales",
+    "Movimientos Culturales y Artísticos",
+    "Proyecto de Innovación e Investigación Integrado",
+    "Psicología",
+    "Química",
+    "Sociedad, Medioambiente y Territorios Sostenibles",
+    "Técnicas de Expresión Gráfico-Plástica",
+    "Tecnología e Ingeniería",
+    "Unión Europea",
+    "Volumen"
+  ],
+  "offset": 29047,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 29051,
+      "start_page_post_offset": 4,
+      "end_page_pre_offset": 29052,
+      "end_page_post_offset": 5,
+      "anexo_nombre": "Artículo 5. Principios metodológicos generales (Diseño Universal para el Aprendizaje)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 29083,
+    "start_page_post_offset": 36,
+    "end_page_pre_offset": 29092,
+    "end_page_post_offset": 45,
+    "anexo_nombre": "ANEXO I Competencias Clave en el Bachillerato"
+  },
+  "materias": [
+    {
+      "titulo": "Imagen y Sonido",
+      "start_page_pre_offset": 29743,
+      "start_page_post_offset": 696,
+      "end_page_pre_offset": 29757,
+      "end_page_post_offset": 710
+    },
+    {
+      "titulo": "Informática",
+      "start_page_pre_offset": 29758,
+      "start_page_post_offset": 711,
+      "end_page_pre_offset": 29785,
+      "end_page_post_offset": 738
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 29786,
+      "start_page_post_offset": 739,
+      "end_page_pre_offset": 29810,
+      "end_page_post_offset": 763
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 29811,
+      "start_page_post_offset": 764,
+      "end_page_pre_offset": 29837,
+      "end_page_post_offset": 790
+    },
+    {
+      "titulo": "Lengua Extranjera: Alemán",
+      "start_page_pre_offset": 29838,
+      "start_page_post_offset": 791,
+      "end_page_pre_offset": 29865,
+      "end_page_post_offset": 818
+    },
+    {
+      "titulo": "Lengua Extranjera: Francés",
+      "start_page_pre_offset": 29866,
+      "start_page_post_offset": 819,
+      "end_page_pre_offset": 29890,
+      "end_page_post_offset": 843
+    },
+    {
+      "titulo": "Lengua Extranjera: Inglés",
+      "start_page_pre_offset": 29891,
+      "start_page_post_offset": 844,
+      "end_page_pre_offset": 29915,
+      "end_page_post_offset": 868
+    },
+    {
+      "titulo": "Lenguaje y Práctica Musical",
+      "start_page_pre_offset": 29916,
+      "start_page_post_offset": 869,
+      "end_page_pre_offset": 29925,
+      "end_page_post_offset": 878
+    },
+    {
+      "titulo": "Lenguas Propias de Aragón: Aragonés",
+      "start_page_pre_offset": 29926,
+      "start_page_post_offset": 879,
+      "end_page_pre_offset": 29953,
+      "end_page_post_offset": 906
+    },
+    {
+      "titulo": "Lenguas Propias de Aragón: Catalán",
+      "start_page_pre_offset": 29954,
+      "start_page_post_offset": 907,
+      "end_page_pre_offset": 29976,
+      "end_page_post_offset": 929
+    },
+    {
+      "titulo": "Literatura Dramática",
+      "start_page_pre_offset": 29977,
+      "start_page_post_offset": 930,
+      "end_page_pre_offset": 29994,
+      "end_page_post_offset": 947
+    },
+    {
+      "titulo": "Literatura Universal",
+      "start_page_pre_offset": 29995,
+      "start_page_post_offset": 948,
+      "end_page_pre_offset": 30013,
+      "end_page_post_offset": 966
+    },
+    {
+      "titulo": "Matemáticas Aplicadas a las Ciencias Sociales",
+      "start_page_pre_offset": 30060,
+      "start_page_post_offset": 1013,
+      "end_page_pre_offset": 30106,
+      "end_page_post_offset": 1059
+    },
+    {
+      "titulo": "Matemáticas Generales",
+      "start_page_pre_offset": 30107,
+      "start_page_post_offset": 1060,
+      "end_page_pre_offset": 30150,
+      "end_page_post_offset": 1103
+    },
+    {
+      "titulo": "Movimientos Culturales y Artísticos",
+      "start_page_pre_offset": 30151,
+      "start_page_post_offset": 1104,
+      "end_page_pre_offset": 30203,
+      "end_page_post_offset": 1156
+    },
+    {
+      "titulo": "Proyecto de Innovación e Investigación Integrado",
+      "start_page_pre_offset": 30204,
+      "start_page_post_offset": 1157,
+      "end_page_pre_offset": 30221,
+      "end_page_post_offset": 1174
+    },
+    {
+      "titulo": "Psicología",
+      "start_page_pre_offset": 30222,
+      "start_page_post_offset": 1175,
+      "end_page_pre_offset": 30246,
+      "end_page_post_offset": 1199
+    },
+    {
+      "titulo": "Química",
+      "start_page_pre_offset": 30247,
+      "start_page_post_offset": 1200,
+      "end_page_pre_offset": 30267,
+      "end_page_post_offset": 1220
+    },
+    {
+      "titulo": "Sociedad, Medioambiente y Territorios Sostenibles",
+      "start_page_pre_offset": 30268,
+      "start_page_post_offset": 1221,
+      "end_page_pre_offset": 30288,
+      "end_page_post_offset": 1241
+    },
+    {
+      "titulo": "Técnicas de Expresión Gráfico-Plástica",
+      "start_page_pre_offset": 30289,
+      "start_page_post_offset": 1242,
+      "end_page_pre_offset": 30304,
+      "end_page_post_offset": 1257
+    },
+    {
+      "titulo": "Tecnología e Ingeniería",
+      "start_page_pre_offset": 30305,
+      "start_page_post_offset": 1258,
+      "end_page_pre_offset": 30321,
+      "end_page_post_offset": 1274
+    },
+    {
+      "titulo": "Unión Europea",
+      "start_page_pre_offset": 30322,
+      "start_page_post_offset": 1275,
+      "end_page_pre_offset": 30340,
+      "end_page_post_offset": 1293
+    },
+    {
+      "titulo": "Volumen",
+      "start_page_pre_offset": 30346,
+      "start_page_post_offset": 1299,
+      "end_page_pre_offset": 30362,
+      "end_page_post_offset": 1315
+    }
+  ]
+}

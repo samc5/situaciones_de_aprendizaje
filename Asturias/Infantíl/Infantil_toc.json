@@ -1,0 +1,47 @@
+{
+  "lista_materias": [
+    "Crecimiento en Armonía",
+    "Descubrimiento y Exploración del Entorno",
+    "Comunicación y Representación de la Realidad"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 39,
+      "start_page_post_offset": 39,
+      "end_page_pre_offset": 41,
+      "end_page_post_offset": 41,
+      "anexo_nombre": "Anexo III: Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 10,
+    "start_page_post_offset": 10,
+    "end_page_pre_offset": 13,
+    "end_page_post_offset": 13,
+    "anexo_nombre": "Anexo I: Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "Crecimiento en Armonía",
+      "start_page_pre_offset": 17,
+      "start_page_post_offset": 17,
+      "end_page_pre_offset": 24,
+      "end_page_post_offset": 24
+    },
+    {
+      "titulo": "Descubrimiento y Exploración del Entorno",
+      "start_page_pre_offset": 25,
+      "start_page_post_offset": 25,
+      "end_page_pre_offset": 29,
+      "end_page_post_offset": 29
+    },
+    {
+      "titulo": "Comunicación y Representación de la Realidad",
+      "start_page_pre_offset": 30,
+      "start_page_post_offset": 30,
+      "end_page_pre_offset": 38,
+      "end_page_post_offset": 38
+    }
+  ]
+}

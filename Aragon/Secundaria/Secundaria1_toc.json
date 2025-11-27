@@ -1,0 +1,358 @@
+{
+  "lista_materias": [
+    "Artes Escénicas y Danza",
+    "Biología y Geología",
+    "Cultura Científica",
+    "Cultura Clásica",
+    "Cultura y Patrimonio de Aragón",
+    "Digitalización",
+    "Economía social",
+    "Economía y Emprendimiento",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Expresión artística",
+    "Filosofía",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Iniciación a la Filosofía",
+    "Laboratorio de refuerzo de competencias clave",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera: Alemán",
+    "Lengua Extranjera: Francés",
+    "Lengua Extranjera: Inglés",
+    "Lenguas Propias de Aragón: Aragonés",
+    "Lenguas Propias de Aragón: Catalán",
+    "Matemáticas",
+    "Matemáticas para la toma de decisiones",
+    "Música",
+    "Oratoria y Escritura",
+    "Programación y Robótica",
+    "Segunda Lengua Extranjera: Alemán",
+    "Segunda Lengua Extranjera: Francés",
+    "Tecnología",
+    "Tecnología y Digitalización"
+  ],
+  "offset": 27831,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 60,
+      "start_page_post_offset": 27891,
+      "end_page_pre_offset": 62,
+      "end_page_post_offset": 27893,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Artes Escénicas y Danza"
+    },
+    {
+      "start_page_pre_offset": 88,
+      "start_page_post_offset": 27919,
+      "end_page_pre_offset": 93,
+      "end_page_post_offset": 27924,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Biología y Geología"
+    },
+    {
+      "start_page_pre_offset": 109,
+      "start_page_post_offset": 27940,
+      "end_page_pre_offset": 114,
+      "end_page_post_offset": 27945,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Cultura Científica"
+    },
+    {
+      "start_page_pre_offset": 133,
+      "start_page_post_offset": 27964,
+      "end_page_pre_offset": 135,
+      "end_page_post_offset": 27966,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Cultura Clásica"
+    },
+    {
+      "start_page_pre_offset": 150,
+      "start_page_post_offset": 27981,
+      "end_page_pre_offset": 152,
+      "end_page_post_offset": 27983,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Cultura y Patrimonio de Aragón"
+    },
+    {
+      "start_page_pre_offset": 165,
+      "start_page_post_offset": 27996,
+      "end_page_pre_offset": 167,
+      "end_page_post_offset": 27998,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Digitalización"
+    },
+    {
+      "start_page_pre_offset": 183,
+      "start_page_post_offset": 28014,
+      "end_page_pre_offset": 186,
+      "end_page_post_offset": 28017,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Economía social"
+    },
+    {
+      "start_page_pre_offset": 201,
+      "start_page_post_offset": 28032,
+      "end_page_pre_offset": 203,
+      "end_page_post_offset": 28034,
+      "anexo_nombre": "Ejemplo de situación de aprendizaje Economía y Emprendimiento"
+    },
+    {
+      "start_page_pre_offset": 218,
+      "start_page_post_offset": 28049,
+      "end_page_pre_offset": 221,
+      "end_page_post_offset": 28052,
+      "anexo_nombre": "Ejemplo de situación de aprendizaje Educación en Valores Cívicos y Éticos"
+    },
+    {
+      "start_page_pre_offset": 252,
+      "start_page_post_offset": 28083,
+      "end_page_pre_offset": 280,
+      "end_page_post_offset": 28111,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Educación Física"
+    },
+    {
+      "start_page_pre_offset": 307,
+      "start_page_post_offset": 28138,
+      "end_page_pre_offset": 309,
+      "end_page_post_offset": 28140,
+      "anexo_nombre": "Ejemplo de situación de aprendizaje Educación Plástica, Visual y Audiovisual"
+    },
+    {
+      "start_page_pre_offset": 366,
+      "start_page_post_offset": 28197,
+      "end_page_pre_offset": 373,
+      "end_page_post_offset": 28204,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Física y Química"
+    },
+    {
+      "start_page_pre_offset": 394,
+      "start_page_post_offset": 28225,
+      "end_page_pre_offset": 396,
+      "end_page_post_offset": 28227,
+      "anexo_nombre": "Ejemplo de situación de aprendizaje Formación y Orientación Personal y Profesional"
+    },
+    {
+      "start_page_pre_offset": 432,
+      "start_page_post_offset": 28263,
+      "end_page_pre_offset": 436,
+      "end_page_post_offset": 28267,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Geografía e Historia"
+    },
+    {
+      "start_page_pre_offset": 447,
+      "start_page_post_offset": 28278,
+      "end_page_pre_offset": 449,
+      "end_page_post_offset": 28280,
+      "anexo_nombre": "Ejemplo de situación de aprendizaje Iniciación a la Filosofía"
+    },
+    {
+      "start_page_pre_offset": 490,
+      "start_page_post_offset": 28321,
+      "end_page_pre_offset": 492,
+      "end_page_post_offset": 28323,
+      "anexo_nombre": "Ejemplo de situación de aprendizaje Latín"
+    },
+    {
+      "start_page_pre_offset": 527,
+      "start_page_post_offset": 28358,
+      "end_page_pre_offset": 529,
+      "end_page_post_offset": 28360,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Lengua Castellana y Literatura"
+    },
+    {
+      "start_page_pre_offset": 560,
+      "start_page_post_offset": 28391,
+      "end_page_pre_offset": 562,
+      "end_page_post_offset": 28393,
+      "anexo_nombre": "Ejemplo de situación de aprendizaje Lengua Extranjera: Alemán"
+    },
+    {
+      "start_page_pre_offset": 588,
+      "start_page_post_offset": 28419,
+      "end_page_pre_offset": 593,
+      "end_page_post_offset": 28424,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Lengua Extranjera: Francés"
+    },
+    {
+      "start_page_pre_offset": 617,
+      "start_page_post_offset": 28448,
+      "end_page_pre_offset": 626,
+      "end_page_post_offset": 28457,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Lengua Extranjera: Inglés"
+    },
+    {
+      "start_page_pre_offset": 654,
+      "start_page_post_offset": 28485,
+      "end_page_pre_offset": 667,
+      "end_page_post_offset": 28498,
+      "anexo_nombre": "Ejemplificación de situaciones de aprendizaje Lenguas Propias de Aragón: Aragonés"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 39,
+    "start_page_post_offset": 27870,
+    "end_page_pre_offset": 48,
+    "end_page_post_offset": 27879,
+    "anexo_nombre": "ANEXO I Perfil de salida del alumnado al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "Artes Escénicas y Danza",
+      "start_page_pre_offset": 51,
+      "start_page_post_offset": 27882,
+      "end_page_pre_offset": 63,
+      "end_page_post_offset": 27894
+    },
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 64,
+      "start_page_post_offset": 27895,
+      "end_page_pre_offset": 96,
+      "end_page_post_offset": 27927
+    },
+    {
+      "titulo": "Cultura Científica",
+      "start_page_pre_offset": 97,
+      "start_page_post_offset": 27928,
+      "end_page_pre_offset": 115,
+      "end_page_post_offset": 27946
+    },
+    {
+      "titulo": "Cultura Clásica",
+      "start_page_pre_offset": 116,
+      "start_page_post_offset": 27947,
+      "end_page_pre_offset": 136,
+      "end_page_post_offset": 27967
+    },
+    {
+      "titulo": "Cultura y Patrimonio de Aragón",
+      "start_page_pre_offset": 137,
+      "start_page_post_offset": 27968,
+      "end_page_pre_offset": 152,
+      "end_page_post_offset": 27983
+    },
+    {
+      "titulo": "Digitalización",
+      "start_page_pre_offset": 153,
+      "start_page_post_offset": 27984,
+      "end_page_pre_offset": 168,
+      "end_page_post_offset": 27999
+    },
+    {
+      "titulo": "Economía social",
+      "start_page_pre_offset": 169,
+      "start_page_post_offset": 28000,
+      "end_page_pre_offset": 186,
+      "end_page_post_offset": 28017
+    },
+    {
+      "titulo": "Economía y Emprendimiento",
+      "start_page_pre_offset": 187,
+      "start_page_post_offset": 28018,
+      "end_page_pre_offset": 205,
+      "end_page_post_offset": 28036
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 206,
+      "start_page_post_offset": 28037,
+      "end_page_pre_offset": 221,
+      "end_page_post_offset": 28052
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 222,
+      "start_page_post_offset": 28053,
+      "end_page_pre_offset": 282,
+      "end_page_post_offset": 28113
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 283,
+      "start_page_post_offset": 28114,
+      "end_page_pre_offset": 326,
+      "end_page_post_offset": 28157
+    },
+    {
+      "titulo": "Filosofía",
+      "start_page_pre_offset": 327,
+      "start_page_post_offset": 28158,
+      "end_page_pre_offset": 340,
+      "end_page_post_offset": 28171
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 341,
+      "start_page_post_offset": 28172,
+      "end_page_pre_offset": 375,
+      "end_page_post_offset": 28206
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 376,
+      "start_page_post_offset": 28207,
+      "end_page_pre_offset": 397,
+      "end_page_post_offset": 28228
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 398,
+      "start_page_post_offset": 28229,
+      "end_page_pre_offset": 437,
+      "end_page_post_offset": 28268
+    },
+    {
+      "titulo": "Iniciación a la Filosofía",
+      "start_page_pre_offset": 438,
+      "start_page_post_offset": 28269,
+      "end_page_pre_offset": 450,
+      "end_page_post_offset": 28281
+    },
+    {
+      "titulo": "Laboratorio de refuerzo de competencias clave",
+      "start_page_pre_offset": 451,
+      "start_page_post_offset": 28282,
+      "end_page_pre_offset": 475,
+      "end_page_post_offset": 28306
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 476,
+      "start_page_post_offset": 28307,
+      "end_page_pre_offset": 493,
+      "end_page_post_offset": 28324
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 494,
+      "start_page_post_offset": 28325,
+      "end_page_pre_offset": 530,
+      "end_page_post_offset": 28361
+    },
+    {
+      "titulo": "Lengua Extranjera: Alemán",
+      "start_page_pre_offset": 531,
+      "start_page_post_offset": 28362,
+      "end_page_pre_offset": 567,
+      "end_page_post_offset": 28398
+    },
+    {
+      "titulo": "Lengua Extranjera: Francés",
+      "start_page_pre_offset": 568,
+      "start_page_post_offset": 28399,
+      "end_page_pre_offset": 595,
+      "end_page_post_offset": 28426
+    },
+    {
+      "titulo": "Lengua Extranjera: Inglés",
+      "start_page_pre_offset": 596,
+      "start_page_post_offset": 28427,
+      "end_page_pre_offset": 627,
+      "end_page_post_offset": 28458
+    },
+    {
+      "titulo": "Lenguas Propias de Aragón: Aragonés",
+      "start_page_pre_offset": 628,
+      "start_page_post_offset": 28459,
+      "end_page_pre_offset": 668,
+      "end_page_post_offset": 28499
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "lista_materias": [
+    "Artes Escénicas",
+    "Análisis Musical",
+    "Anatomía Aplicada",
+    "Biología",
+    "Biología, Geología y Ciencias Ambientales",
+    "Ciencias de la Tierra y del Medioambiente",
+    "Ciencias Generales",
+    "Coro y Técnica Vocal",
+    "Cultura Audiovisual",
+    "Cultura y Patrimonio de Aragón",
+    "Dibujo Artístico",
+    "Dibujo Técnico",
+    "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño",
+    "Diseño",
+    "Economía",
+    "Economía, Emprendimiento y Actividad Empresarial",
+    "Educación Física y Vida Activa",
+    "Educación para la Ciudadanía y los Derechos Humanos",
+    "Filosofía",
+    "Física",
+    "Fundamentos Artísticos",
+    "Fundamentos de Administración y Gestión",
+    "Geografía",
+    "Geología y Ciencias Ambientales",
+    "Griego",
+    "Historia de España",
+    "Historia de la Filosofía",
+    "Historia de la Música y de la Danza",
+    "Historia del Arte",
+    "Historia del Mundo Contemporáneo"
+  ],
+  "offset": -29047,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 29051,
+      "start_page_post_offset": 4,
+      "end_page_pre_offset": 29051,
+      "end_page_post_offset": 4,
+      "anexo_nombre": "Principios metodológicos generales (Diseño Universal para el Aprendizaje y Situaciones de Aprendizaje)"
+    },
+    {
+      "start_page_pre_offset": 29053,
+      "start_page_post_offset": 6,
+      "end_page_pre_offset": 29053,
+      "end_page_post_offset": 6,
+      "anexo_nombre": "Definición de Situaciones de Aprendizaje (Artículo 8.f)"
+    },
+    {
+      "start_page_pre_offset": 29108,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 29742,
+      "end_page_post_offset": 695,
+      "anexo_nombre": "Diseño y Ejemplificación de Situaciones de Aprendizaje por Materia (Anexo II)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 29083,
+    "start_page_post_offset": 36,
+    "end_page_pre_offset": 29092,
+    "end_page_post_offset": 45,
+    "anexo_nombre": "ANEXO I Competencias Clave en el Bachillerato"
+  },
+  "materias": [
+    {
+      "titulo": "Artes Escénicas",
+      "start_page_pre_offset": 29096,
+      "start_page_post_offset": 49,
+      "end_page_pre_offset": 29115,
+      "end_page_post_offset": 68
+    },
+    {
+      "titulo": "Análisis Musical",
+      "start_page_pre_offset": 29115,
+      "start_page_post_offset": 68,
+      "end_page_pre_offset": 29143,
+      "end_page_post_offset": 96
+    },
+    {
+      "titulo": "Anatomía Aplicada",
+      "start_page_pre_offset": 29143,
+      "start_page_post_offset": 96,
+      "end_page_pre_offset": 29162,
+      "end_page_post_offset": 115
+    },
+    {
+      "titulo": "Biología",
+      "start_page_pre_offset": 29162,
+      "start_page_post_offset": 115,
+      "end_page_pre_offset": 29175,
+      "end_page_post_offset": 128
+    },
+    {
+      "titulo": "Biología, Geología y Ciencias Ambientales",
+      "start_page_pre_offset": 29175,
+      "start_page_post_offset": 128,
+      "end_page_pre_offset": 29189,
+      "end_page_post_offset": 142
+    },
+    {
+      "titulo": "Ciencias de la Tierra y del Medioambiente",
+      "start_page_pre_offset": 29189,
+      "start_page_post_offset": 142,
+      "end_page_pre_offset": 29204,
+      "end_page_post_offset": 157
+    },
+    {
+      "titulo": "Ciencias Generales",
+      "start_page_pre_offset": 29204,
+      "start_page_post_offset": 157,
+      "end_page_pre_offset": 29224,
+      "end_page_post_offset": 177
+    },
+    {
+      "titulo": "Coro y Técnica Vocal",
+      "start_page_pre_offset": 29224,
+      "start_page_post_offset": 177,
+      "end_page_pre_offset": 29237,
+      "end_page_post_offset": 190
+    },
+    {
+      "titulo": "Cultura Audiovisual",
+      "start_page_pre_offset": 29237,
+      "start_page_post_offset": 190,
+      "end_page_pre_offset": 29252,
+      "end_page_post_offset": 205
+    },
+    {
+      "titulo": "Cultura y Patrimonio de Aragón",
+      "start_page_pre_offset": 29252,
+      "start_page_post_offset": 205,
+      "end_page_pre_offset": 29280,
+      "end_page_post_offset": 233
+    },
+    {
+      "titulo": "Dibujo Artístico",
+      "start_page_pre_offset": 29280,
+      "start_page_post_offset": 233,
+      "end_page_pre_offset": 29308,
+      "end_page_post_offset": 261
+    },
+    {
+      "titulo": "Dibujo Técnico",
+      "start_page_pre_offset": 29308,
+      "start_page_post_offset": 261,
+      "end_page_pre_offset": 29328,
+      "end_page_post_offset": 281
+    },
+    {
+      "titulo": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño",
+      "start_page_pre_offset": 29328,
+      "start_page_post_offset": 281,
+      "end_page_pre_offset": 29355,
+      "end_page_post_offset": 308
+    },
+    {
+      "titulo": "Diseño",
+      "start_page_pre_offset": 29355,
+      "start_page_post_offset": 308,
+      "end_page_pre_offset": 29371,
+      "end_page_post_offset": 324
+    },
+    {
+      "titulo": "Economía",
+      "start_page_pre_offset": 29371,
+      "start_page_post_offset": 324,
+      "end_page_pre_offset": 29388,
+      "end_page_post_offset": 341
+    },
+    {
+      "titulo": "Economía, Emprendimiento y Actividad Empresarial",
+      "start_page_pre_offset": 29388,
+      "start_page_post_offset": 341,
+      "end_page_pre_offset": 29403,
+      "end_page_post_offset": 356
+    },
+    {
+      "titulo": "Educación Física y Vida Activa",
+      "start_page_pre_offset": 29403,
+      "start_page_post_offset": 356,
+      "end_page_pre_offset": 29439,
+      "end_page_post_offset": 392
+    },
+    {
+      "titulo": "Educación para la Ciudadanía y los Derechos Humanos",
+      "start_page_pre_offset": 29439,
+      "start_page_post_offset": 392,
+      "end_page_pre_offset": 29454,
+      "end_page_post_offset": 407
+    },
+    {
+      "titulo": "Filosofía",
+      "start_page_pre_offset": 29454,
+      "start_page_post_offset": 407,
+      "end_page_pre_offset": 29491,
+      "end_page_post_offset": 444
+    },
+    {
+      "titulo": "Física",
+      "start_page_pre_offset": 29491,
+      "start_page_post_offset": 444,
+      "end_page_pre_offset": 29535,
+      "end_page_post_offset": 488
+    },
+    {
+      "titulo": "Fundamentos Artísticos",
+      "start_page_pre_offset": 29535,
+      "start_page_post_offset": 488,
+      "end_page_pre_offset": 29549,
+      "end_page_post_offset": 502
+    },
+    {
+      "titulo": "Fundamentos de Administración y Gestión",
+      "start_page_pre_offset": 29549,
+      "start_page_post_offset": 502,
+      "end_page_pre_offset": 29569,
+      "end_page_post_offset": 522
+    },
+    {
+      "titulo": "Geografía",
+      "start_page_pre_offset": 29569,
+      "start_page_post_offset": 522,
+      "end_page_pre_offset": 29594,
+      "end_page_post_offset": 547
+    },
+    {
+      "titulo": "Geología y Ciencias Ambientales",
+      "start_page_pre_offset": 29594,
+      "start_page_post_offset": 547,
+      "end_page_pre_offset": 29609,
+      "end_page_post_offset": 562
+    },
+    {
+      "titulo": "Griego",
+      "start_page_pre_offset": 29609,
+      "start_page_post_offset": 562,
+      "end_page_pre_offset": 29634,
+      "end_page_post_offset": 587
+    },
+    {
+      "titulo": "Historia de España",
+      "start_page_pre_offset": 29634,
+      "start_page_post_offset": 587,
+      "end_page_pre_offset": 29668,
+      "end_page_post_offset": 621
+    },
+    {
+      "titulo": "Historia de la Filosofía",
+      "start_page_pre_offset": 29668,
+      "start_page_post_offset": 621,
+      "end_page_pre_offset": 29685,
+      "end_page_post_offset": 638
+    },
+    {
+      "titulo": "Historia de la Música y de la Danza",
+      "start_page_pre_offset": 29685,
+      "start_page_post_offset": 638,
+      "end_page_pre_offset": 29697,
+      "end_page_post_offset": 650
+    },
+    {
+      "titulo": "Historia del Arte",
+      "start_page_pre_offset": 29697,
+      "start_page_post_offset": 650,
+      "end_page_pre_offset": 29721,
+      "end_page_post_offset": 674
+    },
+    {
+      "titulo": "Historia del Mundo Contemporáneo",
+      "start_page_pre_offset": 29721,
+      "start_page_post_offset": 674,
+      "end_page_pre_offset": 29742,
+      "end_page_post_offset": 695
+    }
+  ]
+}
