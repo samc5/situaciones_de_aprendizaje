@@ -1,0 +1,526 @@
+{
+  "lista_materias": [
+    "PRIMERA LENGUA EXTRANJERA",
+    "HISTORIA DE ESPAÑA",
+    "LENGUA VASCA Y LITERATURA Y LENGUA CASTELLANA Y LITERATURA",
+    "FILOSOFÍA",
+    "HISTORIA DE LA FILOSOFÍA",
+    "EDUCACIÓN FÍSICA EN BACHILLER",
+    "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+    "DIBUJO TÉCNICO APLICADO A LAS ARTES PLÁSTICAS Y AL DISEÑO",
+    "ANÁLISIS MUSICAL",
+    "ARTES ESCÉNICAS",
+    "FUNDAMENTOS ARTÍSTICOS",
+    "VOLUMEN",
+    "CORO Y TÉCNICA VOCAL",
+    "DISEÑO",
+    "CULTURA AUDIOVISUAL",
+    "LITERATURA DRAMÁTICA",
+    "DIBUJO ARTÍSTICO",
+    "LENGUAJE Y PRÁCTICA MUSICAL",
+    "PROYECTOS ARTÍSTICOS",
+    "BIOLOGÍA 2º BACHILLERATO",
+    "BIOLOGÍA, GEOLOGÍA Y CIENCIAS AMBIENTALES 1º BACHILLERATO",
+    "FÍSICA",
+    "FÍSICA Y QUÍMICA",
+    "GEOLOGÍA Y CIENCIAS AMBIENTALES 2º BACHILLERATO",
+    "QUÍMICA 2º BACHILLERATO",
+    "MATEMÁTICAS",
+    "TECNOLOGÍA E INGENIERÍA",
+    "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+    "MOVIMIENTOS CULTURALES Y ARTÍSTICOS",
+    "MATEMÁTICAS GENERALES",
+    "CIENCIAS GENERALES 2º BACHILLER",
+    "HISTORIA DEL ARTE",
+    "GEOGRAFÍA",
+    "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+    "GRIEGO",
+    "LATÍN",
+    "LITERATURA UNIVERSAL",
+    "HISTORIA DEL MUNDO CONTEMPORÁNEO",
+    "FUNDAMENTOS DE ADMINISTRACIÓN Y GESTIÓN",
+    "COMUNICACIÓN ORAL EN LENGUA EXTRANJERA",
+    "ÁLGEBRA Y CÁLCULO",
+    "ANATOMÍA APLICADA 1º BACHILLERATO",
+    "FOTOGRAFÍA",
+    "SEGUNDA LENGUA EXTRANJERA",
+    "ELECTRÓNICA 1º BACHILLERATO",
+    "HISTORIA DE EUSKAL HERRIA",
+    "LITERATURA VASCA Y LITERATURA ESPAÑOLA DEL SIGLO XX",
+    "CONFLICTOS Y REALIDADES DEL MUNDO ACTUAL Y SU RELACIÓN CON LOS MEDIOS DE COMUNICACIÓN Y LAS REDES SOCIALES",
+    "FISIOLOGIA Y ANATOMIA HUMANA 2º BACHILLERATO",
+    "ANTROPOLOGÍA SOCIAL",
+    "TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN (TIC I Y TIC II)",
+    "IMAGEN Y SONIDO",
+    "ACTIVIDAD FÍSICA, OCIO Y SALUD",
+    "CULTURA CIENTÍFICA 1º BACHILLERATO",
+    "TÉCNICAS DE LABORATORIO 1º DE BACHILLERATO",
+    "CIENCIAS DE LA TIERRA Y DEL MEDIOAMBIENTE 2º BACHILLERATO",
+    "MECÁNICA 2º BACHILLERATO",
+    "INFORMÁTICA MUSICAL",
+    "HISTORIA DE LA MÚSICA Y DE LA DANZA",
+    "PINTURA",
+    "PSICOLOGÍA",
+    "DERECHO"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 506,
+      "start_page_post_offset": 506,
+      "end_page_pre_offset": 508,
+      "end_page_post_offset": 508,
+      "anexo_nombre": "ANEXO III AL DECRETO 76/2023, DE 30 DE MAYO SITUACIONES DE APRENDIZAJE"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 29,
+    "start_page_post_offset": 29,
+    "end_page_pre_offset": 40,
+    "end_page_post_offset": 40,
+    "anexo_nombre": "ANEXO I. Perfil de salida del alumnado y competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "PRIMERA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 41,
+      "start_page_post_offset": 41,
+      "end_page_pre_offset": 48,
+      "end_page_post_offset": 48
+    },
+    {
+      "titulo": "HISTORIA DE ESPAÑA",
+      "start_page_pre_offset": 49,
+      "start_page_post_offset": 49,
+      "end_page_pre_offset": 57,
+      "end_page_post_offset": 57
+    },
+    {
+      "titulo": "LENGUA VASCA Y LITERATURA Y LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 58,
+      "start_page_post_offset": 58,
+      "end_page_pre_offset": 70,
+      "end_page_post_offset": 70
+    },
+    {
+      "titulo": "FILOSOFÍA",
+      "start_page_pre_offset": 71,
+      "start_page_post_offset": 71,
+      "end_page_pre_offset": 79,
+      "end_page_post_offset": 79
+    },
+    {
+      "titulo": "HISTORIA DE LA FILOSOFÍA",
+      "start_page_pre_offset": 80,
+      "start_page_post_offset": 80,
+      "end_page_pre_offset": 89,
+      "end_page_post_offset": 89
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA EN BACHILLER",
+      "start_page_pre_offset": 90,
+      "start_page_post_offset": 90,
+      "end_page_pre_offset": 98,
+      "end_page_post_offset": 98
+    },
+    {
+      "titulo": "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+      "start_page_pre_offset": 99,
+      "start_page_post_offset": 99,
+      "end_page_pre_offset": 103,
+      "end_page_post_offset": 103
+    },
+    {
+      "titulo": "DIBUJO TÉCNICO APLICADO A LAS ARTES PLÁSTICAS Y AL DISEÑO",
+      "start_page_pre_offset": 104,
+      "start_page_post_offset": 104,
+      "end_page_pre_offset": 109,
+      "end_page_post_offset": 109
+    },
+    {
+      "titulo": "ANÁLISIS MUSICAL",
+      "start_page_pre_offset": 110,
+      "start_page_post_offset": 110,
+      "end_page_pre_offset": 114,
+      "end_page_post_offset": 114
+    },
+    {
+      "titulo": "ARTES ESCÉNICAS",
+      "start_page_pre_offset": 115,
+      "start_page_post_offset": 115,
+      "end_page_pre_offset": 121,
+      "end_page_post_offset": 121
+    },
+    {
+      "titulo": "FUNDAMENTOS ARTÍSTICOS",
+      "start_page_pre_offset": 122,
+      "start_page_post_offset": 122,
+      "end_page_pre_offset": 126,
+      "end_page_post_offset": 126
+    },
+    {
+      "titulo": "VOLUMEN",
+      "start_page_pre_offset": 127,
+      "start_page_post_offset": 127,
+      "end_page_pre_offset": 132,
+      "end_page_post_offset": 132
+    },
+    {
+      "titulo": "CORO Y TÉCNICA VOCAL",
+      "start_page_pre_offset": 133,
+      "start_page_post_offset": 133,
+      "end_page_pre_offset": 138,
+      "end_page_post_offset": 138
+    },
+    {
+      "titulo": "DISEÑO",
+      "start_page_pre_offset": 139,
+      "start_page_post_offset": 139,
+      "end_page_pre_offset": 145,
+      "end_page_post_offset": 145
+    },
+    {
+      "titulo": "CULTURA AUDIOVISUAL",
+      "start_page_pre_offset": 146,
+      "start_page_post_offset": 146,
+      "end_page_pre_offset": 151,
+      "end_page_post_offset": 151
+    },
+    {
+      "titulo": "LITERATURA DRAMÁTICA",
+      "start_page_pre_offset": 152,
+      "start_page_post_offset": 152,
+      "end_page_pre_offset": 158,
+      "end_page_post_offset": 158
+    },
+    {
+      "titulo": "DIBUJO ARTÍSTICO",
+      "start_page_pre_offset": 159,
+      "start_page_post_offset": 159,
+      "end_page_pre_offset": 168,
+      "end_page_post_offset": 168
+    },
+    {
+      "titulo": "LENGUAJE Y PRÁCTICA MUSICAL",
+      "start_page_pre_offset": 169,
+      "start_page_post_offset": 169,
+      "end_page_pre_offset": 172,
+      "end_page_post_offset": 172
+    },
+    {
+      "titulo": "PROYECTOS ARTÍSTICOS",
+      "start_page_pre_offset": 173,
+      "start_page_post_offset": 173,
+      "end_page_pre_offset": 179,
+      "end_page_post_offset": 179
+    },
+    {
+      "titulo": "BIOLOGÍA 2º BACHILLERATO",
+      "start_page_pre_offset": 180,
+      "start_page_post_offset": 180,
+      "end_page_pre_offset": 184,
+      "end_page_post_offset": 184
+    },
+    {
+      "titulo": "BIOLOGÍA, GEOLOGÍA Y CIENCIAS AMBIENTALES 1º BACHILLERATO",
+      "start_page_pre_offset": 185,
+      "start_page_post_offset": 185,
+      "end_page_pre_offset": 192,
+      "end_page_post_offset": 192
+    },
+    {
+      "titulo": "FÍSICA",
+      "start_page_pre_offset": 193,
+      "start_page_post_offset": 193,
+      "end_page_pre_offset": 198,
+      "end_page_post_offset": 198
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 199,
+      "start_page_post_offset": 199,
+      "end_page_pre_offset": 205,
+      "end_page_post_offset": 205
+    },
+    {
+      "titulo": "GEOLOGÍA Y CIENCIAS AMBIENTALES 2º BACHILLERATO",
+      "start_page_pre_offset": 206,
+      "start_page_post_offset": 206,
+      "end_page_pre_offset": 212,
+      "end_page_post_offset": 212
+    },
+    {
+      "titulo": "QUÍMICA 2º BACHILLERATO",
+      "start_page_pre_offset": 213,
+      "start_page_post_offset": 213,
+      "end_page_pre_offset": 220,
+      "end_page_post_offset": 220
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 221,
+      "start_page_post_offset": 221,
+      "end_page_pre_offset": 231,
+      "end_page_post_offset": 231
+    },
+    {
+      "titulo": "DIBUJO TÉCNICO",
+      "start_page_pre_offset": 232,
+      "start_page_post_offset": 232,
+      "end_page_pre_offset": 237,
+      "end_page_post_offset": 237
+    },
+    {
+      "titulo": "TECNOLOGÍA E INGENIERÍA",
+      "start_page_pre_offset": 238,
+      "start_page_post_offset": 238,
+      "end_page_pre_offset": 245,
+      "end_page_post_offset": 245
+    },
+    {
+      "titulo": "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+      "start_page_pre_offset": 246,
+      "start_page_post_offset": 246,
+      "end_page_pre_offset": 250,
+      "end_page_post_offset": 250
+    },
+    {
+      "titulo": "MOVIMIENTOS CULTURALES Y ARTÍSTICOS",
+      "start_page_pre_offset": 251,
+      "start_page_post_offset": 251,
+      "end_page_pre_offset": 260,
+      "end_page_post_offset": 260
+    },
+    {
+      "titulo": "MATEMÁTICAS GENERALES",
+      "start_page_pre_offset": 261,
+      "start_page_post_offset": 261,
+      "end_page_pre_offset": 268,
+      "end_page_post_offset": 268
+    },
+    {
+      "titulo": "CIENCIAS GENERALES 2º BACHILLER",
+      "start_page_pre_offset": 269,
+      "start_page_post_offset": 269,
+      "end_page_pre_offset": 274,
+      "end_page_post_offset": 274
+    },
+    {
+      "titulo": "HISTORIA DEL ARTE",
+      "start_page_pre_offset": 275,
+      "start_page_post_offset": 275,
+      "end_page_pre_offset": 284,
+      "end_page_post_offset": 284
+    },
+    {
+      "titulo": "GEOGRAFÍA",
+      "start_page_pre_offset": 297,
+      "start_page_post_offset": 297,
+      "end_page_pre_offset": 303,
+      "end_page_post_offset": 303
+    },
+    {
+      "titulo": "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+      "start_page_pre_offset": 304,
+      "start_page_post_offset": 304,
+      "end_page_pre_offset": 313,
+      "end_page_post_offset": 313
+    },
+    {
+      "titulo": "GRIEGO",
+      "start_page_pre_offset": 314,
+      "start_page_post_offset": 314,
+      "end_page_pre_offset": 322,
+      "end_page_post_offset": 322
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 322,
+      "start_page_post_offset": 322,
+      "end_page_pre_offset": 330,
+      "end_page_post_offset": 330
+    },
+    {
+      "titulo": "LITERATURA UNIVERSAL",
+      "start_page_pre_offset": 330,
+      "start_page_post_offset": 330,
+      "end_page_pre_offset": 336,
+      "end_page_post_offset": 336
+    },
+    {
+      "titulo": "HISTORIA DEL MUNDO CONTEMPORÁNEO",
+      "start_page_pre_offset": 337,
+      "start_page_post_offset": 337,
+      "end_page_pre_offset": 348,
+      "end_page_post_offset": 348
+    },
+    {
+      "titulo": "FUNDAMENTOS DE ADMINISTRACIÓN Y GESTIÓN",
+      "start_page_pre_offset": 349,
+      "start_page_post_offset": 349,
+      "end_page_pre_offset": 354,
+      "end_page_post_offset": 354
+    },
+    {
+      "titulo": "COMUNICACIÓN ORAL EN LENGUA EXTRANJERA",
+      "start_page_pre_offset": 355,
+      "start_page_post_offset": 355,
+      "end_page_pre_offset": 362,
+      "end_page_post_offset": 362
+    },
+    {
+      "titulo": "ÁLGEBRA Y CÁLCULO",
+      "start_page_pre_offset": 363,
+      "start_page_post_offset": 363,
+      "end_page_pre_offset": 368,
+      "end_page_post_offset": 368
+    },
+    {
+      "titulo": "ANATOMÍA APLICADA 1º BACHILLERATO",
+      "start_page_pre_offset": 369,
+      "start_page_post_offset": 369,
+      "end_page_pre_offset": 373,
+      "end_page_post_offset": 373
+    },
+    {
+      "titulo": "FOTOGRAFÍA",
+      "start_page_pre_offset": 374,
+      "start_page_post_offset": 374,
+      "end_page_pre_offset": 379,
+      "end_page_post_offset": 379
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 380,
+      "start_page_post_offset": 380,
+      "end_page_pre_offset": 387,
+      "end_page_post_offset": 387
+    },
+    {
+      "titulo": "ELECTRÓNICA 1º BACHILLERATO",
+      "start_page_pre_offset": 388,
+      "start_page_post_offset": 388,
+      "end_page_pre_offset": 394,
+      "end_page_post_offset": 394
+    },
+    {
+      "titulo": "HISTORIA DE EUSKAL HERRIA",
+      "start_page_pre_offset": 395,
+      "start_page_post_offset": 395,
+      "end_page_pre_offset": 404,
+      "end_page_post_offset": 404
+    },
+    {
+      "titulo": "LITERATURA VASCA Y LITERATURA ESPAÑOLA DEL SIGLO XX",
+      "start_page_pre_offset": 405,
+      "start_page_post_offset": 405,
+      "end_page_pre_offset": 413,
+      "end_page_post_offset": 413
+    },
+    {
+      "titulo": "CONFLICTOS Y REALIDADES DEL MUNDO ACTUAL Y SU RELACIÓN CON LOS MEDIOS DE COMUNICACIÓN Y LAS REDES SOCIALES",
+      "start_page_pre_offset": 413,
+      "start_page_post_offset": 413,
+      "end_page_pre_offset": 420,
+      "end_page_post_offset": 420
+    },
+    {
+      "titulo": "FISIOLOGIA Y ANATOMIA HUMANA 2º BACHILLERATO",
+      "start_page_pre_offset": 421,
+      "start_page_post_offset": 421,
+      "end_page_pre_offset": 426,
+      "end_page_post_offset": 426
+    },
+    {
+      "titulo": "ANTROPOLOGÍA SOCIAL",
+      "start_page_pre_offset": 427,
+      "start_page_post_offset": 427,
+      "end_page_pre_offset": 432,
+      "end_page_post_offset": 432
+    },
+    {
+      "titulo": "TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN (TIC I Y TIC II)",
+      "start_page_pre_offset": 433,
+      "start_page_post_offset": 433,
+      "end_page_pre_offset": 440,
+      "end_page_post_offset": 440
+    },
+    {
+      "titulo": "IMAGEN Y SONIDO",
+      "start_page_pre_offset": 441,
+      "start_page_post_offset": 441,
+      "end_page_pre_offset": 447,
+      "end_page_post_offset": 447
+    },
+    {
+      "titulo": "ACTIVIDAD FÍSICA, OCIO Y SALUD",
+      "start_page_pre_offset": 448,
+      "start_page_post_offset": 448,
+      "end_page_pre_offset": 453,
+      "end_page_post_offset": 453
+    },
+    {
+      "titulo": "CULTURA CIENTÍFICA 1º BACHILLERATO",
+      "start_page_pre_offset": 453,
+      "start_page_post_offset": 453,
+      "end_page_pre_offset": 458,
+      "end_page_post_offset": 458
+    },
+    {
+      "titulo": "TÉCNICAS DE LABORATORIO 1º DE BACHILLERATO",
+      "start_page_pre_offset": 459,
+      "start_page_post_offset": 459,
+      "end_page_pre_offset": 464,
+      "end_page_post_offset": 464
+    },
+    {
+      "titulo": "CIENCIAS DE LA TIERRA Y DEL MEDIOAMBIENTE 2º BACHILLERATO",
+      "start_page_pre_offset": 465,
+      "start_page_post_offset": 465,
+      "end_page_pre_offset": 471,
+      "end_page_post_offset": 471
+    },
+    {
+      "titulo": "MECÁNICA 2º BACHILLERATO",
+      "start_page_pre_offset": 472,
+      "start_page_post_offset": 472,
+      "end_page_pre_offset": 477,
+      "end_page_post_offset": 477
+    },
+    {
+      "titulo": "INFORMÁTICA MUSICAL",
+      "start_page_pre_offset": 478,
+      "start_page_post_offset": 478,
+      "end_page_pre_offset": 481,
+      "end_page_post_offset": 481
+    },
+    {
+      "titulo": "HISTORIA DE LA MÚSICA Y DE LA DANZA",
+      "start_page_pre_offset": 482,
+      "start_page_post_offset": 482,
+      "end_page_pre_offset": 486,
+      "end_page_post_offset": 486
+    },
+    {
+      "titulo": "PINTURA",
+      "start_page_pre_offset": 486,
+      "start_page_post_offset": 486,
+      "end_page_pre_offset": 490,
+      "end_page_post_offset": 490
+    },
+    {
+      "titulo": "PSICOLOGÍA",
+      "start_page_pre_offset": 491,
+      "start_page_post_offset": 491,
+      "end_page_pre_offset": 498,
+      "end_page_post_offset": 498
+    },
+    {
+      "titulo": "DERECHO",
+      "start_page_pre_offset": 499,
+      "start_page_post_offset": 499,
+      "end_page_pre_offset": 505,
+      "end_page_post_offset": 505
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Cultura Clásica",
+    "Digitalización",
+    "Economía y Emprendimiento",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Expresión Artística",
+    "Filosofía",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Lengua Gallega y Literatura",
+    "Matemáticas",
+    "Música",
+    "Oratoria",
+    "Proyecto Competencial",
+    "Segunda Lengua Extranjera",
+    "Tecnología y Digitalización",
+    "Geografía e Historia",
+    "Ámbito Científico-Tecnológico",
+    "Ámbito Lingüístico y Social"
+  ],
+  "offset": -50009,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 50030,
+      "start_page_post_offset": 21,
+      "end_page_pre_offset": 50031,
+      "end_page_post_offset": 22,
+      "anexo_nombre": "Principios pedagógicos (Diseño de actividades y situaciones de aprendizaje)"
+    },
+    {
+      "start_page_pre_offset": 50387,
+      "start_page_post_offset": 378,
+      "end_page_pre_offset": 50396,
+      "end_page_post_offset": 387,
+      "anexo_nombre": "Proyecto Competencial (Currículo y Orientaciones para el diseño de proyectos)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 50056,
+    "start_page_post_offset": 47,
+    "end_page_pre_offset": 50068,
+    "end_page_post_offset": 59,
+    "anexo_nombre": "ANEXO I Perfil de salida del alumnado al acabar la enseñanza básica / Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 50069,
+      "start_page_post_offset": 60,
+      "end_page_pre_offset": 50090,
+      "end_page_post_offset": 81
+    },
+    {
+      "titulo": "Cultura Clásica",
+      "start_page_pre_offset": 50091,
+      "start_page_post_offset": 82,
+      "end_page_pre_offset": 50100,
+      "end_page_post_offset": 91
+    },
+    {
+      "titulo": "Digitalización",
+      "start_page_pre_offset": 50101,
+      "start_page_post_offset": 92,
+      "end_page_pre_offset": 50110,
+      "end_page_post_offset": 101
+    },
+    {
+      "titulo": "Economía y Emprendimiento",
+      "start_page_pre_offset": 50111,
+      "start_page_post_offset": 102,
+      "end_page_pre_offset": 50129,
+      "end_page_post_offset": 120
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 50130,
+      "start_page_post_offset": 121,
+      "end_page_pre_offset": 50139,
+      "end_page_post_offset": 130
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 50140,
+      "start_page_post_offset": 131,
+      "end_page_pre_offset": 50166,
+      "end_page_post_offset": 157
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 50167,
+      "start_page_post_offset": 158,
+      "end_page_pre_offset": 50178,
+      "end_page_post_offset": 169
+    },
+    {
+      "titulo": "Expresión Artística",
+      "start_page_pre_offset": 50179,
+      "start_page_post_offset": 170,
+      "end_page_pre_offset": 50187,
+      "end_page_post_offset": 178
+    },
+    {
+      "titulo": "Filosofía",
+      "start_page_pre_offset": 50188,
+      "start_page_post_offset": 179,
+      "end_page_pre_offset": 50199,
+      "end_page_post_offset": 190
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 50200,
+      "start_page_post_offset": 191,
+      "end_page_pre_offset": 50218,
+      "end_page_post_offset": 209
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 50219,
+      "start_page_post_offset": 210,
+      "end_page_pre_offset": 50231,
+      "end_page_post_offset": 222
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 50232,
+      "start_page_post_offset": 223,
+      "end_page_pre_offset": 50241,
+      "end_page_post_offset": 232
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 50242,
+      "start_page_post_offset": 233,
+      "end_page_pre_offset": 50275,
+      "end_page_post_offset": 266
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 50276,
+      "start_page_post_offset": 267,
+      "end_page_pre_offset": 50298,
+      "end_page_post_offset": 289
+    },
+    {
+      "titulo": "Lengua Gallega y Literatura",
+      "start_page_pre_offset": 50299,
+      "start_page_post_offset": 290,
+      "end_page_pre_offset": 50328,
+      "end_page_post_offset": 319
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 50329,
+      "start_page_post_offset": 320,
+      "end_page_pre_offset": 50360,
+      "end_page_post_offset": 351
+    },
+    {
+      "titulo": "Música",
+      "start_page_pre_offset": 50361,
+      "start_page_post_offset": 352,
+      "end_page_pre_offset": 50376,
+      "end_page_post_offset": 367
+    },
+    {
+      "titulo": "Oratoria",
+      "start_page_pre_offset": 50377,
+      "start_page_post_offset": 368,
+      "end_page_pre_offset": 50386,
+      "end_page_post_offset": 377
+    },
+    {
+      "titulo": "Proyecto Competencial",
+      "start_page_pre_offset": 50387,
+      "start_page_post_offset": 378,
+      "end_page_pre_offset": 50396,
+      "end_page_post_offset": 387
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 50403,
+      "start_page_post_offset": 394,
+      "end_page_pre_offset": 50437,
+      "end_page_post_offset": 428
+    },
+    {
+      "titulo": "Tecnología y Digitalización",
+      "start_page_pre_offset": 50438,
+      "start_page_post_offset": 429,
+      "end_page_pre_offset": 50452,
+      "end_page_post_offset": 443
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 50453,
+      "start_page_post_offset": 444,
+      "end_page_pre_offset": 50479,
+      "end_page_post_offset": 470
+    },
+    {
+      "titulo": "Ámbito Científico-Tecnológico",
+      "start_page_pre_offset": 50480,
+      "start_page_post_offset": 471,
+      "end_page_pre_offset": 50494,
+      "end_page_post_offset": 485
+    },
+    {
+      "titulo": "Ámbito Lingüístico y Social",
+      "start_page_pre_offset": 50495,
+      "start_page_post_offset": 486,
+      "end_page_pre_offset": 50528,
+      "end_page_post_offset": 519
+    }
+  ]
+}

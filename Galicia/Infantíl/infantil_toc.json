@@ -1,0 +1,54 @@
+{
+  "lista_materias": [
+    "Comunicación y Representación de la Realidad",
+    "Crecimiento en Armonía",
+    "Descubrimiento y Exploración del Entorno"
+  ],
+  "offset": 47983,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 47995,
+      "start_page_post_offset": 12,
+      "end_page_pre_offset": 47996,
+      "end_page_post_offset": 13,
+      "anexo_nombre": "Concreción curricular (Article 13)"
+    },
+    {
+      "start_page_pre_offset": 47996,
+      "start_page_post_offset": 13,
+      "end_page_pre_offset": 47997,
+      "end_page_post_offset": 14,
+      "anexo_nombre": "Programaciones didácticas (Article 14)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 48008,
+    "start_page_post_offset": 25,
+    "end_page_pre_offset": 48013,
+    "end_page_post_offset": 30,
+    "anexo_nombre": "ANEXO I Competencias clave de la educación infantil"
+  },
+  "materias": [
+    {
+      "titulo": "Comunicación y Representación de la Realidad",
+      "start_page_pre_offset": 48013,
+      "start_page_post_offset": 30,
+      "end_page_pre_offset": 48030,
+      "end_page_post_offset": 47
+    },
+    {
+      "titulo": "Crecimiento en Armonía",
+      "start_page_pre_offset": 48031,
+      "start_page_post_offset": 48,
+      "end_page_pre_offset": 48044,
+      "end_page_post_offset": 61
+    },
+    {
+      "titulo": "Descubrimiento y Exploración del Entorno",
+      "start_page_pre_offset": 48045,
+      "start_page_post_offset": 62,
+      "end_page_pre_offset": 48056,
+      "end_page_post_offset": 73
+    }
+  ]
+}

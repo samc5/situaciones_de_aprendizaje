@@ -1,0 +1,303 @@
+{
+  "lista_materias": [
+    "ANÁLISIS MUSICAL",
+    "ARTES ESCÉNICAS",
+    "BIOLOGÍA",
+    "BIOLOGÍA, GEOLOGÍA Y CIENCIAS AMBIENTALES",
+    "CIENCIAS GENERALES",
+    "CORO Y TÉCNICA VOCAL",
+    "CULTURA AUDIOVISUAL",
+    "DIBUJO ARTÍSTICO",
+    "DIBUJO TÉCNICO",
+    "DIBUJO TÉCNICO APLICADO A LAS ARTES PLÁSTICAS Y AL DISEÑO",
+    "DISEÑO",
+    "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+    "FILOSOFÍA",
+    "FÍSICA",
+    "FÍSICA Y QUÍMICA",
+    "GEOGRAFÍA",
+    "GRIEGO",
+    "HISTORIA DEL ARTE",
+    "HISTORIA DE ESPAÑA",
+    "HISTORIA DE LA FILOSOFÍA",
+    "HISTORIA DE LA MÚSICA Y DE LA DANZA",
+    "LATÍN",
+    "LENGUA CASTELLANA Y LITERATURA",
+    "LENGUA EXTRANJERA",
+    "LITERATURA DRAMÁTICA",
+    "LITERATURA UNIVERSAL",
+    "MATEMÁTICAS",
+    "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+    "MATEMÁTICAS GENERALES",
+    "MOVIMIENTOS CULTURALES Y ARTÍSTICOS",
+    "PROYECTOS ARTÍSTICOS",
+    "QUÍMICA",
+    "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+    "TECNOLOGÍA E INGENIERÍA",
+    "VOLUMEN"
+  ],
+  "offset": 13,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 34,
+      "start_page_post_offset": 21,
+      "end_page_pre_offset": 394,
+      "end_page_post_offset": 381,
+      "anexo_nombre": "ANEXO II Currículo de materias de Bachillerato (Incluye orientaciones metodológicas para el diseño de situaciones de aprendizaje en preámbulos)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 21,
+    "start_page_post_offset": 8,
+    "end_page_pre_offset": 21,
+    "end_page_post_offset": 8,
+    "anexo_nombre": "Competencias clave (Artículo 18)"
+  },
+  "materias": [
+    {
+      "titulo": "ANÁLISIS MUSICAL",
+      "start_page_pre_offset": 34,
+      "start_page_post_offset": 21,
+      "end_page_pre_offset": 40,
+      "end_page_post_offset": 27
+    },
+    {
+      "titulo": "ARTES ESCÉNICAS",
+      "start_page_pre_offset": 41,
+      "start_page_post_offset": 28,
+      "end_page_pre_offset": 48,
+      "end_page_post_offset": 35
+    },
+    {
+      "titulo": "BIOLOGÍA",
+      "start_page_pre_offset": 49,
+      "start_page_post_offset": 36,
+      "end_page_pre_offset": 54,
+      "end_page_post_offset": 41
+    },
+    {
+      "titulo": "BIOLOGÍA, GEOLOGÍA Y CIENCIAS AMBIENTALES",
+      "start_page_pre_offset": 55,
+      "start_page_post_offset": 42,
+      "end_page_pre_offset": 62,
+      "end_page_post_offset": 49
+    },
+    {
+      "titulo": "CIENCIAS GENERALES",
+      "start_page_pre_offset": 63,
+      "start_page_post_offset": 50,
+      "end_page_pre_offset": 69,
+      "end_page_post_offset": 56
+    },
+    {
+      "titulo": "CORO Y TÉCNICA VOCAL",
+      "start_page_pre_offset": 70,
+      "start_page_post_offset": 57,
+      "end_page_pre_offset": 74,
+      "end_page_post_offset": 61
+    },
+    {
+      "titulo": "CULTURA AUDIOVISUAL",
+      "start_page_pre_offset": 75,
+      "start_page_post_offset": 62,
+      "end_page_pre_offset": 82,
+      "end_page_post_offset": 69
+    },
+    {
+      "titulo": "DIBUJO ARTÍSTICO",
+      "start_page_pre_offset": 83,
+      "start_page_post_offset": 70,
+      "end_page_pre_offset": 93,
+      "end_page_post_offset": 80
+    },
+    {
+      "titulo": "DIBUJO TÉCNICO",
+      "start_page_pre_offset": 94,
+      "start_page_post_offset": 81,
+      "end_page_pre_offset": 101,
+      "end_page_post_offset": 88
+    },
+    {
+      "titulo": "DIBUJO TÉCNICO APLICADO A LAS ARTES PLÁSTICAS Y AL DISEÑO",
+      "start_page_pre_offset": 102,
+      "start_page_post_offset": 89,
+      "end_page_pre_offset": 108,
+      "end_page_post_offset": 95
+    },
+    {
+      "titulo": "DISEÑO",
+      "start_page_pre_offset": 109,
+      "start_page_post_offset": 96,
+      "end_page_pre_offset": 122,
+      "end_page_post_offset": 109
+    },
+    {
+      "titulo": "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+      "start_page_pre_offset": 123,
+      "start_page_post_offset": 110,
+      "end_page_pre_offset": 142,
+      "end_page_post_offset": 129
+    },
+    {
+      "titulo": "FILOSOFÍA",
+      "start_page_pre_offset": 143,
+      "start_page_post_offset": 130,
+      "end_page_pre_offset": 151,
+      "end_page_post_offset": 138
+    },
+    {
+      "titulo": "FÍSICA",
+      "start_page_pre_offset": 152,
+      "start_page_post_offset": 139,
+      "end_page_pre_offset": 157,
+      "end_page_post_offset": 144
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 158,
+      "start_page_post_offset": 145,
+      "end_page_pre_offset": 180,
+      "end_page_post_offset": 167
+    },
+    {
+      "titulo": "GEOGRAFÍA",
+      "start_page_pre_offset": 181,
+      "start_page_post_offset": 168,
+      "end_page_pre_offset": 187,
+      "end_page_post_offset": 174
+    },
+    {
+      "titulo": "GRIEGO",
+      "start_page_pre_offset": 188,
+      "start_page_post_offset": 175,
+      "end_page_pre_offset": 200,
+      "end_page_post_offset": 187
+    },
+    {
+      "titulo": "HISTORIA DEL ARTE",
+      "start_page_pre_offset": 201,
+      "start_page_post_offset": 188,
+      "end_page_pre_offset": 210,
+      "end_page_post_offset": 197
+    },
+    {
+      "titulo": "HISTORIA DE ESPAÑA",
+      "start_page_pre_offset": 211,
+      "start_page_post_offset": 198,
+      "end_page_pre_offset": 219,
+      "end_page_post_offset": 206
+    },
+    {
+      "titulo": "HISTORIA DE LA FILOSOFÍA",
+      "start_page_pre_offset": 220,
+      "start_page_post_offset": 207,
+      "end_page_pre_offset": 238,
+      "end_page_post_offset": 225
+    },
+    {
+      "titulo": "HISTORIA DE LA MÚSICA Y DE LA DANZA",
+      "start_page_pre_offset": 239,
+      "start_page_post_offset": 226,
+      "end_page_pre_offset": 244,
+      "end_page_post_offset": 231
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 245,
+      "start_page_post_offset": 232,
+      "end_page_pre_offset": 258,
+      "end_page_post_offset": 245
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 259,
+      "start_page_post_offset": 246,
+      "end_page_pre_offset": 276,
+      "end_page_post_offset": 263
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 277,
+      "start_page_post_offset": 264,
+      "end_page_pre_offset": 302,
+      "end_page_post_offset": 289
+    },
+    {
+      "titulo": "LITERATURA DRAMÁTICA",
+      "start_page_pre_offset": 303,
+      "start_page_post_offset": 290,
+      "end_page_pre_offset": 310,
+      "end_page_post_offset": 297
+    },
+    {
+      "titulo": "LITERATURA UNIVERSAL",
+      "start_page_pre_offset": 311,
+      "start_page_post_offset": 298,
+      "end_page_pre_offset": 319,
+      "end_page_post_offset": 306
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 320,
+      "start_page_post_offset": 307,
+      "end_page_pre_offset": 332,
+      "end_page_post_offset": 319
+    },
+    {
+      "titulo": "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+      "start_page_pre_offset": 333,
+      "start_page_post_offset": 320,
+      "end_page_pre_offset": 344,
+      "end_page_post_offset": 331
+    },
+    {
+      "titulo": "MATEMÁTICAS GENERALES",
+      "start_page_pre_offset": 345,
+      "start_page_post_offset": 332,
+      "end_page_pre_offset": 352,
+      "end_page_post_offset": 339
+    },
+    {
+      "titulo": "MOVIMIENTOS CULTURALES Y ARTÍSTICOS",
+      "start_page_pre_offset": 353,
+      "start_page_post_offset": 340,
+      "end_page_pre_offset": 358,
+      "end_page_post_offset": 345
+    },
+    {
+      "titulo": "PROYECTOS ARTÍSTICOS",
+      "start_page_pre_offset": 359,
+      "start_page_post_offset": 346,
+      "end_page_pre_offset": 364,
+      "end_page_post_offset": 351
+    },
+    {
+      "titulo": "QUÍMICA",
+      "start_page_pre_offset": 365,
+      "start_page_post_offset": 352,
+      "end_page_pre_offset": 371,
+      "end_page_post_offset": 358
+    },
+    {
+      "titulo": "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+      "start_page_pre_offset": 372,
+      "start_page_post_offset": 359,
+      "end_page_pre_offset": 378,
+      "end_page_post_offset": 365
+    },
+    {
+      "titulo": "TECNOLOGÍA E INGENIERÍA",
+      "start_page_pre_offset": 379,
+      "start_page_post_offset": 366,
+      "end_page_pre_offset": 387,
+      "end_page_post_offset": 374
+    },
+    {
+      "titulo": "VOLUMEN",
+      "start_page_pre_offset": 388,
+      "start_page_post_offset": 375,
+      "end_page_pre_offset": 394,
+      "end_page_post_offset": 381
+    }
+  ]
+}

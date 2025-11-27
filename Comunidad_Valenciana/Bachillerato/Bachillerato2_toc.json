@@ -1,0 +1,311 @@
+{
+  "lista_materias": [
+    "DISEÑO",
+    "ECONOMÍA",
+    "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+    "EDUCACIÓN FÍSICA",
+    "FILOSOFÍA",
+    "FÍSICA Y QUÍMICA",
+    "FUNDAMENTOS ARTÍSTICOS",
+    "GEOGRAFÍA E HISTORIA VALENCIANAS",
+    "GRIEGO I y II",
+    "HISTORIA DE LA FILOSOFÍA",
+    "HISTORIA DE LA MÚSICA Y LA DANZA",
+    "HISTORIA DEL ARTE",
+    "HISTORIA DEL MUNDO CONTEMPORÁNEO",
+    "LENGUA CASTELLANA Y LITERATURA I y II",
+    "LATÍN I y II",
+    "VALENCIANO: LENGUA Y LITERATURA I y II",
+    "LENGUA EXTRANJERA I y II",
+    "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+    "MATEMÁTICAS GENERALES",
+    "MATEMÁTICAS I y II",
+    "MOVIMIENTOS CULTURALES Y ARTÍSTICOS",
+    "PROYECTOS ARTÍSTICOS",
+    "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+    "TECNOLOGÍA E INGENIERÍA",
+    "VOLUMEN",
+    "ACTIVIDAD FÍSICA PARA LA SALUD Y EL DESARROLLO PERSONAL",
+    "BIOLOGÍA HUMANA Y SALUD",
+    "COMUNICACIÓN AUDIOVISUAL",
+    "CULTURA JURÍDICA Y DEMOCRÁTICA",
+    "DESCUBRIENDO NUESTRAS RAÍCES CLÁSICAS",
+    "GESTIÓN DE PROYECTOS DE EMPRENDIMIENTO",
+    "IMAGEN Y SONIDO",
+    "PSICOLOGÍA",
+    "PRODUCCIÓN MUSICAL",
+    "PROGRAMACIÓN, REDES Y SISTEMAS INFORMÁTICOS",
+    "SEGUNDA LENGUA EXTRANJERA I y II"
+  ],
+  "offset": 43158,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 8,
+      "start_page_post_offset": 8,
+      "end_page_pre_offset": 9,
+      "end_page_post_offset": 9,
+      "anexo_nombre": "Definición y principios pedagógicos de las Situaciones de Aprendizaje (Artículos 2.6 y 6)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 38,
+    "start_page_post_offset": 38,
+    "end_page_pre_offset": 59,
+    "end_page_post_offset": 59,
+    "anexo_nombre": "Annex I. Competències clau en el batxillerat / Anexo I. Competencias clave en el Bachillerato"
+  },
+  "materias": [
+    {
+      "titulo": "DISEÑO",
+      "start_page_pre_offset": 61,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 73,
+      "end_page_post_offset": 73
+    },
+    {
+      "titulo": "ECONOMÍA",
+      "start_page_pre_offset": 74,
+      "start_page_post_offset": 74,
+      "end_page_pre_offset": 87,
+      "end_page_post_offset": 87
+    },
+    {
+      "titulo": "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+      "start_page_pre_offset": 88,
+      "start_page_post_offset": 88,
+      "end_page_pre_offset": 99,
+      "end_page_post_offset": 99
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 100,
+      "start_page_post_offset": 100,
+      "end_page_pre_offset": 122,
+      "end_page_post_offset": 122
+    },
+    {
+      "titulo": "FILOSOFÍA",
+      "start_page_pre_offset": 123,
+      "start_page_post_offset": 123,
+      "end_page_pre_offset": 137,
+      "end_page_post_offset": 137
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 138,
+      "start_page_post_offset": 138,
+      "end_page_pre_offset": 161,
+      "end_page_post_offset": 161
+    },
+    {
+      "titulo": "FUNDAMENTOS ARTÍSTICOS",
+      "start_page_pre_offset": 162,
+      "start_page_post_offset": 162,
+      "end_page_pre_offset": 171,
+      "end_page_post_offset": 171
+    },
+    {
+      "titulo": "GEOGRAFÍA E HISTORIA VALENCIANAS",
+      "start_page_pre_offset": 172,
+      "start_page_post_offset": 172,
+      "end_page_pre_offset": 184,
+      "end_page_post_offset": 184
+    },
+    {
+      "titulo": "GRIEGO I y II",
+      "start_page_pre_offset": 185,
+      "start_page_post_offset": 185,
+      "end_page_pre_offset": 198,
+      "end_page_post_offset": 198
+    },
+    {
+      "titulo": "HISTORIA DE LA FILOSOFÍA",
+      "start_page_pre_offset": 199,
+      "start_page_post_offset": 199,
+      "end_page_pre_offset": 211,
+      "end_page_post_offset": 211
+    },
+    {
+      "titulo": "HISTORIA DE LA MÚSICA Y LA DANZA",
+      "start_page_pre_offset": 212,
+      "start_page_post_offset": 212,
+      "end_page_pre_offset": 221,
+      "end_page_post_offset": 221
+    },
+    {
+      "titulo": "HISTORIA DEL ARTE",
+      "start_page_pre_offset": 222,
+      "start_page_post_offset": 222,
+      "end_page_pre_offset": 235,
+      "end_page_post_offset": 235
+    },
+    {
+      "titulo": "HISTORIA DEL MUNDO CONTEMPORÁNEO",
+      "start_page_pre_offset": 236,
+      "start_page_post_offset": 236,
+      "end_page_pre_offset": 253,
+      "end_page_post_offset": 253
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA I y II",
+      "start_page_pre_offset": 254,
+      "start_page_post_offset": 254,
+      "end_page_pre_offset": 290,
+      "end_page_post_offset": 290
+    },
+    {
+      "titulo": "LATÍN I y II",
+      "start_page_pre_offset": 291,
+      "start_page_post_offset": 291,
+      "end_page_pre_offset": 304,
+      "end_page_post_offset": 304
+    },
+    {
+      "titulo": "VALENCIANO: LENGUA Y LITERATURA I y II",
+      "start_page_pre_offset": 305,
+      "start_page_post_offset": 305,
+      "end_page_pre_offset": 341,
+      "end_page_post_offset": 341
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA I y II",
+      "start_page_pre_offset": 342,
+      "start_page_post_offset": 342,
+      "end_page_pre_offset": 372,
+      "end_page_post_offset": 372
+    },
+    {
+      "titulo": "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+      "start_page_pre_offset": 373,
+      "start_page_post_offset": 373,
+      "end_page_pre_offset": 391,
+      "end_page_post_offset": 391
+    },
+    {
+      "titulo": "MATEMÁTICAS GENERALES",
+      "start_page_pre_offset": 392,
+      "start_page_post_offset": 392,
+      "end_page_pre_offset": 410,
+      "end_page_post_offset": 410
+    },
+    {
+      "titulo": "MATEMÁTICAS I y II",
+      "start_page_pre_offset": 411,
+      "start_page_post_offset": 411,
+      "end_page_pre_offset": 433,
+      "end_page_post_offset": 433
+    },
+    {
+      "titulo": "MOVIMIENTOS CULTURALES Y ARTÍSTICOS",
+      "start_page_pre_offset": 434,
+      "start_page_post_offset": 434,
+      "end_page_pre_offset": 445,
+      "end_page_post_offset": 445
+    },
+    {
+      "titulo": "PROYECTOS ARTÍSTICOS",
+      "start_page_pre_offset": 446,
+      "start_page_post_offset": 446,
+      "end_page_pre_offset": 454,
+      "end_page_post_offset": 454
+    },
+    {
+      "titulo": "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+      "start_page_pre_offset": 455,
+      "start_page_post_offset": 455,
+      "end_page_pre_offset": 464,
+      "end_page_post_offset": 464
+    },
+    {
+      "titulo": "TECNOLOGÍA E INGENIERÍA",
+      "start_page_pre_offset": 465,
+      "start_page_post_offset": 465,
+      "end_page_pre_offset": 485,
+      "end_page_post_offset": 485
+    },
+    {
+      "titulo": "VOLUMEN",
+      "start_page_pre_offset": 486,
+      "start_page_post_offset": 486,
+      "end_page_pre_offset": 496,
+      "end_page_post_offset": 496
+    },
+    {
+      "titulo": "ACTIVIDAD FÍSICA PARA LA SALUD Y EL DESARROLLO PERSONAL",
+      "start_page_pre_offset": 498,
+      "start_page_post_offset": 498,
+      "end_page_pre_offset": 510,
+      "end_page_post_offset": 510
+    },
+    {
+      "titulo": "BIOLOGÍA HUMANA Y SALUD",
+      "start_page_pre_offset": 510,
+      "start_page_post_offset": 510,
+      "end_page_pre_offset": 519,
+      "end_page_post_offset": 519
+    },
+    {
+      "titulo": "COMUNICACIÓN AUDIOVISUAL",
+      "start_page_pre_offset": 520,
+      "start_page_post_offset": 520,
+      "end_page_pre_offset": 530,
+      "end_page_post_offset": 530
+    },
+    {
+      "titulo": "CULTURA JURÍDICA Y DEMOCRÁTICA",
+      "start_page_pre_offset": 531,
+      "start_page_post_offset": 531,
+      "end_page_pre_offset": 542,
+      "end_page_post_offset": 542
+    },
+    {
+      "titulo": "DESCUBRIENDO NUESTRAS RAÍCES CLÁSICAS",
+      "start_page_pre_offset": 543,
+      "start_page_post_offset": 543,
+      "end_page_pre_offset": 565,
+      "end_page_post_offset": 565
+    },
+    {
+      "titulo": "GESTIÓN DE PROYECTOS DE EMPRENDIMIENTO",
+      "start_page_pre_offset": 566,
+      "start_page_post_offset": 566,
+      "end_page_pre_offset": 576,
+      "end_page_post_offset": 576
+    },
+    {
+      "titulo": "IMAGEN Y SONIDO",
+      "start_page_pre_offset": 577,
+      "start_page_post_offset": 577,
+      "end_page_pre_offset": 606,
+      "end_page_post_offset": 606
+    },
+    {
+      "titulo": "PSICOLOGÍA",
+      "start_page_pre_offset": 607,
+      "start_page_post_offset": 607,
+      "end_page_pre_offset": 621,
+      "end_page_post_offset": 621
+    },
+    {
+      "titulo": "PRODUCCIÓN MUSICAL",
+      "start_page_pre_offset": 622,
+      "start_page_post_offset": 622,
+      "end_page_pre_offset": 647,
+      "end_page_post_offset": 647
+    },
+    {
+      "titulo": "PROGRAMACIÓN, REDES Y SISTEMAS INFORMÁTICOS",
+      "start_page_pre_offset": 648,
+      "start_page_post_offset": 648,
+      "end_page_pre_offset": 776,
+      "end_page_post_offset": 776
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA I y II",
+      "start_page_pre_offset": 777,
+      "start_page_post_offset": 777,
+      "end_page_pre_offset": 803,
+      "end_page_post_offset": 803
+    }
+  ]
+}

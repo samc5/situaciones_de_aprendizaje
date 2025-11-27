@@ -1,0 +1,392 @@
+{
+  "lista_materias": [
+    "Economía y Emprendimiento",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Expresión Artística",
+    "Física y Química (2º/3º ESO)",
+    "Biología y Geología",
+    "Física y Química (ADENDA 4º ESO)",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Latín",
+    "Matemáticas",
+    "Música",
+    "Lengua Extranjera",
+    "Segunda Lengua Extranjera",
+    "Tecnología y Digitalización",
+    "Valenciano: Lengua y Literatura / Lengua Castellana y Literatura",
+    "Artes Escénicas",
+    "Creatividad Musical",
+    "Cultura Clásica",
+    "Emprendimiento Social y Sostenible",
+    "Filosofía",
+    "Laboratorio de Artes Escénicas",
+    "Laboratorio de Creación Audiovisual",
+    "Taller de Economía",
+    "Taller de Relaciones Digitales Responsables"
+  ],
+  "offset": 41751,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 65,
+      "start_page_post_offset": 41816,
+      "end_page_pre_offset": 66,
+      "end_page_post_offset": 41817,
+      "anexo_nombre": "Economía y Emprendimiento. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 71,
+      "start_page_post_offset": 41822,
+      "end_page_pre_offset": 72,
+      "end_page_post_offset": 41823,
+      "anexo_nombre": "Educación en Valores Cívicos y Éticos. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 111,
+      "start_page_post_offset": 41862,
+      "end_page_pre_offset": 112,
+      "end_page_post_offset": 41863,
+      "anexo_nombre": "Educación Física. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 129,
+      "start_page_post_offset": 41880,
+      "end_page_pre_offset": 130,
+      "end_page_post_offset": 41881,
+      "anexo_nombre": "Educación Plástica, Visual y Audiovisual. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 143,
+      "start_page_post_offset": 41894,
+      "end_page_pre_offset": 144,
+      "end_page_post_offset": 41895,
+      "anexo_nombre": "Expresión Artística. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 189,
+      "start_page_post_offset": 41940,
+      "end_page_pre_offset": 190,
+      "end_page_post_offset": 41941,
+      "anexo_nombre": "CMCT. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 220,
+      "start_page_post_offset": 41971,
+      "end_page_pre_offset": 221,
+      "end_page_post_offset": 41972,
+      "anexo_nombre": "Formación y Orientación Personal y Profesional. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 246,
+      "start_page_post_offset": 41997,
+      "end_page_pre_offset": 247,
+      "end_page_post_offset": 41998,
+      "anexo_nombre": "Geografía e Historia. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 262,
+      "start_page_post_offset": 42013,
+      "end_page_pre_offset": 263,
+      "end_page_post_offset": 42014,
+      "anexo_nombre": "Latín. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 289,
+      "start_page_post_offset": 42040,
+      "end_page_pre_offset": 290,
+      "end_page_post_offset": 42041,
+      "anexo_nombre": "Matemáticas. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 312,
+      "start_page_post_offset": 42063,
+      "end_page_pre_offset": 313,
+      "end_page_post_offset": 42064,
+      "anexo_nombre": "Música. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 339,
+      "start_page_post_offset": 42090,
+      "end_page_pre_offset": 340,
+      "end_page_post_offset": 42091,
+      "anexo_nombre": "Lengua Extranjera. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 359,
+      "start_page_post_offset": 42110,
+      "end_page_pre_offset": 360,
+      "end_page_post_offset": 42111,
+      "anexo_nombre": "Segunda Lengua Extranjera. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 386,
+      "start_page_post_offset": 42137,
+      "end_page_pre_offset": 387,
+      "end_page_post_offset": 42138,
+      "anexo_nombre": "Tecnología y Digitalización. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 417,
+      "start_page_post_offset": 42168,
+      "end_page_pre_offset": 419,
+      "end_page_post_offset": 42170,
+      "anexo_nombre": "Valenciano: Lengua y Literatura / Lengua Castellana y Literatura. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 439,
+      "start_page_post_offset": 42190,
+      "end_page_pre_offset": 441,
+      "end_page_post_offset": 42192,
+      "anexo_nombre": "Artes Escénicas. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 453,
+      "start_page_post_offset": 42204,
+      "end_page_pre_offset": 454,
+      "end_page_post_offset": 42205,
+      "anexo_nombre": "Creatividad Musical. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 467,
+      "start_page_post_offset": 42218,
+      "end_page_pre_offset": 468,
+      "end_page_post_offset": 42219,
+      "anexo_nombre": "Cultura Clásica. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 479,
+      "start_page_post_offset": 42230,
+      "end_page_pre_offset": 480,
+      "end_page_post_offset": 42231,
+      "anexo_nombre": "Emprendimiento Social y Sostenible. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 491,
+      "start_page_post_offset": 42242,
+      "end_page_pre_offset": 492,
+      "end_page_post_offset": 42243,
+      "anexo_nombre": "Filosofía. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 522,
+      "start_page_post_offset": 42273,
+      "end_page_pre_offset": 523,
+      "end_page_post_offset": 42274,
+      "anexo_nombre": "Laboratorio de Artes Escénicas. 4. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 532,
+      "start_page_post_offset": 42283,
+      "end_page_pre_offset": 534,
+      "end_page_post_offset": 42285,
+      "anexo_nombre": "Laboratorio de Creación Audiovisual. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 570,
+      "start_page_post_offset": 42321,
+      "end_page_pre_offset": 571,
+      "end_page_post_offset": 42322,
+      "anexo_nombre": "Taller de Economía. 5. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 584,
+      "start_page_post_offset": 42335,
+      "end_page_pre_offset": 585,
+      "end_page_post_offset": 42336,
+      "anexo_nombre": "Taller de Relaciones Digitales Responsables. 5. Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 42,
+    "start_page_post_offset": 41793,
+    "end_page_pre_offset": 51,
+    "end_page_post_offset": 41802,
+    "anexo_nombre": "Annex I. Competències clau / Anexo I. Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "ECONOMÍA Y EMPRENDIMIENTO",
+      "start_page_pre_offset": 55,
+      "start_page_post_offset": 41806,
+      "end_page_pre_offset": 69,
+      "end_page_post_offset": 41820
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+      "start_page_pre_offset": 70,
+      "start_page_post_offset": 41821,
+      "end_page_pre_offset": 90,
+      "end_page_post_offset": 41841
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 91,
+      "start_page_post_offset": 41842,
+      "end_page_pre_offset": 116,
+      "end_page_post_offset": 41867
+    },
+    {
+      "titulo": "EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL",
+      "start_page_pre_offset": 117,
+      "start_page_post_offset": 41868,
+      "end_page_pre_offset": 135,
+      "end_page_post_offset": 41886
+    },
+    {
+      "titulo": "EXPRESIÓN ARTÍSTICA",
+      "start_page_pre_offset": 136,
+      "start_page_post_offset": 41887,
+      "end_page_pre_offset": 146,
+      "end_page_post_offset": 41897
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA (2º/3º ESO)",
+      "start_page_pre_offset": 147,
+      "start_page_post_offset": 41898,
+      "end_page_pre_offset": 177,
+      "end_page_post_offset": 41928
+    },
+    {
+      "titulo": "BIOLOGÍA Y GEOLOGÍA",
+      "start_page_pre_offset": 178,
+      "start_page_post_offset": 41929,
+      "end_page_pre_offset": 197,
+      "end_page_post_offset": 41948
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA (ADENDA 4º ESO)",
+      "start_page_pre_offset": 198,
+      "start_page_post_offset": 41949,
+      "end_page_pre_offset": 208,
+      "end_page_post_offset": 41959
+    },
+    {
+      "titulo": "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+      "start_page_pre_offset": 209,
+      "start_page_post_offset": 41960,
+      "end_page_pre_offset": 223,
+      "end_page_post_offset": 41974
+    },
+    {
+      "titulo": "GEOGRAFÍA E HISTORIA",
+      "start_page_pre_offset": 224,
+      "start_page_post_offset": 41975,
+      "end_page_pre_offset": 253,
+      "end_page_post_offset": 42004
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 254,
+      "start_page_post_offset": 42005,
+      "end_page_pre_offset": 265,
+      "end_page_post_offset": 42016
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 266,
+      "start_page_post_offset": 42017,
+      "end_page_pre_offset": 295,
+      "end_page_post_offset": 42046
+    },
+    {
+      "titulo": "MÚSICA",
+      "start_page_pre_offset": 296,
+      "start_page_post_offset": 42047,
+      "end_page_pre_offset": 323,
+      "end_page_post_offset": 42074
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 324,
+      "start_page_post_offset": 42075,
+      "end_page_pre_offset": 339,
+      "end_page_post_offset": 42090
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 340,
+      "start_page_post_offset": 42091,
+      "end_page_pre_offset": 362,
+      "end_page_post_offset": 42113
+    },
+    {
+      "titulo": "TECNOLOGÍA Y DIGITALIZACIÓN",
+      "start_page_pre_offset": 363,
+      "start_page_post_offset": 42114,
+      "end_page_pre_offset": 392,
+      "end_page_post_offset": 42143
+    },
+    {
+      "titulo": "VALENCIANO: LENGUA Y LITERATURA / LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 393,
+      "start_page_post_offset": 42144,
+      "end_page_pre_offset": 425,
+      "end_page_post_offset": 42176
+    },
+    {
+      "titulo": "ARTES ESCÉNICAS",
+      "start_page_pre_offset": 427,
+      "start_page_post_offset": 42178,
+      "end_page_pre_offset": 443,
+      "end_page_post_offset": 42194
+    },
+    {
+      "titulo": "CREATIVIDAD MUSICAL",
+      "start_page_pre_offset": 444,
+      "start_page_post_offset": 42195,
+      "end_page_pre_offset": 456,
+      "end_page_post_offset": 42207
+    },
+    {
+      "titulo": "CULTURA CLÁSICA",
+      "start_page_pre_offset": 457,
+      "start_page_post_offset": 42208,
+      "end_page_pre_offset": 470,
+      "end_page_post_offset": 42221
+    },
+    {
+      "titulo": "EMPRENDIMIENTO SOCIAL Y SOSTENIBLE",
+      "start_page_pre_offset": 471,
+      "start_page_post_offset": 42222,
+      "end_page_pre_offset": 482,
+      "end_page_post_offset": 42233
+    },
+    {
+      "titulo": "FILOSOFÍA",
+      "start_page_pre_offset": 483,
+      "start_page_post_offset": 42234,
+      "end_page_pre_offset": 509,
+      "end_page_post_offset": 42260
+    },
+    {
+      "titulo": "LABORATORIO DE ARTES ESCÉNICAS",
+      "start_page_pre_offset": 510,
+      "start_page_post_offset": 42261,
+      "end_page_pre_offset": 524,
+      "end_page_post_offset": 42275
+    },
+    {
+      "titulo": "LABORATORIO DE CREACIÓN AUDIOVISUAL",
+      "start_page_pre_offset": 525,
+      "start_page_post_offset": 42276,
+      "end_page_pre_offset": 558,
+      "end_page_post_offset": 42309
+    },
+    {
+      "titulo": "TALLER DE ECONOMÍA",
+      "start_page_pre_offset": 559,
+      "start_page_post_offset": 42310,
+      "end_page_pre_offset": 573,
+      "end_page_post_offset": 42324
+    },
+    {
+      "titulo": "TALLER DE RELACIONES DIGITALES RESPONSABLES",
+      "start_page_pre_offset": 574,
+      "start_page_post_offset": 42325,
+      "end_page_pre_offset": 586,
+      "end_page_post_offset": 42337
+    }
+  ]
+}

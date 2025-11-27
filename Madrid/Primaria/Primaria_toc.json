@@ -1,0 +1,103 @@
+{
+  "lista_materias": [
+    "Ciencias de la Naturaleza",
+    "Ciencias Sociales",
+    "Educación Artística",
+    "Educación Física",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera: Inglés",
+    "Matemáticas",
+    "Educación en Valores Cívicos y Éticos",
+    "Segunda Lengua Extranjera",
+    "Tecnología y Robótica"
+  ],
+  "offset": 14,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 21,
+      "start_page_post_offset": 7,
+      "end_page_pre_offset": 21,
+      "end_page_post_offset": 7,
+      "anexo_nombre": "Artículo 13 Proyectos integrado"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 29,
+    "start_page_post_offset": 15,
+    "end_page_pre_offset": 31,
+    "end_page_post_offset": 17,
+    "anexo_nombre": "ANEXO I Perfil de salida"
+  },
+  "materias": [
+    {
+      "titulo": "Ciencias de la Naturaleza",
+      "start_page_pre_offset": 32,
+      "start_page_post_offset": 18,
+      "end_page_pre_offset": 41,
+      "end_page_post_offset": 27
+    },
+    {
+      "titulo": "Ciencias Sociales",
+      "start_page_pre_offset": 42,
+      "start_page_post_offset": 28,
+      "end_page_pre_offset": 49,
+      "end_page_post_offset": 35
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page_pre_offset": 50,
+      "start_page_post_offset": 36,
+      "end_page_pre_offset": 59,
+      "end_page_post_offset": 45
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 60,
+      "start_page_post_offset": 46,
+      "end_page_pre_offset": 70,
+      "end_page_post_offset": 56
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 71,
+      "start_page_post_offset": 57,
+      "end_page_pre_offset": 83,
+      "end_page_post_offset": 69
+    },
+    {
+      "titulo": "Lengua Extranjera: Inglés",
+      "start_page_pre_offset": 84,
+      "start_page_post_offset": 70,
+      "end_page_pre_offset": 95,
+      "end_page_post_offset": 81
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 96,
+      "start_page_post_offset": 82,
+      "end_page_pre_offset": 109,
+      "end_page_post_offset": 95
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 110,
+      "start_page_post_offset": 96,
+      "end_page_pre_offset": 112,
+      "end_page_post_offset": 98
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 113,
+      "start_page_post_offset": 99,
+      "end_page_pre_offset": 120,
+      "end_page_post_offset": 106
+    },
+    {
+      "titulo": "Tecnología y Robótica",
+      "start_page_pre_offset": 121,
+      "start_page_post_offset": 107,
+      "end_page_pre_offset": 125,
+      "end_page_post_offset": 111
+    }
+  ]
+}

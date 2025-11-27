@@ -1,0 +1,407 @@
+{
+  "lista_materias": [
+    "ANÀLISI MUSICAL I I II",
+    "ARTS ESCÈNIQUES I I II",
+    "BIOLOGIA, GEOLOGIA I CIÈNCIES AMBIENTALS",
+    "CIÈNCIES GENERALS",
+    "COR I TÈCNICA VOCAL I I II",
+    "CULTURA AUDIOVISUAL",
+    "DIBUIX ARTÍSTIC I I II",
+    "DIBUIX TÈCNIC APLICAT A LES ARTS PLÀSTIQUES I AL DISSENY I I II",
+    "DISSENY",
+    "ECONOMIA, EMPRENEDORIA I ACTIVITAT EMPRESARIAL",
+    "EDUCACIÓ FÍSICA",
+    "FILOSOFIA",
+    "FÍSICA I QUÍMICA",
+    "GEOGRAFIA",
+    "GREC I I II",
+    "HISTÒRIA DE LA FILOSOFIA",
+    "HISTÒRIA DE L'ART",
+    "HISTÒRIA DEL MÓN CONTEMPORANI",
+    "HISTÒRIA D'ESPANYA",
+    "LLATÍ I I II",
+    "LLENGUA CASTELLANA I LITERATURA I I II",
+    "LLENGUA ESTRANGERA I I II",
+    "LLENGUATGE I PRÀCTICA MUSICAL",
+    "MATEMÀTIQUES APLICADES A LES CIÈNCIES SOCIALS I I II",
+    "MATEMÀTIQUES GENERALS",
+    "MATEMÀTIQUES I I II",
+    "MOVIMENTS CULTURALS I ARTÍSTICS",
+    "PROJECTES ARTÍSTICS",
+    "TÈCNIQUES D’EXPRESSIÓ GRAFICOPLÀSTICA",
+    "TECNOLOGIA I ENGINYERIA I I II",
+    "VOLUM",
+    "ACTIVITAT FÍSICA PER A LA SALUT I EL DESENVOLUPAMENT PERSONAL",
+    "BIOLOGIA HUMANA I SALUT",
+    "COMUNICACIÓ AUDIOVISUAL",
+    "CULTURA JURÍDICA I DEMOCRÀTICA",
+    "DESCOBRINT LES NOSTRES ARRELS CLÀSSIQUES",
+    "EL TREBALL EXPERIMENTAL EN FÍSICA I QUÍMICA",
+    "GEOGRAFIA I HISTÒRIA VALENCIANES",
+    "GESTIÓ DE PROJECTES D'EMPRENEDORIA",
+    "IMATGE I SO",
+    "INFORMÀTICA",
+    "ORGANITZACIÓ I GESTIÓ COMERCIAL",
+    "PROGRAMACIÓ, XARXES I SISTEMES INFORMÀTICS I I II",
+    "PROJECTE D'INVESTIGACIÓ",
+    "PSICOLOGIA",
+    "PRODUCCIÓ MUSICAL",
+    "SEGONA LLENGUA ESTRANGERA I I II",
+    "TEATRE I DANSA"
+  ],
+  "offset": 43158,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 43166,
+      "start_page_post_offset": 8,
+      "end_page_pre_offset": 43169,
+      "end_page_post_offset": 11,
+      "anexo_nombre": "Marco general para la definición y diseño de las Situaciones de Aprendizaje (Articles 2, 6, 9)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 43196,
+    "start_page_post_offset": 38,
+    "end_page_pre_offset": 43217,
+    "end_page_post_offset": 59,
+    "anexo_nombre": "Annex I. Competències clau en el batxillerat"
+  },
+  "materias": [
+    {
+      "titulo": "ANÀLISI MUSICAL I I II",
+      "start_page_pre_offset": 43219,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 43234,
+      "end_page_post_offset": 76
+    },
+    {
+      "titulo": "ARTS ESCÈNIQUES I I II",
+      "start_page_pre_offset": 43234,
+      "start_page_post_offset": 76,
+      "end_page_pre_offset": 43251,
+      "end_page_post_offset": 93
+    },
+    {
+      "titulo": "BIOLOGIA, GEOLOGIA I CIÈNCIES AMBIENTALS",
+      "start_page_pre_offset": 43251,
+      "start_page_post_offset": 93,
+      "end_page_pre_offset": 43287,
+      "end_page_post_offset": 129
+    },
+    {
+      "titulo": "CIÈNCIES GENERALS",
+      "start_page_pre_offset": 43287,
+      "start_page_post_offset": 129,
+      "end_page_pre_offset": 43298,
+      "end_page_post_offset": 140
+    },
+    {
+      "titulo": "COR I TÈCNICA VOCAL I I II",
+      "start_page_pre_offset": 43298,
+      "start_page_post_offset": 140,
+      "end_page_pre_offset": 43309,
+      "end_page_post_offset": 151
+    },
+    {
+      "titulo": "CULTURA AUDIOVISUAL",
+      "start_page_pre_offset": 43309,
+      "start_page_post_offset": 151,
+      "end_page_pre_offset": 43328,
+      "end_page_post_offset": 170
+    },
+    {
+      "titulo": "DIBUIX ARTÍSTIC I I II",
+      "start_page_pre_offset": 43328,
+      "start_page_post_offset": 170,
+      "end_page_pre_offset": 43341,
+      "end_page_post_offset": 183
+    },
+    {
+      "titulo": "DIBUIX TÈCNIC APLICAT A LES ARTS PLÀSTIQUES I AL DISSENY I I II",
+      "start_page_pre_offset": 43341,
+      "start_page_post_offset": 183,
+      "end_page_pre_offset": 43363,
+      "end_page_post_offset": 205
+    },
+    {
+      "titulo": "DISSENY",
+      "start_page_pre_offset": 43363,
+      "start_page_post_offset": 205,
+      "end_page_pre_offset": 43390,
+      "end_page_post_offset": 232
+    },
+    {
+      "titulo": "ECONOMIA, EMPRENEDORIA I ACTIVITAT EMPRESARIAL",
+      "start_page_pre_offset": 43390,
+      "start_page_post_offset": 232,
+      "end_page_pre_offset": 43401,
+      "end_page_post_offset": 243
+    },
+    {
+      "titulo": "EDUCACIÓ FÍSICA",
+      "start_page_pre_offset": 43401,
+      "start_page_post_offset": 243,
+      "end_page_pre_offset": 43427,
+      "end_page_post_offset": 269
+    },
+    {
+      "titulo": "FILOSOFIA",
+      "start_page_pre_offset": 43427,
+      "start_page_post_offset": 269,
+      "end_page_pre_offset": 43442,
+      "end_page_post_offset": 284
+    },
+    {
+      "titulo": "FÍSICA I QUÍMICA",
+      "start_page_pre_offset": 43442,
+      "start_page_post_offset": 284,
+      "end_page_pre_offset": 43476,
+      "end_page_post_offset": 318
+    },
+    {
+      "titulo": "GEOGRAFIA",
+      "start_page_pre_offset": 43476,
+      "start_page_post_offset": 318,
+      "end_page_pre_offset": 43489,
+      "end_page_post_offset": 331
+    },
+    {
+      "titulo": "GREC I I II",
+      "start_page_pre_offset": 43489,
+      "start_page_post_offset": 331,
+      "end_page_pre_offset": 43503,
+      "end_page_post_offset": 345
+    },
+    {
+      "titulo": "HISTÒRIA DE LA FILOSOFIA",
+      "start_page_pre_offset": 43503,
+      "start_page_post_offset": 345,
+      "end_page_pre_offset": 43525,
+      "end_page_post_offset": 367
+    },
+    {
+      "titulo": "HISTÒRIA DE L'ART",
+      "start_page_pre_offset": 43525,
+      "start_page_post_offset": 367,
+      "end_page_pre_offset": 43538,
+      "end_page_post_offset": 380
+    },
+    {
+      "titulo": "HISTÒRIA DEL MÓN CONTEMPORANI",
+      "start_page_pre_offset": 43538,
+      "start_page_post_offset": 380,
+      "end_page_pre_offset": 43555,
+      "end_page_post_offset": 397
+    },
+    {
+      "titulo": "HISTÒRIA D'ESPANYA",
+      "start_page_pre_offset": 43555,
+      "start_page_post_offset": 397,
+      "end_page_pre_offset": 43589,
+      "end_page_post_offset": 431
+    },
+    {
+      "titulo": "LLATÍ I I II",
+      "start_page_pre_offset": 43589,
+      "start_page_post_offset": 431,
+      "end_page_pre_offset": 43603,
+      "end_page_post_offset": 445
+    },
+    {
+      "titulo": "LLENGUA CASTELLANA I LITERATURA I I II",
+      "start_page_pre_offset": 43603,
+      "start_page_post_offset": 445,
+      "end_page_pre_offset": 43639,
+      "end_page_post_offset": 481
+    },
+    {
+      "titulo": "LLENGUA ESTRANGERA I I II",
+      "start_page_pre_offset": 43639,
+      "start_page_post_offset": 481,
+      "end_page_pre_offset": 43660,
+      "end_page_post_offset": 502
+    },
+    {
+      "titulo": "LLENGUATGE I PRÀCTICA MUSICAL",
+      "start_page_pre_offset": 43660,
+      "start_page_post_offset": 502,
+      "end_page_pre_offset": 43670,
+      "end_page_post_offset": 512
+    },
+    {
+      "titulo": "MATEMÀTIQUES APLICADES A LES CIÈNCIES SOCIALS I I II",
+      "start_page_pre_offset": 43670,
+      "start_page_post_offset": 512,
+      "end_page_pre_offset": 43689,
+      "end_page_post_offset": 531
+    },
+    {
+      "titulo": "MATEMÀTIQUES GENERALS",
+      "start_page_pre_offset": 43689,
+      "start_page_post_offset": 531,
+      "end_page_pre_offset": 43708,
+      "end_page_post_offset": 550
+    },
+    {
+      "titulo": "MATEMÀTIQUES I I II",
+      "start_page_pre_offset": 43708,
+      "start_page_post_offset": 550,
+      "end_page_pre_offset": 43730,
+      "end_page_post_offset": 572
+    },
+    {
+      "titulo": "MOVIMENTS CULTURALS I ARTÍSTICS",
+      "start_page_pre_offset": 43730,
+      "start_page_post_offset": 572,
+      "end_page_pre_offset": 43741,
+      "end_page_post_offset": 583
+    },
+    {
+      "titulo": "PROJECTES ARTÍSTICS",
+      "start_page_pre_offset": 43741,
+      "start_page_post_offset": 583,
+      "end_page_pre_offset": 43750,
+      "end_page_post_offset": 592
+    },
+    {
+      "titulo": "TÈCNIQUES D’EXPRESSIÓ GRAFICOPLÀSTICA",
+      "start_page_pre_offset": 43750,
+      "start_page_post_offset": 592,
+      "end_page_pre_offset": 43760,
+      "end_page_post_offset": 602
+    },
+    {
+      "titulo": "TECNOLOGIA I ENGINYERIA I I II",
+      "start_page_pre_offset": 43760,
+      "start_page_post_offset": 602,
+      "end_page_pre_offset": 43781,
+      "end_page_post_offset": 623
+    },
+    {
+      "titulo": "VOLUM",
+      "start_page_pre_offset": 43781,
+      "start_page_post_offset": 623,
+      "end_page_pre_offset": 43792,
+      "end_page_post_offset": 634
+    },
+    {
+      "titulo": "ACTIVITAT FÍSICA PER A LA SALUT I EL DESENVOLUPAMENT PERSONAL",
+      "start_page_pre_offset": 43792,
+      "start_page_post_offset": 634,
+      "end_page_pre_offset": 43799,
+      "end_page_post_offset": 641
+    },
+    {
+      "titulo": "BIOLOGIA HUMANA I SALUT",
+      "start_page_pre_offset": 43799,
+      "start_page_post_offset": 641,
+      "end_page_pre_offset": 43806,
+      "end_page_post_offset": 648
+    },
+    {
+      "titulo": "COMUNICACIÓ AUDIOVISUAL",
+      "start_page_pre_offset": 43806,
+      "start_page_post_offset": 648,
+      "end_page_pre_offset": 43813,
+      "end_page_post_offset": 655
+    },
+    {
+      "titulo": "CULTURA JURÍDICA I DEMOCRÀTICA",
+      "start_page_pre_offset": 43813,
+      "start_page_post_offset": 655,
+      "end_page_pre_offset": 43820,
+      "end_page_post_offset": 662
+    },
+    {
+      "titulo": "DESCOBRINT LES NOSTRES ARRELS CLÀSSIQUES",
+      "start_page_pre_offset": 43820,
+      "start_page_post_offset": 662,
+      "end_page_pre_offset": 43827,
+      "end_page_post_offset": 669
+    },
+    {
+      "titulo": "EL TREBALL EXPERIMENTAL EN FÍSICA I QUÍMICA",
+      "start_page_pre_offset": 43827,
+      "start_page_post_offset": 669,
+      "end_page_pre_offset": 43834,
+      "end_page_post_offset": 676
+    },
+    {
+      "titulo": "GEOGRAFIA I HISTÒRIA VALENCIANES",
+      "start_page_pre_offset": 43834,
+      "start_page_post_offset": 676,
+      "end_page_pre_offset": 43841,
+      "end_page_post_offset": 683
+    },
+    {
+      "titulo": "GESTIÓ DE PROJECTES D'EMPRENEDORIA",
+      "start_page_pre_offset": 43841,
+      "start_page_post_offset": 683,
+      "end_page_pre_offset": 43848,
+      "end_page_post_offset": 690
+    },
+    {
+      "titulo": "IMATGE I SO",
+      "start_page_pre_offset": 43848,
+      "start_page_post_offset": 690,
+      "end_page_pre_offset": 43855,
+      "end_page_post_offset": 697
+    },
+    {
+      "titulo": "INFORMÀTICA",
+      "start_page_pre_offset": 43855,
+      "start_page_post_offset": 697,
+      "end_page_pre_offset": 43862,
+      "end_page_post_offset": 704
+    },
+    {
+      "titulo": "ORGANITZACIÓ I GESTIÓ COMERCIAL",
+      "start_page_pre_offset": 43862,
+      "start_page_post_offset": 704,
+      "end_page_pre_offset": 43869,
+      "end_page_post_offset": 711
+    },
+    {
+      "titulo": "PROGRAMACIÓ, XARXES I SISTEMES INFORMÀTICS I I II",
+      "start_page_pre_offset": 43869,
+      "start_page_post_offset": 711,
+      "end_page_pre_offset": 43876,
+      "end_page_post_offset": 718
+    },
+    {
+      "titulo": "PROJECTE D'INVESTIGACIÓ",
+      "start_page_pre_offset": 43876,
+      "start_page_post_offset": 718,
+      "end_page_pre_offset": 43883,
+      "end_page_post_offset": 725
+    },
+    {
+      "titulo": "PSICOLOGIA",
+      "start_page_pre_offset": 43883,
+      "start_page_post_offset": 725,
+      "end_page_pre_offset": 43890,
+      "end_page_post_offset": 732
+    },
+    {
+      "titulo": "PRODUCCIÓ MUSICAL",
+      "start_page_pre_offset": 43890,
+      "start_page_post_offset": 732,
+      "end_page_pre_offset": 43897,
+      "end_page_post_offset": 739
+    },
+    {
+      "titulo": "SEGONA LLENGUA ESTRANGERA I I II",
+      "start_page_pre_offset": 43897,
+      "start_page_post_offset": 739,
+      "end_page_pre_offset": 43904,
+      "end_page_post_offset": 746
+    },
+    {
+      "titulo": "TEATRE I DANSA",
+      "start_page_pre_offset": 43904,
+      "start_page_post_offset": 746,
+      "end_page_pre_offset": 43911,
+      "end_page_post_offset": 753
+    }
+  ]
+}

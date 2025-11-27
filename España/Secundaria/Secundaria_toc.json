@@ -1,0 +1,182 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Cultura Clásica",
+    "Economía y Emprendimiento",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Educación en Valores Cívicos y Éticos",
+    "Expresión Artística",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Introducción a la Filosofía",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Medios y Recursos Digitales",
+    "Música",
+    "Segunda Lengua Extranjera",
+    "Tecnología"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 7,
+      "start_page_post_offset": 7,
+      "end_page_pre_offset": 7,
+      "end_page_post_offset": 7,
+      "anexo_nombre": "Artículo 13.2 - Referencia a principios orientativos en ANEXO III para situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 330,
+      "start_page_post_offset": 330,
+      "end_page_pre_offset": 331,
+      "end_page_post_offset": 331,
+      "anexo_nombre": "ANEXO III - Situaciones de aprendizaje (Principios de diseño)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 25,
+    "start_page_post_offset": 25,
+    "end_page_pre_offset": 31,
+    "end_page_post_offset": 31,
+    "anexo_nombre": "ANEXO I / Perfil de salida del alumnado al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "BIOLOGÍA Y GEOLOGÍA",
+      "start_page_pre_offset": 32,
+      "start_page_post_offset": 32,
+      "end_page_pre_offset": 47,
+      "end_page_post_offset": 47
+    },
+    {
+      "titulo": "CULTURA CLÁSICA",
+      "start_page_pre_offset": 48,
+      "start_page_post_offset": 48,
+      "end_page_pre_offset": 56,
+      "end_page_post_offset": 56
+    },
+    {
+      "titulo": "ECONOMÍA Y EMPRENDIMIENTO",
+      "start_page_pre_offset": 65,
+      "start_page_post_offset": 65,
+      "end_page_pre_offset": 76,
+      "end_page_post_offset": 76
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 76,
+      "start_page_post_offset": 76,
+      "end_page_pre_offset": 96,
+      "end_page_post_offset": 96
+    },
+    {
+      "titulo": "EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL",
+      "start_page_pre_offset": 96,
+      "start_page_post_offset": 96,
+      "end_page_pre_offset": 107,
+      "end_page_post_offset": 107
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+      "start_page_pre_offset": 107,
+      "start_page_post_offset": 107,
+      "end_page_pre_offset": 117,
+      "end_page_post_offset": 117
+    },
+    {
+      "titulo": "EXPRESIÓN ARTÍSTICA",
+      "start_page_pre_offset": 117,
+      "start_page_post_offset": 117,
+      "end_page_pre_offset": 125,
+      "end_page_post_offset": 125
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 125,
+      "start_page_post_offset": 125,
+      "end_page_pre_offset": 139,
+      "end_page_post_offset": 139
+    },
+    {
+      "titulo": "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+      "start_page_pre_offset": 139,
+      "start_page_post_offset": 139,
+      "end_page_pre_offset": 149,
+      "end_page_post_offset": 149
+    },
+    {
+      "titulo": "GEOGRAFÍA E HISTORIA",
+      "start_page_pre_offset": 149,
+      "start_page_post_offset": 149,
+      "end_page_pre_offset": 175,
+      "end_page_post_offset": 175
+    },
+    {
+      "titulo": "INTRODUCCIÓN A LA FILOSOFÍA",
+      "start_page_pre_offset": 175,
+      "start_page_post_offset": 175,
+      "end_page_pre_offset": 190,
+      "end_page_post_offset": 190
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 190,
+      "start_page_post_offset": 190,
+      "end_page_pre_offset": 201,
+      "end_page_post_offset": 201
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 201,
+      "start_page_post_offset": 201,
+      "end_page_pre_offset": 232,
+      "end_page_post_offset": 232
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 232,
+      "start_page_post_offset": 232,
+      "end_page_pre_offset": 253,
+      "end_page_post_offset": 253
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 253,
+      "start_page_post_offset": 253,
+      "end_page_pre_offset": 281,
+      "end_page_post_offset": 281
+    },
+    {
+      "titulo": "MEDIOS Y RECURSOS DIGITALES",
+      "start_page_pre_offset": 281,
+      "start_page_post_offset": 281,
+      "end_page_pre_offset": 291,
+      "end_page_post_offset": 291
+    },
+    {
+      "titulo": "MÚSICA",
+      "start_page_pre_offset": 291,
+      "start_page_post_offset": 291,
+      "end_page_pre_offset": 304,
+      "end_page_post_offset": 304
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 304,
+      "start_page_post_offset": 304,
+      "end_page_pre_offset": 307,
+      "end_page_post_offset": 307
+    },
+    {
+      "titulo": "TECNOLOGÍA",
+      "start_page_pre_offset": 307,
+      "start_page_post_offset": 307,
+      "end_page_pre_offset": 329,
+      "end_page_post_offset": 329
+    }
+  ]
+}

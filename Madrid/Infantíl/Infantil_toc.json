@@ -1,0 +1,61 @@
+{
+  "lista_materias": [
+    "Área I. Crecimiento en armonía",
+    "Área II. Descubrimiento y exploración del entorno",
+    "Área III. Comunicación y representación de la realidad"
+  ],
+  "offset": 14,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 17,
+      "start_page_post_offset": 3,
+      "end_page_pre_offset": 17,
+      "end_page_post_offset": 3,
+      "anexo_nombre": "Definición de Métodos Pedagógicos (Art. 4)"
+    },
+    {
+      "start_page_pre_offset": 20,
+      "start_page_post_offset": 6,
+      "end_page_pre_offset": 20,
+      "end_page_post_offset": 6,
+      "anexo_nombre": "Principios Pedagógicos (Art. 11)"
+    },
+    {
+      "start_page_pre_offset": 21,
+      "start_page_post_offset": 7,
+      "end_page_pre_offset": 22,
+      "end_page_post_offset": 8,
+      "anexo_nombre": "Propuesta Pedagógica y Concreción Curricular (Art. 14 & 17)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 25,
+    "start_page_post_offset": 11,
+    "end_page_pre_offset": 26,
+    "end_page_post_offset": 12,
+    "anexo_nombre": "ANEXO I. Contribución de la Educación Infantil a las Competencias Clave"
+  },
+  "materias": [
+    {
+      "titulo": "Área I. Crecimiento en armonía",
+      "start_page_pre_offset": 26,
+      "start_page_post_offset": 12,
+      "end_page_pre_offset": 33,
+      "end_page_post_offset": 19
+    },
+    {
+      "titulo": "Área II. Descubrimiento y exploración del entorno",
+      "start_page_pre_offset": 33,
+      "start_page_post_offset": 19,
+      "end_page_pre_offset": 39,
+      "end_page_post_offset": 25
+    },
+    {
+      "titulo": "Área III. Comunicación y representación de la realidad",
+      "start_page_pre_offset": 39,
+      "start_page_post_offset": 25,
+      "end_page_pre_offset": 47,
+      "end_page_post_offset": 33
+    }
+  ]
+}

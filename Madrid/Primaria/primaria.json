@@ -1,0 +1,71 @@
+{
+  "seccion_diseno": [
+    {
+      "start_page": 20,
+      "end_page": 20,
+      "anexo_nombre": "Principios pedagógicos y Contenidos transversales"
+    },
+    {
+      "start_page": 21,
+      "end_page": 21,
+      "anexo_nombre": "Marco de implementación de situaciones de aprendizaje (Proyectos integrados)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page": 29,
+    "end_page": 31,
+    "anexo_nombre": "ANEXO I. Perfil de salida (Contribución a las Competencias Clave)"
+  },
+  "materias": [
+    {
+      "titulo": "Ciencias de la Naturaleza",
+      "start_page": 32,
+      "end_page": 41
+    },
+    {
+      "titulo": "Ciencias Sociales",
+      "start_page": 42,
+      "end_page": 49
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page": 50,
+      "end_page": 59
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page": 60,
+      "end_page": 69
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page": 71,
+      "end_page": 83
+    },
+    {
+      "titulo": "Lengua Extranjera: Inglés",
+      "start_page": 84,
+      "end_page": 95
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page": 96,
+      "end_page": 109
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page": 110,
+      "end_page": 112
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page": 113,
+      "end_page": 120
+    },
+    {
+      "titulo": "Tecnología y Robótica",
+      "start_page": 121,
+      "end_page": 125
+    }
+  ]
+}

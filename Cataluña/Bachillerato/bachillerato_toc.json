@@ -1,0 +1,414 @@
+{
+  "lista_materias": [
+    "Educació Física",
+    "Filosofia",
+    "Llengua Castellana i Literatura I",
+    "Llengua Catalana i Literatura I",
+    "Llengua Estrangera I",
+    "Història",
+    "Història de la Filosofia",
+    "Llengua Castellana i Literatura II",
+    "Llengua Catalana i Literatura II",
+    "Llengua Estrangera II",
+    "Anàlisi Musical I",
+    "Arts Escèniques I",
+    "Cor i Tècnica Vocal I",
+    "Cultura Audiovisual",
+    "Dibuix Tècnic Aplicat a les Arts Plàstiques i el Disseny I",
+    "Projectes Artístics",
+    "Volum",
+    "Dibuix Tècnic Aplicat a les Arts Plàstiques i el Disseny II",
+    "Disseny",
+    "Fonaments Artístics",
+    "Tècniques d'Expressió Graficoplàstica",
+    "Anàlisi Musical II",
+    "Arts Escèniques II",
+    "Cor i Tècnica Vocal II",
+    "Història de la Música i de la Dansa",
+    "Literatura Dramàtica",
+    "Matemàtiques I",
+    "Biologia I",
+    "Dibuix Tècnic I",
+    "Física I",
+    "Geologia i Ciències Ambientals I",
+    "Química I",
+    "Tecnologia i Enginyeria I",
+    "Matemàtiques II",
+    "Matemàtiques Aplicades a les Ciències Socials II",
+    "Biologia II",
+    "Dibuix Tècnic II",
+    "Física II",
+    "Geologia i Ciències Ambientals II",
+    "Química II",
+    "Tecnologia i Enginyeria II",
+    "Matemàtiques Generals",
+    "Ciències Generals",
+    "Economia, Emprenedoria i Activitat Empresarial",
+    "Moviments Culturals i Artístics",
+    "Llengua i Cultura Llatines I",
+    "Matemàtiques Aplicades a les Ciències Socials I",
+    "Economia",
+    "Història del Món Contemporani",
+    "Literatura Universal",
+    "Llengua i Cultura Gregues I",
+    "Funcionament de l'Empresa i Disseny de Models de Negoci",
+    "Geografia",
+    "Història de l'Art",
+    "Literatura Castellana",
+    "Literatura Catalana",
+    "Llengua i Cultura Gregues II",
+    "Llengua i Cultura Llatines II",
+    "Biomedicina",
+    "Formació i Orientació Personal i Professional",
+    "Món Clàssic",
+    "Programació",
+    "Psicologia",
+    "Segona Llengua Estrangera",
+    "Creació Fotogràfica i Cinema",
+    "Llenguatges Artístics Contemporanis",
+    "Projecte de Comissariat d'Exposicions",
+    "Creació Literària",
+    "Matemàtica Aplicada",
+    "Problemàtiques Socials",
+    "Reptes Científics Actuals (Biologia i Geologia)",
+    "Ciutadania, Política i Dret",
+    "Comunicació Audiovisual",
+    "Reptes Científics Actuals (Física i Química)",
+    "Robòtica",
+    "Música i Comunicació",
+    "Publicitat",
+    "Disseny en 2D i 3D",
+    "Taller de Creació Escènica",
+    "Entorn Sostenible",
+    "Pau, Justícia i Corresponsabilitat",
+    "Població i Prosperitat",
+    "Treball de Recerca"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 8,
+      "start_page_post_offset": 8,
+      "end_page_pre_offset": 9,
+      "end_page_post_offset": 9,
+      "anexo_nombre": "Elements del currículum (Article 7, incloent definició de situacions d'aprenentatge)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 31,
+    "start_page_post_offset": 31,
+    "end_page_pre_offset": 38,
+    "end_page_post_offset": 38,
+    "anexo_nombre": "Annex 1 Competències clau al batxillerat"
+  },
+  "materias": [
+    {
+      "titulo": "Anàlisi Musical",
+      "start_page_pre_offset": 39,
+      "start_page_post_offset": 39,
+      "end_page_pre_offset": 47,
+      "end_page_post_offset": 47
+    },
+    {
+      "titulo": "Arts Escèniques",
+      "start_page_pre_offset": 48,
+      "start_page_post_offset": 48,
+      "end_page_pre_offset": 58,
+      "end_page_post_offset": 58
+    },
+    {
+      "titulo": "Biologia",
+      "start_page_pre_offset": 59,
+      "start_page_post_offset": 59,
+      "end_page_pre_offset": 72,
+      "end_page_post_offset": 72
+    },
+    {
+      "titulo": "Ciències Generals",
+      "start_page_pre_offset": 73,
+      "start_page_post_offset": 73,
+      "end_page_pre_offset": 79,
+      "end_page_post_offset": 79
+    },
+    {
+      "titulo": "Cor i Tècnica Vocal",
+      "start_page_pre_offset": 81,
+      "start_page_post_offset": 81,
+      "end_page_pre_offset": 87,
+      "end_page_post_offset": 87
+    },
+    {
+      "titulo": "Cultura Audiovisual",
+      "start_page_pre_offset": 88,
+      "start_page_post_offset": 88,
+      "end_page_pre_offset": 98,
+      "end_page_post_offset": 98
+    },
+    {
+      "titulo": "Dibuix Artístic",
+      "start_page_pre_offset": 99,
+      "start_page_post_offset": 99,
+      "end_page_pre_offset": 111,
+      "end_page_post_offset": 111
+    },
+    {
+      "titulo": "Dibuix Tècnic",
+      "start_page_pre_offset": 112,
+      "start_page_post_offset": 112,
+      "end_page_pre_offset": 119,
+      "end_page_post_offset": 119
+    },
+    {
+      "titulo": "Dibuix Tècnic Aplicat a les Arts Plàstiques i el Disseny",
+      "start_page_pre_offset": 120,
+      "start_page_post_offset": 120,
+      "end_page_pre_offset": 127,
+      "end_page_post_offset": 127
+    },
+    {
+      "titulo": "Disseny",
+      "start_page_pre_offset": 128,
+      "start_page_post_offset": 128,
+      "end_page_pre_offset": 136,
+      "end_page_post_offset": 136
+    },
+    {
+      "titulo": "Economia",
+      "start_page_pre_offset": 137,
+      "start_page_post_offset": 137,
+      "end_page_pre_offset": 144,
+      "end_page_post_offset": 144
+    },
+    {
+      "titulo": "Economia, Emprenedoria i Activitat Empresarial",
+      "start_page_pre_offset": 145,
+      "start_page_post_offset": 145,
+      "end_page_pre_offset": 152,
+      "end_page_post_offset": 152
+    },
+    {
+      "titulo": "Educació Física",
+      "start_page_pre_offset": 153,
+      "start_page_post_offset": 153,
+      "end_page_pre_offset": 160,
+      "end_page_post_offset": 160
+    },
+    {
+      "titulo": "Filosofia",
+      "start_page_pre_offset": 161,
+      "start_page_post_offset": 161,
+      "end_page_pre_offset": 169,
+      "end_page_post_offset": 169
+    },
+    {
+      "titulo": "Física",
+      "start_page_pre_offset": 170,
+      "start_page_post_offset": 170,
+      "end_page_pre_offset": 180,
+      "end_page_post_offset": 180
+    },
+    {
+      "titulo": "Fonaments Artístics",
+      "start_page_pre_offset": 181,
+      "start_page_post_offset": 181,
+      "end_page_pre_offset": 190,
+      "end_page_post_offset": 190
+    },
+    {
+      "titulo": "Funcionament de l’Empresa i Disseny de Models de Negoci",
+      "start_page_pre_offset": 191,
+      "start_page_post_offset": 191,
+      "end_page_pre_offset": 198,
+      "end_page_post_offset": 198
+    },
+    {
+      "titulo": "Geografia",
+      "start_page_pre_offset": 199,
+      "start_page_post_offset": 199,
+      "end_page_pre_offset": 209,
+      "end_page_post_offset": 209
+    },
+    {
+      "titulo": "Geologia i Ciències Ambientals",
+      "start_page_pre_offset": 210,
+      "start_page_post_offset": 210,
+      "end_page_pre_offset": 222,
+      "end_page_post_offset": 222
+    },
+    {
+      "titulo": "Història",
+      "start_page_pre_offset": 223,
+      "start_page_post_offset": 223,
+      "end_page_pre_offset": 237,
+      "end_page_post_offset": 237
+    },
+    {
+      "titulo": "Història de l’Art",
+      "start_page_pre_offset": 238,
+      "start_page_post_offset": 238,
+      "end_page_pre_offset": 249,
+      "end_page_post_offset": 249
+    },
+    {
+      "titulo": "Història de la Filosofia",
+      "start_page_pre_offset": 250,
+      "start_page_post_offset": 250,
+      "end_page_pre_offset": 259,
+      "end_page_post_offset": 259
+    },
+    {
+      "titulo": "Llengua Castellana i Literatura",
+      "start_page_pre_offset": 281,
+      "start_page_post_offset": 281,
+      "end_page_pre_offset": 288,
+      "end_page_post_offset": 288
+    },
+    {
+      "titulo": "Llengua Catalana i Literatura",
+      "start_page_pre_offset": 289,
+      "start_page_post_offset": 289,
+      "end_page_pre_offset": 296,
+      "end_page_post_offset": 296
+    },
+    {
+      "titulo": "Literatura Dramàtica",
+      "start_page_pre_offset": 297,
+      "start_page_post_offset": 297,
+      "end_page_pre_offset": 305,
+      "end_page_post_offset": 305
+    },
+    {
+      "titulo": "Literatura Universal",
+      "start_page_pre_offset": 306,
+      "start_page_post_offset": 306,
+      "end_page_pre_offset": 313,
+      "end_page_post_offset": 313
+    },
+    {
+      "titulo": "Llengua Estrangera",
+      "start_page_pre_offset": 336,
+      "start_page_post_offset": 336,
+      "end_page_pre_offset": 347,
+      "end_page_post_offset": 347
+    },
+    {
+      "titulo": "Llengua i Cultura Gregues",
+      "start_page_pre_offset": 359,
+      "start_page_post_offset": 359,
+      "end_page_pre_offset": 375,
+      "end_page_post_offset": 375
+    },
+    {
+      "titulo": "Llengua i Cultura Llatines",
+      "start_page_pre_offset": 376,
+      "start_page_post_offset": 376,
+      "end_page_pre_offset": 392,
+      "end_page_post_offset": 392
+    },
+    {
+      "titulo": "Llenguatge i Pràctica Musical",
+      "start_page_pre_offset": 393,
+      "start_page_post_offset": 393,
+      "end_page_pre_offset": 399,
+      "end_page_post_offset": 399
+    },
+    {
+      "titulo": "Matemàtiques Aplicades a les Ciències Socials",
+      "start_page_pre_offset": 420,
+      "start_page_post_offset": 420,
+      "end_page_pre_offset": 436,
+      "end_page_post_offset": 436
+    },
+    {
+      "titulo": "Matemàtiques Generals",
+      "start_page_pre_offset": 438,
+      "start_page_post_offset": 438,
+      "end_page_pre_offset": 450,
+      "end_page_post_offset": 450
+    },
+    {
+      "titulo": "Moviments Culturals i Artístics",
+      "start_page_pre_offset": 451,
+      "start_page_post_offset": 451,
+      "end_page_pre_offset": 460,
+      "end_page_post_offset": 460
+    },
+    {
+      "titulo": "Química",
+      "start_page_pre_offset": 470,
+      "start_page_post_offset": 470,
+      "end_page_pre_offset": 484,
+      "end_page_post_offset": 484
+    },
+    {
+      "titulo": "Tècniques d’Expressió Graficoplàstica",
+      "start_page_pre_offset": 485,
+      "start_page_post_offset": 485,
+      "end_page_pre_offset": 494,
+      "end_page_post_offset": 494
+    },
+    {
+      "titulo": "Tecnologia i Enginyeria",
+      "start_page_pre_offset": 495,
+      "start_page_post_offset": 495,
+      "end_page_pre_offset": 507,
+      "end_page_post_offset": 507
+    },
+    {
+      "titulo": "Volum",
+      "start_page_pre_offset": 508,
+      "start_page_post_offset": 508,
+      "end_page_pre_offset": 515,
+      "end_page_post_offset": 515
+    },
+    {
+      "titulo": "Biomedicina",
+      "start_page_pre_offset": 516,
+      "start_page_post_offset": 516,
+      "end_page_pre_offset": 517,
+      "end_page_post_offset": 517
+    },
+    {
+      "titulo": "Formació i Orientació Personal i Professional",
+      "start_page_pre_offset": 520,
+      "start_page_post_offset": 520,
+      "end_page_pre_offset": 522,
+      "end_page_post_offset": 522
+    },
+    {
+      "titulo": "Funcionament de l’Empresa",
+      "start_page_pre_offset": 523,
+      "start_page_post_offset": 523,
+      "end_page_pre_offset": 524,
+      "end_page_post_offset": 524
+    },
+    {
+      "titulo": "Programació",
+      "start_page_pre_offset": 528,
+      "start_page_post_offset": 528,
+      "end_page_pre_offset": 529,
+      "end_page_post_offset": 529
+    },
+    {
+      "titulo": "Projecte de Comissariat d’Exposicions",
+      "start_page_pre_offset": 530,
+      "start_page_post_offset": 530,
+      "end_page_pre_offset": 530,
+      "end_page_post_offset": 530
+    },
+    {
+      "titulo": "Psicologia",
+      "start_page_pre_offset": 531,
+      "start_page_post_offset": 531,
+      "end_page_pre_offset": 532,
+      "end_page_post_offset": 532
+    },
+    {
+      "titulo": "Segona Llengua Estrangera",
+      "start_page_pre_offset": 533,
+      "start_page_post_offset": 533,
+      "end_page_pre_offset": 547,
+      "end_page_post_offset": 547
+    }
+  ]
+}

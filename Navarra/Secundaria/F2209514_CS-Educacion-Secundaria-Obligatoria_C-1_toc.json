@@ -1,0 +1,199 @@
+{
+  "lista_materias": [
+    "BIOLOGÍA Y GEOLOGÍA",
+    "DIGITALIZACIÓN",
+    "ECONOMÍA Y EMPRENDIMIENTO",
+    "EDUCACIÓN FÍSICA",
+    "EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL",
+    "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+    "EXPRESIÓN ARTÍSTICA",
+    "FÍSICA Y QUÍMICA",
+    "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+    "GEOGRAFÍA E HISTORIA",
+    "LATÍN",
+    "LENGUA CASTELLANA Y LITERATURA",
+    "LENGUA EXTRANJERA",
+    "LENGUA VASCA (MODELO A)",
+    "LENGUA VASCA Y LITERATURA (MODELO D)",
+    "MATEMÁTICAS",
+    "MATEMÁTICAS A",
+    "MATEMÁTICAS B",
+    "MÚSICA",
+    "SEGUNDA LENGUA EXTRANJERA",
+    "TECNOLOGÍA",
+    "TECNOLOGÍA Y DIGITALIZACIÓN"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 230,
+      "start_page_post_offset": 230,
+      "end_page_pre_offset": 230,
+      "end_page_post_offset": 230,
+      "anexo_nombre": "ANEXO III: Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 23,
+    "start_page_post_offset": 23,
+    "end_page_pre_offset": 30,
+    "end_page_post_offset": 30,
+    "anexo_nombre": "ANEXO I: Perfil de salida del alumnado al término de la enseñanza básica (Competencias clave)"
+  },
+  "materias": [
+    {
+      "titulo": "BIOLOGÍA Y GEOLOGÍA",
+      "start_page_pre_offset": 31,
+      "start_page_post_offset": 31,
+      "end_page_pre_offset": 41,
+      "end_page_post_offset": 41
+    },
+    {
+      "titulo": "DIGITALIZACIÓN",
+      "start_page_pre_offset": 42,
+      "start_page_post_offset": 42,
+      "end_page_pre_offset": 47,
+      "end_page_post_offset": 47
+    },
+    {
+      "titulo": "ECONOMÍA Y EMPRENDIMIENTO",
+      "start_page_pre_offset": 48,
+      "start_page_post_offset": 48,
+      "end_page_pre_offset": 55,
+      "end_page_post_offset": 55
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 56,
+      "start_page_post_offset": 56,
+      "end_page_pre_offset": 68,
+      "end_page_post_offset": 68
+    },
+    {
+      "titulo": "EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL",
+      "start_page_pre_offset": 69,
+      "start_page_post_offset": 69,
+      "end_page_pre_offset": 76,
+      "end_page_post_offset": 76
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+      "start_page_pre_offset": 77,
+      "start_page_post_offset": 77,
+      "end_page_pre_offset": 83,
+      "end_page_post_offset": 83
+    },
+    {
+      "titulo": "EXPRESIÓN ARTÍSTICA",
+      "start_page_pre_offset": 84,
+      "start_page_post_offset": 84,
+      "end_page_pre_offset": 88,
+      "end_page_post_offset": 88
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 89,
+      "start_page_post_offset": 89,
+      "end_page_pre_offset": 99,
+      "end_page_post_offset": 99
+    },
+    {
+      "titulo": "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+      "start_page_pre_offset": 100,
+      "start_page_post_offset": 100,
+      "end_page_pre_offset": 106,
+      "end_page_post_offset": 106
+    },
+    {
+      "titulo": "GEOGRAFÍA E HISTORIA",
+      "start_page_pre_offset": 107,
+      "start_page_post_offset": 107,
+      "end_page_pre_offset": 122,
+      "end_page_post_offset": 122
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 123,
+      "start_page_post_offset": 123,
+      "end_page_pre_offset": 129,
+      "end_page_post_offset": 129
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 130,
+      "start_page_post_offset": 130,
+      "end_page_pre_offset": 145,
+      "end_page_post_offset": 145
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 146,
+      "start_page_post_offset": 146,
+      "end_page_pre_offset": 156,
+      "end_page_post_offset": 156
+    },
+    {
+      "titulo": "LENGUA VASCA (MODELO A)",
+      "start_page_pre_offset": 157,
+      "start_page_post_offset": 157,
+      "end_page_pre_offset": 167,
+      "end_page_post_offset": 167
+    },
+    {
+      "titulo": "LENGUA VASCA Y LITERATURA (MODELO D)",
+      "start_page_pre_offset": 168,
+      "start_page_post_offset": 168,
+      "end_page_pre_offset": 183,
+      "end_page_post_offset": 183
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 184,
+      "start_page_post_offset": 184,
+      "end_page_pre_offset": 196,
+      "end_page_post_offset": 196
+    },
+    {
+      "titulo": "MATEMÁTICAS A",
+      "start_page_pre_offset": 197,
+      "start_page_post_offset": 197,
+      "end_page_pre_offset": 200,
+      "end_page_post_offset": 200
+    },
+    {
+      "titulo": "MATEMÁTICAS B",
+      "start_page_pre_offset": 201,
+      "start_page_post_offset": 201,
+      "end_page_pre_offset": 205,
+      "end_page_post_offset": 205
+    },
+    {
+      "titulo": "MÚSICA",
+      "start_page_pre_offset": 206,
+      "start_page_post_offset": 206,
+      "end_page_pre_offset": 212,
+      "end_page_post_offset": 212
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 213,
+      "start_page_post_offset": 213,
+      "end_page_pre_offset": 214,
+      "end_page_post_offset": 214
+    },
+    {
+      "titulo": "TECNOLOGÍA",
+      "start_page_pre_offset": 215,
+      "start_page_post_offset": 215,
+      "end_page_pre_offset": 221,
+      "end_page_post_offset": 221
+    },
+    {
+      "titulo": "TECNOLOGÍA Y DIGITALIZACIÓN",
+      "start_page_pre_offset": 222,
+      "start_page_post_offset": 222,
+      "end_page_pre_offset": 229,
+      "end_page_post_offset": 229
+    }
+  ]
+}

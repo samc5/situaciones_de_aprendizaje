@@ -1,0 +1,47 @@
+{
+  "lista_materias": [
+    "Crecimiento en armonía",
+    "Descubrimiento y exploración del entorno",
+    "Comunicación y representación de la realidad"
+  ],
+  "offset": 35883,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 35959,
+      "start_page_post_offset": 76,
+      "end_page_pre_offset": 35963,
+      "end_page_post_offset": 80,
+      "anexo_nombre": "SITUACIONES DE APRENDIZAJE"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 35902,
+    "start_page_post_offset": 19,
+    "end_page_pre_offset": 35906,
+    "end_page_post_offset": 23,
+    "anexo_nombre": "ANEXO I. Competencias clave de la Educación Infantil"
+  },
+  "materias": [
+    {
+      "titulo": "Crecimiento en armonía",
+      "start_page_pre_offset": 35912,
+      "start_page_post_offset": 29,
+      "end_page_pre_offset": 35928,
+      "end_page_post_offset": 45
+    },
+    {
+      "titulo": "Descubrimiento y exploración del entorno",
+      "start_page_pre_offset": 35928,
+      "start_page_post_offset": 45,
+      "end_page_pre_offset": 35940,
+      "end_page_post_offset": 57
+    },
+    {
+      "titulo": "Comunicación y representación de la realidad",
+      "start_page_pre_offset": 35940,
+      "start_page_post_offset": 57,
+      "end_page_pre_offset": 35959,
+      "end_page_post_offset": 76
+    }
+  ]
+}

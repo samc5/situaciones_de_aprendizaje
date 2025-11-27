@@ -1,0 +1,55 @@
+{
+  "lista_materias": [
+    "Un infant que creix amb autonomia i confiança",
+    "Un infant que es comunica amb diferents llenguatges",
+    "Un infant que descobreix l'entorn amb curiositat",
+    "Un infant que forma part de la diversitat del món que l'envolta"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 38,
+      "start_page_post_offset": 38,
+      "end_page_pre_offset": 39,
+      "end_page_post_offset": 39,
+      "anexo_nombre": "Annex 3 Situacions d'aprenentatge"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 14,
+    "start_page_post_offset": 14,
+    "end_page_pre_offset": 15,
+    "end_page_post_offset": 15,
+    "anexo_nombre": "Annex 1 Adaptació de les competències clau a l'educació infantil"
+  },
+  "materias": [
+    {
+      "titulo": "Un infant que creix amb autonomia i confiança",
+      "start_page_pre_offset": 18,
+      "start_page_post_offset": 18,
+      "end_page_pre_offset": 23,
+      "end_page_post_offset": 23
+    },
+    {
+      "titulo": "Un infant que es comunica amb diferents llenguatges",
+      "start_page_pre_offset": 23,
+      "start_page_post_offset": 23,
+      "end_page_pre_offset": 30,
+      "end_page_post_offset": 30
+    },
+    {
+      "titulo": "Un infant que descobreix l'entorn amb curiositat",
+      "start_page_pre_offset": 30,
+      "start_page_post_offset": 30,
+      "end_page_pre_offset": 35,
+      "end_page_post_offset": 35
+    },
+    {
+      "titulo": "Un infant que forma part de la diversitat del món que l'envolta",
+      "start_page_pre_offset": 35,
+      "start_page_post_offset": 35,
+      "end_page_pre_offset": 37,
+      "end_page_post_offset": 37
+    }
+  ]
+}

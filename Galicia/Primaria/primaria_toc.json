@@ -1,0 +1,118 @@
+{
+  "lista_materias": [
+    "Ciencias de la Naturaleza",
+    "Ciencias Sociales",
+    "Educación Física",
+    "Educación Plástica y Visual",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Lengua Gallega y Literatura",
+    "Matemáticas",
+    "Música y Danza",
+    "Educación en Valores Cívicos y Éticos",
+    "Proyecto Competencial"
+  ],
+  "offset": 49594,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 49612,
+      "start_page_post_offset": 18,
+      "end_page_pre_offset": 49613,
+      "end_page_post_offset": 19,
+      "anexo_nombre": "Principios pedagógicos para el diseño de situaciones de aprendizaje (Artículos 16.3 y 16.4)"
+    },
+    {
+      "start_page_pre_offset": 49999,
+      "start_page_post_offset": 405,
+      "end_page_pre_offset": 50009,
+      "end_page_post_offset": 415,
+      "anexo_nombre": "Currículo del área de Proyecto Competencial (Anexo II, Título 11)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 49630,
+    "start_page_post_offset": 36,
+    "end_page_pre_offset": 49642,
+    "end_page_post_offset": 48,
+    "anexo_nombre": "ANEXO I: Perfil de salida del alumnado al acabar la enseñanza básica (Competencias clave y descriptores operativos)"
+  },
+  "materias": [
+    {
+      "titulo": "Ciencias de la Naturaleza",
+      "start_page_pre_offset": 49643,
+      "start_page_post_offset": 49,
+      "end_page_pre_offset": 49669,
+      "end_page_post_offset": 75
+    },
+    {
+      "titulo": "Ciencias Sociales",
+      "start_page_pre_offset": 49669,
+      "start_page_post_offset": 75,
+      "end_page_pre_offset": 49694,
+      "end_page_post_offset": 100
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 49694,
+      "start_page_post_offset": 100,
+      "end_page_pre_offset": 49732,
+      "end_page_post_offset": 138
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 49732,
+      "start_page_post_offset": 138,
+      "end_page_pre_offset": 49741,
+      "end_page_post_offset": 147
+    },
+    {
+      "titulo": "Educación Plástica y Visual",
+      "start_page_pre_offset": 49741,
+      "start_page_post_offset": 147,
+      "end_page_pre_offset": 49768,
+      "end_page_post_offset": 174
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 49768,
+      "start_page_post_offset": 174,
+      "end_page_pre_offset": 49824,
+      "end_page_post_offset": 230
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 49824,
+      "start_page_post_offset": 230,
+      "end_page_pre_offset": 49851,
+      "end_page_post_offset": 257
+    },
+    {
+      "titulo": "Lengua Gallega y Literatura",
+      "start_page_pre_offset": 49851,
+      "start_page_post_offset": 257,
+      "end_page_pre_offset": 49909,
+      "end_page_post_offset": 315
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 49909,
+      "start_page_post_offset": 315,
+      "end_page_pre_offset": 49969,
+      "end_page_post_offset": 375
+    },
+    {
+      "titulo": "Música y Danza",
+      "start_page_pre_offset": 49969,
+      "start_page_post_offset": 375,
+      "end_page_pre_offset": 49999,
+      "end_page_post_offset": 405
+    },
+    {
+      "titulo": "Proyecto Competencial",
+      "start_page_pre_offset": 49999,
+      "start_page_post_offset": 405,
+      "end_page_pre_offset": 50009,
+      "end_page_post_offset": 415
+    }
+  ]
+}

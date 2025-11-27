@@ -1,0 +1,95 @@
+{
+  "lista_materias": [
+    "CONOCIMIENTO DEL MEDIO NATURAL, SOCIAL Y CULTURAL",
+    "EDUCACIÓN ARTÍSTICA",
+    "EDUCACIÓN FÍSICA",
+    "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+    "LENGUA CASTELLANA Y LITERATURA",
+    "LENGUA VASCA (MODELO A)",
+    "LENGUA VASCA Y LITERATURA (MODELO D)",
+    "LENGUA EXTRANJERA",
+    "MATEMÁTICAS"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 116,
+      "start_page_post_offset": 116,
+      "end_page_pre_offset": 116,
+      "end_page_post_offset": 116,
+      "anexo_nombre": "ANEXO III: Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 16,
+    "start_page_post_offset": 16,
+    "end_page_pre_offset": 23,
+    "end_page_post_offset": 23,
+    "anexo_nombre": "ANEXO I: Perfil de salida del alumnado al término de la enseñanza básica y Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "CONOCIMIENTO DEL MEDIO NATURAL, SOCIAL Y CULTURAL",
+      "start_page_pre_offset": 24,
+      "start_page_post_offset": 24,
+      "end_page_pre_offset": 37,
+      "end_page_post_offset": 37
+    },
+    {
+      "titulo": "EDUCACIÓN ARTÍSTICA",
+      "start_page_pre_offset": 38,
+      "start_page_post_offset": 38,
+      "end_page_pre_offset": 43,
+      "end_page_post_offset": 43
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 44,
+      "start_page_post_offset": 44,
+      "end_page_pre_offset": 54,
+      "end_page_post_offset": 54
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+      "start_page_pre_offset": 55,
+      "start_page_post_offset": 55,
+      "end_page_pre_offset": 59,
+      "end_page_post_offset": 59
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 60,
+      "start_page_post_offset": 60,
+      "end_page_pre_offset": 71,
+      "end_page_post_offset": 71
+    },
+    {
+      "titulo": "LENGUA VASCA (MODELO A)",
+      "start_page_pre_offset": 72,
+      "start_page_post_offset": 72,
+      "end_page_pre_offset": 81,
+      "end_page_post_offset": 81
+    },
+    {
+      "titulo": "LENGUA VASCA Y LITERATURA (MODELO D)",
+      "start_page_pre_offset": 82,
+      "start_page_post_offset": 82,
+      "end_page_pre_offset": 92,
+      "end_page_post_offset": 92
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 93,
+      "start_page_post_offset": 93,
+      "end_page_pre_offset": 102,
+      "end_page_post_offset": 102
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 103,
+      "start_page_post_offset": 103,
+      "end_page_pre_offset": 115,
+      "end_page_post_offset": 115
+    }
+  ]
+}

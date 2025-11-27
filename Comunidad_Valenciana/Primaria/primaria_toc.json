@@ -1,0 +1,130 @@
+{
+  "lista_materias": [
+    "Coneixement del Medi Natural, Social i Cultural",
+    "Música i Dansa",
+    "Educació Plàstica i Visual",
+    "Educació Física",
+    "Valencià: Llengua i Literatura",
+    "Llengua Castellana i Literatura",
+    "Llengua Estrangera: Anglés",
+    "Matemàtiques",
+    "Educació en Valors Étics i Cívics"
+  ],
+  "offset": 41161,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 69,
+      "start_page_post_offset": 41230,
+      "end_page_pre_offset": 70,
+      "end_page_post_offset": 41231,
+      "anexo_nombre": "Principis de disseny de Situacions d'Aprenentatge (Coneixement del Medi)"
+    },
+    {
+      "start_page_pre_offset": 91,
+      "start_page_post_offset": 41252,
+      "end_page_pre_offset": 93,
+      "end_page_post_offset": 41254,
+      "anexo_nombre": "Principis de disseny de Situacions d'Aprenentatge (Música i Dansa)"
+    },
+    {
+      "start_page_pre_offset": 111,
+      "start_page_post_offset": 41272,
+      "end_page_pre_offset": 112,
+      "end_page_post_offset": 41273,
+      "anexo_nombre": "Principis de disseny de Situacions d'Aprenentatge (Educació Plàstica i Visual)"
+    },
+    {
+      "start_page_pre_offset": 137,
+      "start_page_post_offset": 41298,
+      "end_page_pre_offset": 138,
+      "end_page_post_offset": 41299,
+      "anexo_nombre": "Principis de disseny de Situacions d'Aprenentatge (Educació Física)"
+    },
+    {
+      "start_page_pre_offset": 168,
+      "start_page_post_offset": 41329,
+      "end_page_pre_offset": 169,
+      "end_page_post_offset": 41330,
+      "anexo_nombre": "Principis de disseny de Situacions d'Aprenentatge (Llengües - VLL/LCL)"
+    },
+    {
+      "start_page_pre_offset": 239,
+      "start_page_post_offset": 41400,
+      "end_page_pre_offset": 241,
+      "end_page_post_offset": 41402,
+      "anexo_nombre": "Principis de disseny de Situacions d'Aprenentatge (Educació en Valors Étics i Cívics)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 33,
+    "start_page_post_offset": 41194,
+    "end_page_pre_offset": 42,
+    "end_page_post_offset": 41203,
+    "anexo_nombre": "ANNEX I. Competències Clau de l'Etapa d'Educació Primària"
+  },
+  "materias": [
+    {
+      "titulo": "Coneixement del Medi Natural, Social i Cultural",
+      "start_page_pre_offset": 45,
+      "start_page_post_offset": 41206,
+      "end_page_pre_offset": 75,
+      "end_page_post_offset": 41236
+    },
+    {
+      "titulo": "Música i Dansa",
+      "start_page_pre_offset": 76,
+      "start_page_post_offset": 41237,
+      "end_page_pre_offset": 95,
+      "end_page_post_offset": 41256
+    },
+    {
+      "titulo": "Educació Plàstica i Visual",
+      "start_page_pre_offset": 96,
+      "start_page_post_offset": 41257,
+      "end_page_pre_offset": 115,
+      "end_page_post_offset": 41276
+    },
+    {
+      "titulo": "Educació Física",
+      "start_page_pre_offset": 116,
+      "start_page_post_offset": 41277,
+      "end_page_pre_offset": 142,
+      "end_page_post_offset": 41303
+    },
+    {
+      "titulo": "Valencià: Llengua i Literatura",
+      "start_page_pre_offset": 143,
+      "start_page_post_offset": 41304,
+      "end_page_pre_offset": 177,
+      "end_page_post_offset": 41338
+    },
+    {
+      "titulo": "Llengua Castellana i Literatura",
+      "start_page_pre_offset": 143,
+      "start_page_post_offset": 41304,
+      "end_page_pre_offset": 177,
+      "end_page_post_offset": 41338
+    },
+    {
+      "titulo": "Llengua Estrangera: Anglés",
+      "start_page_pre_offset": 178,
+      "start_page_post_offset": 41339,
+      "end_page_pre_offset": 199,
+      "end_page_post_offset": 41360
+    },
+    {
+      "titulo": "Matemàtiques",
+      "start_page_pre_offset": 200,
+      "start_page_post_offset": 41361,
+      "end_page_pre_offset": 227,
+      "end_page_post_offset": 41398
+    },
+    {
+      "titulo": "Educació en Valors Étics i Cívics",
+      "start_page_pre_offset": 228,
+      "start_page_post_offset": 41399,
+      "end_page_pre_offset": 243,
+      "end_page_post_offset": 41404
+    }
+  ]
+}

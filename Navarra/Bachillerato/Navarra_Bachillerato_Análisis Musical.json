@@ -1,0 +1,281 @@
+{
+  "data": {
+    "stage_objectives": [
+      "Desarrollar habilidades perceptivas para identificar los elementos de las obras musicales y profundizar en su comprensión global.",
+      "Examinar obras musicales desde un punto de vista crítico y estético.",
+      "Establecer relaciones entre la propuesta musical y el contexto histórico-social de su creación.",
+      "Conocer la incidencia de la música en el oyente y su utilización como medio terapéutico o en combinación con otras manifestaciones artísticas."
+    ],
+    "key_competencies": [
+      {
+        "id": "C_CCL",
+        "name": "Competencia en Comunicación Lingüística",
+        "operational_descriptors": [
+          {
+            "id": "CCL1",
+            "name": "CCL1"
+          },
+          {
+            "id": "CCL2",
+            "name": "CCL2"
+          },
+          {
+            "id": "CCL3",
+            "name": "CCL3"
+          }
+        ]
+      },
+      {
+        "id": "C_CD",
+        "name": "Competencia Digital",
+        "operational_descriptors": [
+          {
+            "id": "CD1",
+            "name": "CD1"
+          },
+          {
+            "id": "CD3",
+            "name": "CD3"
+          }
+        ]
+      },
+      {
+        "id": "C_CPSAA",
+        "name": "Competencia Personal, Social y de Aprender a Aprender",
+        "operational_descriptors": [
+          {
+            "id": "CPSAA3.1",
+            "name": "CPSAA3.1"
+          },
+          {
+            "id": "CPSAA3.2",
+            "name": "CPSAA3.2"
+          },
+          {
+            "id": "CPSAA4",
+            "name": "CPSAA4"
+          },
+          {
+            "id": "CPSAA5",
+            "name": "CPSAA5"
+          }
+        ]
+      },
+      {
+        "id": "C_CC",
+        "name": "Competencia Ciudadana",
+        "operational_descriptors": [
+          {
+            "id": "CC1",
+            "name": "CC1"
+          }
+        ]
+      },
+      {
+        "id": "C_CCEC",
+        "name": "Competencia en Conciencia y Expresión Cultural",
+        "operational_descriptors": [
+          {
+            "id": "CCEC1",
+            "name": "CCEC1"
+          },
+          {
+            "id": "CCEC2",
+            "name": "CCEC2"
+          },
+          {
+            "id": "CCEC3.1",
+            "name": "CCEC3.1"
+          },
+          {
+            "id": "CCEC3.2",
+            "name": "CCEC3.2"
+          }
+        ]
+      },
+      {
+        "id": "C_STEM",
+        "name": "Competencia STEM",
+        "operational_descriptors": [
+          {
+            "id": "STEM1",
+            "name": "STEM1"
+          },
+          {
+            "id": "STEM4",
+            "name": "STEM4"
+          }
+        ]
+      },
+      {
+        "id": "C_CE",
+        "name": "Competencia Emprendedora",
+        "operational_descriptors": [
+          {
+            "id": "CE3",
+            "name": "CE3"
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "ANÁLISIS MUSICAL",
+        "contents": [
+          {
+            "cycle": "Curso 1.º",
+            "courses": [
+              {
+                "name": "Análisis Musical",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras, para describir sus características y establecer comparaciones.",
+                    "evaluation_criteria": [
+                      "1.1. Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura.",
+                      "1.2. Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos."
+                    ]
+                  },
+                  {
+                    "name": "Establecer relaciones entre los elementos musicales de una composición, a través del análisis de su estructura y de los procedimientos compositivos utilizados, para asociar la obra con un género, un estilo y un contexto de creación.",
+                    "evaluation_criteria": [
+                      "2.1. Analizar, de forma guiada, obras musicales, identificando la estructura formal y los procedimientos compositivos utilizados.",
+                      "2.2. Asociar las obras analizadas con su contexto de creación, investigando sobre su autor o autora y su época."
+                    ]
+                  },
+                  {
+                    "name": "Elaborar comentarios y críticas musicales sobre las obras analizadas, utilizando una terminología adecuada y consultando distintas fuentes de información, para expresar juicios personales fundamentados y contribuir a la difusión del patrimonio musical a través de los medios disponibles.",
+                    "evaluation_criteria": [
+                      "3.1. Expresar una opinión propia, informada y fundamentada, sobre las obras analizadas, utilizando un vocabulario musical adecuado.",
+                      "3.2. Publicar reseñas musicales en los medios disponibles, analógicos y digitales, respetando los derechos de autoría y la propiedad intelectual."
+                    ]
+                  },
+                  {
+                    "name": "Utilizar los procedimientos compositivos fundamentales y las tecnologías digitales, empleando los elementos y las estructuras musicales más adecuadas, para crear obras sencillas y realizar improvisaciones.",
+                    "evaluation_criteria": [
+                      "4.1. Reproducir patrones melódicos, rítmicos, armónicos y formales de obras analizadas, aplicando estrategias de memorización y utilizando la interpretación vocal, corporal o instrumental en proyectos musicales grupales.",
+                      "4.2. Generar nuevas ideas musicales, combinando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.",
+                      "4.3. Utilizar, de forma guiada, las tecnologías digitales en la composición musical."
+                    ]
+                  },
+                  {
+                    "name": "Investigar sobre los usos de la música con fines terapéuticos y en combinación con otras formas de expresión artística, utilizando diferentes fuentes de información y analizando las características musicales de las obras, para entender de qué forma inciden determinados rasgos musicales en la salud y en las emociones.",
+                    "evaluation_criteria": [
+                      "5.1. Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión (cine, teatro, danza...), analizando sus características y el efecto que genera en el espectador."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "A.—Iniciación al análisis musical.",
+                    "knowledge_skills": [
+                      "A.1. La escucha activa y el estudio de partituras como soportes para el análisis.",
+                      "A.2. Elementos básicos de la música y la relación entre ellos: ritmo, tempo, melodía, armonía, textura, timbre, dinámica y agógica.",
+                      "A.3. Técnicas de análisis auditivo de obras de diferentes estilos y géneros.",
+                      "A.4. Estrategias de análisis de los elementos musicales de la partitura con apoyo de la audición.",
+                      "A.5. Reseñas musicales.",
+                      "A.6. Recursos digitales para la investigación, la composición y la difusión musical.",
+                      "A.7. Derechos de autoría y propiedad intelectual."
+                    ]
+                  },
+                  {
+                    "block_name": "B.—La forma musical.",
+                    "knowledge_skills": [
+                      "B.1. Elementos estructurales: célula, motivo, frase y semifrase, período, sección y movimiento. Ritmo melódico y armónico. Cadencias.",
+                      "B.2. Formas simples, formas compuestas y libres. Formas-tipo. Representación de esquemas formales.",
+                      "B.3. Procedimientos compositivos fundamentales: repetición, variación, contraste y desarrollo.",
+                      "B.4. Función de la música en combinación con otras manifestaciones artísticas."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cycle": "Curso 2.º",
+            "courses": [
+              {
+                "name": "Análisis Musical",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras, para describir sus características y establecer comparaciones.",
+                    "evaluation_criteria": [
+                      "1.1. Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición.",
+                      "1.2. Comparar los elementos constitutivos y las características musicales de diferentes obras, estableciendo analogías y diferencias entre ellas, a partir de la escucha activa y del estudio de partituras."
+                    ]
+                  },
+                  {
+                    "name": "Establecer relaciones entre los elementos musicales de una composición, a través del análisis de su estructura y de los procedimientos compositivos utilizados, para asociar la obra con un género, un estilo y un contexto de creación.",
+                    "evaluation_criteria": [
+                      "2.1. Distinguir los principales géneros y estilos musicales que se desarrollan en la historia, analizando los factores que inciden en la evolución de las formas musicales.",
+                      "2.2. Asociar las obras analizadas con un género, un estilo y un contexto de creación determinados, identificando, de forma autónoma, la estructura formal y los procedimientos compositivos utilizados."
+                    ]
+                  },
+                  {
+                    "name": "Elaborar comentarios y críticas musicales sobre las obras analizadas, utilizando una terminología adecuada y consultando distintas fuentes de información, para expresar juicios personales fundamentados y contribuir a la difusión del patrimonio musical a través de los medios disponibles.",
+                    "evaluation_criteria": [
+                      "3.1. Expresar juicios personales sobre las obras analizadas, argumentando la opinión propia y utilizando una terminología musical adecuada.",
+                      "3.2. Publicar críticas musicales y comentarios propios en los medios disponibles, analógicos y digitales, respetando los derechos de autoría y la propiedad intelectual.",
+                      "3.3. Justificar la opinión propia sobre las obras analizadas, investigando y seleccionando la información más pertinente a partir de medios analógicos y digitales."
+                    ]
+                  },
+                  {
+                    "name": "Utilizar los procedimientos compositivos fundamentales y las tecnologías digitales, empleando los elementos y las estructuras musicales más adecuadas, para crear obras sencillas y realizar improvisaciones.",
+                    "evaluation_criteria": [
+                      "4.1. Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos musicales grupales, utilizando los procedimientos compositivos fundamentales y aplicando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.",
+                      "4.2. Utilizar, de forma eficaz, las tecnologías digitales en la composición musical."
+                    ]
+                  },
+                  {
+                    "name": "Investigar sobre los usos de la música con fines terapéuticos y en combinación con otras formas de expresión artística, utilizando diferentes fuentes de información y analizando las características musicales de las obras, para entender de qué forma inciden determinados rasgos musicales en la salud y en las emociones.",
+                    "evaluation_criteria": [
+                      "5.1. Analizar los usos terapéuticos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables.",
+                      "5.2. Describir las características de la música que se utiliza con fines terapéuticos, analizando ejemplos de obras y relacionando sus rasgos con posibles efectos en el oyente."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "A.—Técnicas de análisis musical.",
+                    "knowledge_skills": [
+                      "A.1. La comparación como técnica analítica.",
+                      "A.2. Técnicas de análisis de audición y de partituras.",
+                      "A.3. Técnicas para el análisis del contexto de creación. El pensamiento de la persona creadora, los condicionantes contextuales y la interpretación de la obra.",
+                      "A.4. Comentarios y críticas musicales.",
+                      "A.5. Recursos digitales para la investigación, la composición y la difusión musical.",
+                      "A.6. Derechos de autoría y propiedad intelectual."
+                    ]
+                  },
+                  {
+                    "block_name": "B.—Géneros musicales.",
+                    "knowledge_skills": [
+                      "B.1. Las características sonoras y estilísticas de la música desde la Edad Media hasta la actualidad. Evolución organológica.",
+                      "B.2. Las formas y los géneros musicales desde la Edad Media hasta la actualidad.",
+                      "B.3. Uso de la música con fines terapéuticos."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "region": "Navarra",
+    "educational_stage": "Bachillerato",
+    "version": "BON 170, de 26 de agosto de 2022",
+    "strings": {
+      "stage_objectives": "Objetivos de Etapa",
+      "key_competencies": "Competencias Clave",
+      "operational_descriptors": "Descriptores Operativos",
+      "areas": "Materias",
+      "cycle": "Curso",
+      "specific_competencies": "Competencias Específicas",
+      "evaluation_criteria": "Criterios de Evaluación",
+      "contents": "Saberes Básicos",
+      "blocks": "Bloques de Saberes Básicos",
+      "knowledge_skills": "Saberes"
+    }
+  }
+}

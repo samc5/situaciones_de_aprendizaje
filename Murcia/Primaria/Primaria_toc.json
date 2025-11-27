@@ -1,0 +1,127 @@
+{
+  "lista_materias": [
+    "Ciencias de la Naturaleza",
+    "Ciencias Sociales",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Física",
+    "Educación Plástica y Visual",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Música y Danza",
+    "Profundización Educativa",
+    "Refuerzo de la Competencia en Comunicación Lingüística",
+    "Segunda Lengua Extranjera",
+    "Lengua de Signos Española"
+  ],
+  "offset": 39895,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 40128,
+      "start_page_post_offset": 233,
+      "end_page_pre_offset": 40128,
+      "end_page_post_offset": 233,
+      "anexo_nombre": "Anexo IV. Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 39923,
+    "start_page_post_offset": 28,
+    "end_page_pre_offset": 39935,
+    "end_page_post_offset": 40,
+    "anexo_nombre": "Anexo II. Perfil de salida del alumnado al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "Ciencias de la Naturaleza",
+      "start_page_pre_offset": 39936,
+      "start_page_post_offset": 41,
+      "end_page_pre_offset": 39949,
+      "end_page_post_offset": 54
+    },
+    {
+      "titulo": "Ciencias Sociales",
+      "start_page_pre_offset": 39949,
+      "start_page_post_offset": 54,
+      "end_page_pre_offset": 39967,
+      "end_page_post_offset": 72
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 39967,
+      "start_page_post_offset": 72,
+      "end_page_pre_offset": 39975,
+      "end_page_post_offset": 80
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 39975,
+      "start_page_post_offset": 80,
+      "end_page_pre_offset": 39995,
+      "end_page_post_offset": 100
+    },
+    {
+      "titulo": "Educación Plástica y Visual",
+      "start_page_pre_offset": 39995,
+      "start_page_post_offset": 100,
+      "end_page_pre_offset": 40006,
+      "end_page_post_offset": 111
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 40006,
+      "start_page_post_offset": 111,
+      "end_page_pre_offset": 40041,
+      "end_page_post_offset": 146
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 40041,
+      "start_page_post_offset": 146,
+      "end_page_pre_offset": 40058,
+      "end_page_post_offset": 163
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 40058,
+      "start_page_post_offset": 163,
+      "end_page_pre_offset": 40082,
+      "end_page_post_offset": 187
+    },
+    {
+      "titulo": "Música y Danza",
+      "start_page_pre_offset": 40082,
+      "start_page_post_offset": 187,
+      "end_page_pre_offset": 40100,
+      "end_page_post_offset": 205
+    },
+    {
+      "titulo": "Profundización Educativa",
+      "start_page_pre_offset": 40100,
+      "start_page_post_offset": 205,
+      "end_page_pre_offset": 40111,
+      "end_page_post_offset": 216
+    },
+    {
+      "titulo": "Refuerzo de la Competencia en Comunicación Lingüística",
+      "start_page_pre_offset": 40111,
+      "start_page_post_offset": 216,
+      "end_page_pre_offset": 40116,
+      "end_page_post_offset": 221
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 40116,
+      "start_page_post_offset": 221,
+      "end_page_pre_offset": 40123,
+      "end_page_post_offset": 228
+    },
+    {
+      "titulo": "Lengua de Signos Española",
+      "start_page_pre_offset": 40123,
+      "start_page_post_offset": 228,
+      "end_page_pre_offset": 40128,
+      "end_page_post_offset": 233
+    }
+  ]
+}

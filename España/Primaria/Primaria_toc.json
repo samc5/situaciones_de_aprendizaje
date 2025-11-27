@@ -1,0 +1,80 @@
+{
+  "lista_materias": [
+    "Conocimiento del Medio Natural, Social y Cultural",
+    "Educación Artística",
+    "Educación Física",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Educación en Valores Cívicos y Éticos",
+    "Religión"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 139,
+      "start_page_post_offset": 139,
+      "end_page_pre_offset": 141,
+      "end_page_post_offset": 141,
+      "anexo_nombre": "ANEXO III. Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 17,
+    "start_page_post_offset": 17,
+    "end_page_pre_offset": 23,
+    "end_page_post_offset": 23,
+    "anexo_nombre": "ANEXO I. Perfil de salida del alumnado al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "Conocimiento del Medio Natural, Social y Cultural",
+      "start_page_pre_offset": 24,
+      "start_page_post_offset": 24,
+      "end_page_pre_offset": 44,
+      "end_page_post_offset": 44
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page_pre_offset": 44,
+      "start_page_post_offset": 44,
+      "end_page_pre_offset": 55,
+      "end_page_post_offset": 55
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 55,
+      "start_page_post_offset": 55,
+      "end_page_pre_offset": 69,
+      "end_page_post_offset": 69
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 69,
+      "start_page_post_offset": 69,
+      "end_page_pre_offset": 77,
+      "end_page_post_offset": 77
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 77,
+      "start_page_post_offset": 77,
+      "end_page_pre_offset": 99,
+      "end_page_post_offset": 99
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 99,
+      "start_page_post_offset": 99,
+      "end_page_pre_offset": 115,
+      "end_page_post_offset": 115
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 115,
+      "start_page_post_offset": 115,
+      "end_page_pre_offset": 139,
+      "end_page_post_offset": 139
+    }
+  ]
+}

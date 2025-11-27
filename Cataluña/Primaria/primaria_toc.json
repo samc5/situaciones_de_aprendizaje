@@ -1,0 +1,239 @@
+{
+  "lista_materias": [
+    "Aranès i Literatura a l'Aran",
+    "Llengua Castellana i Literatura",
+    "Llengua Catalana i Literatura",
+    "Llengua Estrangera",
+    "Segona Llengua Estrangera",
+    "Coneixement del Medi Natural, Social i Cultural",
+    "Educació Artística",
+    "Educació en Valors Cívics i Ètics",
+    "Educació Física",
+    "Matemàtiques",
+    "Biologia i Geologia",
+    "Ciències Socials: Geografia i Història",
+    "Física i Química",
+    "Música",
+    "Tecnologia i Digitalització",
+    "Arts Escèniques i Dansa",
+    "Cultura Científica",
+    "Cultura Clàssica",
+    "Economia Bàsica",
+    "Emprenedoria",
+    "Expressió Artística",
+    "Filosofia",
+    "Formació i Orientació Personal i Professional",
+    "Llatí: Llengua i Cultura",
+    "Robòtica i Programació",
+    "Ciències Aplicades",
+    "Comunicació i Ciències Socials"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 456,
+      "start_page_post_offset": 456,
+      "end_page_pre_offset": 457,
+      "end_page_post_offset": 457,
+      "anexo_nombre": "Annex 5 Aprenentatge basat en situacions"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 33,
+    "start_page_post_offset": 33,
+    "end_page_pre_offset": 44,
+    "end_page_post_offset": 44,
+    "anexo_nombre": "Annex 1 Competències clau i perfil competencial de sortida de l’alumnat al final de l’educació bàsica"
+  },
+  "materias": [
+    {
+      "titulo": "EP Àrees lingüístiques: Aranès i Literatura a l’Aran, Llengua Castellana i Literatura, Llengua Catalana i Literatura, Llengua Estrangera, Segona Llengua Estrangera",
+      "start_page_pre_offset": 45,
+      "start_page_post_offset": 45,
+      "end_page_pre_offset": 101,
+      "end_page_post_offset": 101
+    },
+    {
+      "titulo": "EP Coneixement del Medi Natural, Social i Cultural",
+      "start_page_pre_offset": 102,
+      "start_page_post_offset": 102,
+      "end_page_pre_offset": 124,
+      "end_page_post_offset": 124
+    },
+    {
+      "titulo": "EP Educació Artística",
+      "start_page_pre_offset": 125,
+      "start_page_post_offset": 125,
+      "end_page_pre_offset": 141,
+      "end_page_post_offset": 141
+    },
+    {
+      "titulo": "EP Educació en Valors Cívics i Ètics",
+      "start_page_pre_offset": 142,
+      "start_page_post_offset": 142,
+      "end_page_pre_offset": 150,
+      "end_page_post_offset": 150
+    },
+    {
+      "titulo": "EP Educació Física",
+      "start_page_pre_offset": 151,
+      "start_page_post_offset": 151,
+      "end_page_pre_offset": 172,
+      "end_page_post_offset": 172
+    },
+    {
+      "titulo": "EP Matemàtiques",
+      "start_page_pre_offset": 173,
+      "start_page_post_offset": 173,
+      "end_page_pre_offset": 193,
+      "end_page_post_offset": 193
+    },
+    {
+      "titulo": "ESO Matèries lingüístiques: Aranès i Literatura a l’Aran, Llengua Castellana i Literatura, Llengua Catalana i Literatura, Llengua Estrangera, Segona Llengua Estrangera",
+      "start_page_pre_offset": 194,
+      "start_page_post_offset": 194,
+      "end_page_pre_offset": 243,
+      "end_page_post_offset": 243
+    },
+    {
+      "titulo": "ESO Arts Escèniques i Dansa",
+      "start_page_pre_offset": 244,
+      "start_page_post_offset": 244,
+      "end_page_pre_offset": 249,
+      "end_page_post_offset": 249
+    },
+    {
+      "titulo": "ESO Biologia i Geologia",
+      "start_page_pre_offset": 250,
+      "start_page_post_offset": 250,
+      "end_page_pre_offset": 264,
+      "end_page_post_offset": 264
+    },
+    {
+      "titulo": "ESO Ciències Socials: Geografia i Història",
+      "start_page_pre_offset": 265,
+      "start_page_post_offset": 265,
+      "end_page_pre_offset": 286,
+      "end_page_post_offset": 286
+    },
+    {
+      "titulo": "ESO Cultura Clàssica",
+      "start_page_pre_offset": 287,
+      "start_page_post_offset": 287,
+      "end_page_pre_offset": 293,
+      "end_page_post_offset": 293
+    },
+    {
+      "titulo": "ESO Digitalització",
+      "start_page_pre_offset": 294,
+      "start_page_post_offset": 294,
+      "end_page_pre_offset": 301,
+      "end_page_post_offset": 301
+    },
+    {
+      "titulo": "ESO Economia Bàsica",
+      "start_page_pre_offset": 302,
+      "start_page_post_offset": 302,
+      "end_page_pre_offset": 309,
+      "end_page_post_offset": 309
+    },
+    {
+      "titulo": "ESO Educació en Valors Cívics i Ètics",
+      "start_page_pre_offset": 310,
+      "start_page_post_offset": 310,
+      "end_page_pre_offset": 317,
+      "end_page_post_offset": 317
+    },
+    {
+      "titulo": "ESO Educació Física",
+      "start_page_pre_offset": 318,
+      "start_page_post_offset": 318,
+      "end_page_pre_offset": 331,
+      "end_page_post_offset": 331
+    },
+    {
+      "titulo": "ESO Educació Plàstica, Visual i Audiovisual / Expressió Artística",
+      "start_page_pre_offset": 332,
+      "start_page_post_offset": 332,
+      "end_page_pre_offset": 342,
+      "end_page_post_offset": 342
+    },
+    {
+      "titulo": "ESO Emprenedoria",
+      "start_page_pre_offset": 343,
+      "start_page_post_offset": 343,
+      "end_page_pre_offset": 360,
+      "end_page_post_offset": 360
+    },
+    {
+      "titulo": "ESO Filosofia",
+      "start_page_pre_offset": 361,
+      "start_page_post_offset": 361,
+      "end_page_pre_offset": 368,
+      "end_page_post_offset": 368
+    },
+    {
+      "titulo": "ESO Física i Química",
+      "start_page_pre_offset": 369,
+      "start_page_post_offset": 369,
+      "end_page_pre_offset": 383,
+      "end_page_post_offset": 383
+    },
+    {
+      "titulo": "ESO Formació i Orientació Personal i Professional",
+      "start_page_pre_offset": 384,
+      "start_page_post_offset": 384,
+      "end_page_pre_offset": 391,
+      "end_page_post_offset": 391
+    },
+    {
+      "titulo": "ESO Llatí: Llengua i Cultura",
+      "start_page_pre_offset": 392,
+      "start_page_post_offset": 392,
+      "end_page_pre_offset": 403,
+      "end_page_post_offset": 403
+    },
+    {
+      "titulo": "ESO Matemàtiques",
+      "start_page_pre_offset": 404,
+      "start_page_post_offset": 404,
+      "end_page_pre_offset": 421,
+      "end_page_post_offset": 421
+    },
+    {
+      "titulo": "ESO Música",
+      "start_page_pre_offset": 422,
+      "start_page_post_offset": 422,
+      "end_page_pre_offset": 429,
+      "end_page_post_offset": 429
+    },
+    {
+      "titulo": "ESO Robòtica i Programació",
+      "start_page_pre_offset": 430,
+      "start_page_post_offset": 430,
+      "end_page_pre_offset": 433,
+      "end_page_post_offset": 433
+    },
+    {
+      "titulo": "ESO Tecnologia i Digitalització",
+      "start_page_pre_offset": 434,
+      "start_page_post_offset": 434,
+      "end_page_pre_offset": 445,
+      "end_page_post_offset": 445
+    },
+    {
+      "titulo": "CFGB Ciències Aplicades",
+      "start_page_pre_offset": 458,
+      "start_page_post_offset": 458,
+      "end_page_pre_offset": 469,
+      "end_page_post_offset": 469
+    },
+    {
+      "titulo": "CFGB Comunicació i Ciències Socials",
+      "start_page_pre_offset": 470,
+      "start_page_post_offset": 470,
+      "end_page_pre_offset": 487,
+      "end_page_post_offset": 487
+    }
+  ]
+}

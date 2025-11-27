@@ -1,0 +1,135 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Cultura Clásica",
+    "Digitalización",
+    "Digitalización Básica",
+    "Economía y Emprendimiento",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Educación en Valores Cívicos y Éticos",
+    "Emprendimiento Social y Sostenibilidad",
+    "Expresión Artística",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Introducción a la Filosofía"
+  ],
+  "offset": 42531,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 42595,
+      "start_page_post_offset": 64,
+      "end_page_pre_offset": 42600,
+      "end_page_post_offset": 70,
+      "anexo_nombre": "Anexo II. Situaciones de aprendizaje. Principios y orientaciones generales"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 42581,
+    "start_page_post_offset": 50,
+    "end_page_pre_offset": 42594,
+    "end_page_post_offset": 63,
+    "anexo_nombre": "Anexo I. Competencias clave y Perfil de salida"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 42601,
+      "start_page_post_offset": 71,
+      "end_page_pre_offset": 42631,
+      "end_page_post_offset": 101
+    },
+    {
+      "titulo": "Cultura Clásica",
+      "start_page_pre_offset": 42632,
+      "start_page_post_offset": 102,
+      "end_page_pre_offset": 42653,
+      "end_page_post_offset": 123
+    },
+    {
+      "titulo": "Digitalización",
+      "start_page_pre_offset": 42654,
+      "start_page_post_offset": 124,
+      "end_page_pre_offset": 42670,
+      "end_page_post_offset": 140
+    },
+    {
+      "titulo": "Digitalización Básica",
+      "start_page_pre_offset": 42671,
+      "start_page_post_offset": 141,
+      "end_page_pre_offset": 42687,
+      "end_page_post_offset": 157
+    },
+    {
+      "titulo": "Economía y Emprendimiento",
+      "start_page_pre_offset": 42688,
+      "start_page_post_offset": 158,
+      "end_page_pre_offset": 42710,
+      "end_page_post_offset": 180
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 42711,
+      "start_page_post_offset": 181,
+      "end_page_pre_offset": 42745,
+      "end_page_post_offset": 215
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 42746,
+      "start_page_post_offset": 216,
+      "end_page_pre_offset": 42766,
+      "end_page_post_offset": 236
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 42767,
+      "start_page_post_offset": 237,
+      "end_page_pre_offset": 42784,
+      "end_page_post_offset": 254
+    },
+    {
+      "titulo": "Emprendimiento Social y Sostenibilidad",
+      "start_page_pre_offset": 42785,
+      "start_page_post_offset": 255,
+      "end_page_pre_offset": 42802,
+      "end_page_post_offset": 272
+    },
+    {
+      "titulo": "Expresión Artística",
+      "start_page_pre_offset": 42803,
+      "start_page_post_offset": 273,
+      "end_page_pre_offset": 42820,
+      "end_page_post_offset": 290
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 42821,
+      "start_page_post_offset": 291,
+      "end_page_pre_offset": 42847,
+      "end_page_post_offset": 317
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 42848,
+      "start_page_post_offset": 318,
+      "end_page_pre_offset": 42865,
+      "end_page_post_offset": 335
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 42866,
+      "start_page_post_offset": 336,
+      "end_page_pre_offset": 42917,
+      "end_page_post_offset": 387
+    },
+    {
+      "titulo": "Introducción a la Filosofía",
+      "start_page_pre_offset": 42918,
+      "start_page_post_offset": 388,
+      "end_page_pre_offset": 42918,
+      "end_page_post_offset": 388
+    }
+  ]
+}

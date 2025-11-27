@@ -1,0 +1,643 @@
+{
+  "data": {
+    "stage_objectives": [
+      "Fomentar el desarrollo de la expresividad y la creatividad.",
+      "Descubrir los códigos específicos de las artes escénicas, incluidas las performativas.",
+      "Participar de la vida cultural de su entorno y difundir y valorar el patrimonio.",
+      "Identificar oportunidades de desarrollo personal, social, académico o profesional ligadas a las artes escénicas."
+    ],
+    "key_competencies": [],
+    "areas": [
+      {
+        "name": "A. El patrimonio escénico",
+        "contents": [
+          {
+            "cycle": "Curso 1.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.",
+                      "4.2. Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.",
+                      "5.2. Comentar manifestaciones escénicas, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "A. El patrimonio escénico",
+                    "knowledge_skills": [
+                      "A.1 Artes escénicas: concepto, tipologías y tradiciones.",
+                      "A.2 Las artes escénicas y su historia: cambios y transformaciones.",
+                      "A.3 Dramaticidad, teatralidad y performatividad.",
+                      "A.4 El patrimonio inmaterial."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cycle": "Curso 2.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.",
+                      "4.2. Evaluar y presentar los resultados de proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.",
+                      "4.3. Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Defender, con creatividad, una propuesta escénica/performativa compleja, partiendo de un motivo original o preexistente, que movilice y cohesione a los demás.",
+                      "5.2. Realizar y compartir reseñas y críticas escénicas, empleando la terminología adecuada, consultando fuentes fiables y reflexionando, con rigor y solidez, sobre las características, los presupuestos artísticos y la recepción de la obra."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "A. El patrimonio escénico",
+                    "knowledge_skills": [
+                      "A.1 Significado social de las artes escénicas: memoria y reflejo. La perspectiva de género y la perspectiva intercultural. Identidad y performatividad.",
+                      "A.2 Las artes escénicas y su historia: cambios y transformaciones.",
+                      "A.3 Tendencias actuales en la representación escénica y performativa.",
+                      "A.4 Manifestaciones espectaculares: rituales y sociales. Los festejos populares.",
+                      "A.5 Manifestaciones no orales."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "B. Expresión y comunicación escénica.",
+        "contents": [
+          {
+            "cycle": "Curso 1.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.",
+                      "4.2. Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.",
+                      "5.2. Comentar manifestaciones escénicas, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "B. Expresión y comunicación escénica.",
+                    "knowledge_skills": [
+                      "B.1 Códigos de significación escénica: naturaleza, descripción y clasificación.",
+                      "B.2 El espacio escénico como generador de significado. La convención teatral.",
+                      "B.3 Recursos plásticos: escenografía volumétrica y virtual, caracterización, iluminación y espacio sonoro.",
+                      "B.4 Recursos literarios y otros materiales. El texto dramático.",
+                      "B.5 El conflicto dramático: personaje, situación y acción dramática.",
+                      "B.6 El personaje dramático: análisis, caracterización y construcción.",
+                      "B.7 Juego dramático, improvisación, dramatización y creación colectiva."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cycle": "Curso 2.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.",
+                      "4.2. Evaluar y presentar los resultados de proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.",
+                      "4.3. Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Defender, con creatividad, una propuesta escénica/performativa compleja, partiendo de un motivo original o preexistente, que movilice y cohesione a los demás.",
+                      "5.2. Realizar y compartir reseñas y críticas escénicas, empleando la terminología adecuada, consultando fuentes fiables y reflexionando, con rigor y solidez, sobre las características, los presupuestos artísticos y la recepción de la obra."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "B. Expresión y comunicación escénica.",
+                    "knowledge_skills": [
+                      "B.1 Actos performativos: generación de realidad.",
+                      "B.2 Características del espacio escénico y performativo actual.",
+                      "B.3 Espacios no escénicos: adaptación de recursos plásticos.",
+                      "B.5 Estructuras dramáticas actuales. La memoria performativa.",
+                      "B.6 El personaje en acción en las manifestaciones actuales.",
+                      "B.7 Juego dramático, improvisación, dramatización y creación colectiva."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "C. Interpretación.",
+        "contents": [
+          {
+            "cycle": "Curso 1.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.",
+                      "4.2. Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.",
+                      "5.2. Comentar manifestaciones escénicas, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "C. Interpretación.",
+                    "knowledge_skills": [
+                      "C.1 Preparación física y preparación pre-expresiva. El cuidado del cuerpo.",
+                      "C.2 Métodos y técnicas de interpretación.",
+                      "C.3 Los instrumentos del intérprete: expresión corporal, gestual, oral y rítmico-musical. La conciencia emocional.",
+                      "C.4 El personaje dramático: grados de representación, objetivos y funciones.",
+                      "C.5 La partitura interpretativa y su ejecución."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cycle": "Curso 2.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.",
+                      "4.2. Evaluar y presentar los resultados de proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.",
+                      "4.3. Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Defender, con creatividad, una propuesta escénica/performativa compleja, partiendo de un motivo original o preexistente, que movilice y cohesione a los demás.",
+                      "5.2. Realizar y compartir reseñas y críticas escénicas, empleando la terminología adecuada, consultando fuentes fiables y reflexionando, con rigor y solidez, sobre las características, los presupuestos artísticos y la recepción de la obra."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "C. Interpretación.",
+                    "knowledge_skills": [
+                      "C.1 Métodos interpretativos actuales.",
+                      "C.3 Profundización en los instrumentos del intérprete: expresión corporal, gestual, oral y rítmico-musical. La conciencia emocional.",
+                      "C.4 La construcción actual del personaje dramático.",
+                      "C.5 Creación performativa: proceso y ejecución."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "D. Representación escénica y escenificación.",
+        "contents": [
+          {
+            "cycle": "Curso 1.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.",
+                      "4.2. Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.",
+                      "5.2. Comentar manifestaciones escénicas, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "D. Representación escénica y escenificación.",
+                    "knowledge_skills": [
+                      "D.1 El espectáculo escénico: concepto y características.",
+                      "D.2 Tipologías básicas del espectáculo: clásico, de vanguardia, corporal, occidental, oriental, de objetos, musical, dancístico, de interior, de calle.",
+                      "D.3 Otras formas de presentación escénica: happening, performance, vídeo-teatro o teatro-danza.",
+                      "D.4 El diseño de un espectáculo: equipos, fases y áreas de trabajo.",
+                      "D.5 Los ensayos: tipología, finalidades y organización.",
+                      "D.6 Representación de espectáculos escénicos.",
+                      "D.7 Estrategias de trabajo en equipo. Resolución de conflictos."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cycle": "Curso 2.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.",
+                      "4.2. Evaluar y presentar los resultados de proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.",
+                      "4.3. Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Defender, con creatividad, una propuesta escénica/performativa compleja, partiendo de un motivo original o preexistente, que movilice y cohesione a los demás.",
+                      "5.2. Realizar y compartir reseñas y críticas escénicas, empleando la terminología adecuada, consultando fuentes fiables y reflexionando, con rigor y solidez, sobre las características, los presupuestos artísticos y la recepción de la obra."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "D. Representación escénica y escenificación.",
+                    "knowledge_skills": [
+                      "D.1 La dramaturgia en el diseño de un proyecto escénico.",
+                      "D.2 La producción y la realización de un proyecto escénico.",
+                      "D.4 La dirección artística en proyectos escénicos. El diseño de un espectáculo: equipos, fases y áreas de trabajo. Espacios escénicos y espacios no escénicos. Integración de lenguajes no orales y tecnológicos.",
+                      "D.5 Los ensayos: funciones de la dirección escénica y regiduría.",
+                      "D.6 Representación de espectáculos escénicos.",
+                      "D.7 Estrategias de trabajo en equipo. Distribución de tareas y liderazgo compartido. Resolución de conflictos.",
+                      "D.8 Exhibición, difusión, distribución y evaluación de productos escénicos.",
+                      "D.9 Oportunidades de desarrollo personal, social, académico y profesional vinculadas con la materia."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "E. Recepción en las artes escénicas.",
+        "contents": [
+          {
+            "cycle": "Curso 1.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.",
+                      "4.2. Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.",
+                      "5.2. Comentar manifestaciones escénicas, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "E. Recepción en las artes escénicas.",
+                    "knowledge_skills": [
+                      "E.1 El público: concepto y tipologías.",
+                      "E.2 La recepción teatral: catarsis, extrañamiento y participación.",
+                      "E.3 Estrategias y técnicas de análisis de manifestaciones escénicas.",
+                      "E.4 El respeto de la propiedad intelectual. La protección de la creatividad personal."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cycle": "Curso 2.º",
+            "courses": [
+              {
+                "name": "Artes Escénicas",
+                "specific_competencies": [
+                  {
+                    "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio.",
+                    "evaluation_criteria": [
+                      "1.1. Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+                      "1.2. Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente."
+                    ]
+                  },
+                  {
+                    "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa.",
+                    "evaluation_criteria": [
+                      "2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+                      "2.2. Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa."
+                    ]
+                  },
+                  {
+                    "name": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos.",
+                    "evaluation_criteria": [
+                      "3.1. Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+                      "3.2. Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+                      "3.3. Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                    ]
+                  },
+                  {
+                    "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional.",
+                    "evaluation_criteria": [
+                      "4.1. Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.",
+                      "4.2. Evaluar y presentar los resultados de proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.",
+                      "4.3. Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa."
+                    ]
+                  },
+                  {
+                    "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las artes escénicas.",
+                    "evaluation_criteria": [
+                      "5.1. Defender, con creatividad, una propuesta escénica/performativa compleja, partiendo de un motivo original o preexistente, que movilice y cohesione a los demás.",
+                      "5.2. Realizar y compartir reseñas y críticas escénicas, empleando la terminología adecuada, consultando fuentes fiables y reflexionando, con rigor y solidez, sobre las características, los presupuestos artísticos y la recepción de la obra."
+                    ]
+                  }
+                ],
+                "contents": [
+                  {
+                    "block_name": "E. Recepción en las artes escénicas.",
+                    "knowledge_skills": [
+                      "E.3 Estrategias y técnicas de análisis de manifestaciones escénicas. El texto en su relación con la puesta en escena.",
+                      "E.4 El respeto de la propiedad intelectual. La protección de la creatividad personal.",
+                      "E.5 La crítica escénica. Estrategias y técnicas de elaboración de una reseña."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "region": "Navarra",
+    "educational_stage": "Bachillerato",
+    "version": "BON 170, de 26 de agosto de 2022",
+    "strings": {
+      "stage_objectives": "Objetivos de la Etapa",
+      "key_competencies": "Competencias Clave",
+      "operational_descriptors": "Descriptores Operativos",
+      "areas": "Áreas/Materias",
+      "cycle": "Ciclo",
+      "specific_competencies": "Competencias Específicas",
+      "evaluation_criteria": "Criterios de Evaluación",
+      "contents": "Contenidos/Saberes Básicos",
+      "blocks": "Bloques de Saberes Básicos",
+      "knowledge_skills": "Saberes Básicos"
+    }
+  }
+}

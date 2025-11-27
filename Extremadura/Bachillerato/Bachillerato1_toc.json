@@ -1,0 +1,215 @@
+{
+  "lista_materias": [
+    "ACTIVIDAD FÍSICA Y SALUD",
+    "ANÁLISIS MUSICAL",
+    "ARTES ESCÉNICAS",
+    "BIOLOGÍA",
+    "BIOLOGÍA, GEOLOGÍA Y CIENCIAS AMBIENTALES",
+    "CIENCIAS GENERALES",
+    "CORO Y TÉCNICA VOCAL",
+    "CULTURA AUDIOVISUAL",
+    "DIBUJO ARTÍSTICO",
+    "DIBUJO TÉCNICO",
+    "DIBUJO TÉCNICO APLICADO A LAS ARTES PLÁSTICAS Y AL DISEÑO",
+    "DISEÑO",
+    "ECOLOGÍA Y SOSTENIBILIDAD AMBIENTAL",
+    "ECONOMÍA",
+    "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+    "EDUCACIÓN FÍSICA",
+    "EMPRESA Y DISEÑO DE MODELOS DE NEGOCIO",
+    "FILOSOFÍA",
+    "FÍSICA",
+    "FÍSICA Y QUÍMICA",
+    "FUNDAMENTOS ARTÍSTICOS",
+    "GEOGRAFÍA",
+    "GEOLOGÍA Y CIENCIAS AMBIENTALES",
+    "GRIEGO"
+  ],
+  "offset": 41414,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 41470,
+      "start_page_post_offset": 56,
+      "end_page_pre_offset": 41474,
+      "end_page_post_offset": 60,
+      "anexo_nombre": "ANEXO II. Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 41457,
+    "start_page_post_offset": 43,
+    "end_page_pre_offset": 41469,
+    "end_page_post_offset": 55,
+    "anexo_nombre": "ANEXO I. Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "ACTIVIDAD FÍSICA Y SALUD",
+      "start_page_pre_offset": 41475,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 41499,
+      "end_page_post_offset": 85
+    },
+    {
+      "titulo": "ANÁLISIS MUSICAL",
+      "start_page_pre_offset": 41500,
+      "start_page_post_offset": 86,
+      "end_page_pre_offset": 41519,
+      "end_page_post_offset": 105
+    },
+    {
+      "titulo": "ARTES ESCÉNICAS",
+      "start_page_pre_offset": 41520,
+      "start_page_post_offset": 106,
+      "end_page_pre_offset": 41545,
+      "end_page_post_offset": 131
+    },
+    {
+      "titulo": "BIOLOGÍA",
+      "start_page_pre_offset": 41546,
+      "start_page_post_offset": 132,
+      "end_page_pre_offset": 41564,
+      "end_page_post_offset": 150
+    },
+    {
+      "titulo": "BIOLOGÍA, GEOLOGÍA Y CIENCIAS AMBIENTALES",
+      "start_page_pre_offset": 41565,
+      "start_page_post_offset": 151,
+      "end_page_pre_offset": 41587,
+      "end_page_post_offset": 173
+    },
+    {
+      "titulo": "CIENCIAS GENERALES",
+      "start_page_pre_offset": 41588,
+      "start_page_post_offset": 174,
+      "end_page_pre_offset": 41604,
+      "end_page_post_offset": 190
+    },
+    {
+      "titulo": "CORO Y TÉCNICA VOCAL",
+      "start_page_pre_offset": 41605,
+      "start_page_post_offset": 191,
+      "end_page_pre_offset": 41622,
+      "end_page_post_offset": 208
+    },
+    {
+      "titulo": "CULTURA AUDIOVISUAL",
+      "start_page_pre_offset": 41622,
+      "start_page_post_offset": 208,
+      "end_page_pre_offset": 41640,
+      "end_page_post_offset": 226
+    },
+    {
+      "titulo": "DIBUJO ARTÍSTICO",
+      "start_page_pre_offset": 41640,
+      "start_page_post_offset": 226,
+      "end_page_pre_offset": 41661,
+      "end_page_post_offset": 247
+    },
+    {
+      "titulo": "DIBUJO TÉCNICO",
+      "start_page_pre_offset": 41661,
+      "start_page_post_offset": 247,
+      "end_page_pre_offset": 41684,
+      "end_page_post_offset": 270
+    },
+    {
+      "titulo": "DIBUJO TÉCNICO APLICADO A LAS ARTES PLÁSTICAS Y AL DISEÑO",
+      "start_page_pre_offset": 41685,
+      "start_page_post_offset": 271,
+      "end_page_pre_offset": 41704,
+      "end_page_post_offset": 290
+    },
+    {
+      "titulo": "DISEÑO",
+      "start_page_pre_offset": 41704,
+      "start_page_post_offset": 290,
+      "end_page_pre_offset": 41721,
+      "end_page_post_offset": 307
+    },
+    {
+      "titulo": "ECOLOGÍA Y SOSTENIBILIDAD AMBIENTAL",
+      "start_page_pre_offset": 41722,
+      "start_page_post_offset": 308,
+      "end_page_pre_offset": 41740,
+      "end_page_post_offset": 326
+    },
+    {
+      "titulo": "ECONOMÍA",
+      "start_page_pre_offset": 41740,
+      "start_page_post_offset": 326,
+      "end_page_pre_offset": 41757,
+      "end_page_post_offset": 343
+    },
+    {
+      "titulo": "ECONOMÍA, EMPRENDIMIENTO Y ACTIVIDAD EMPRESARIAL",
+      "start_page_pre_offset": 41758,
+      "start_page_post_offset": 344,
+      "end_page_pre_offset": 41773,
+      "end_page_post_offset": 359
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 41774,
+      "start_page_post_offset": 360,
+      "end_page_pre_offset": 41796,
+      "end_page_post_offset": 382
+    },
+    {
+      "titulo": "EMPRESA Y DISEÑO DE MODELOS DE NEGOCIO",
+      "start_page_pre_offset": 41797,
+      "start_page_post_offset": 383,
+      "end_page_pre_offset": 41812,
+      "end_page_post_offset": 398
+    },
+    {
+      "titulo": "FILOSOFÍA",
+      "start_page_pre_offset": 41813,
+      "start_page_post_offset": 399,
+      "end_page_pre_offset": 41836,
+      "end_page_post_offset": 422
+    },
+    {
+      "titulo": "FÍSICA",
+      "start_page_pre_offset": 41836,
+      "start_page_post_offset": 422,
+      "end_page_pre_offset": 41852,
+      "end_page_post_offset": 438
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 41853,
+      "start_page_post_offset": 439,
+      "end_page_pre_offset": 41872,
+      "end_page_post_offset": 458
+    },
+    {
+      "titulo": "FUNDAMENTOS ARTÍSTICOS",
+      "start_page_pre_offset": 41873,
+      "start_page_post_offset": 459,
+      "end_page_pre_offset": 41890,
+      "end_page_post_offset": 476
+    },
+    {
+      "titulo": "GEOGRAFÍA",
+      "start_page_pre_offset": 41890,
+      "start_page_post_offset": 476,
+      "end_page_pre_offset": 41910,
+      "end_page_post_offset": 496
+    },
+    {
+      "titulo": "GEOLOGÍA Y CIENCIAS AMBIENTALES",
+      "start_page_pre_offset": 41911,
+      "start_page_post_offset": 497,
+      "end_page_pre_offset": 41931,
+      "end_page_post_offset": 517
+    },
+    {
+      "titulo": "GRIEGO",
+      "start_page_pre_offset": 41932,
+      "start_page_post_offset": 518,
+      "end_page_pre_offset": 41963,
+      "end_page_post_offset": 549
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "lista_materias": [
+    "Arts Escèniques",
+    "Biologia i Geologia",
+    "Creativitat Musical",
+    "Cultura Clàssica",
+    "Digitalització",
+    "Economia i Emprenedoria",
+    "Educació en Valors Cívics i Ètics",
+    "Educació Física",
+    "Educació Plàstica, Visual i Audiovisual",
+    "Emprenedoria Social i Sostenible",
+    "Expressió Artística",
+    "Filosofia",
+    "Física i Química",
+    "Formació i Orientació Personal i Professional",
+    "Geografia i Història",
+    "Intel·ligència Artificial, Programació i Robòtica",
+    "Laboratori d’Arts Escèniques",
+    "Laboratori de Creació Audiovisual",
+    "Llengua Estrangera",
+    "Llatí",
+    "Llengua Castellana i Literatura",
+    "Matemàtiques",
+    "Música",
+    "Segona Llengua Estrangera",
+    "Taller d’Economia",
+    "Taller de Relacions Digitals Responsables",
+    "Valencià: Llengua i Literatura"
+  ],
+  "offset": 41751,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 75,
+      "start_page_post_offset": 41826,
+      "end_page_pre_offset": 76,
+      "end_page_post_offset": 41827,
+      "anexo_nombre": "Situacions d’aprenentatge: Criteris de disseny (Biologia i Geologia)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 42,
+    "start_page_post_offset": 41793,
+    "end_page_pre_offset": 51,
+    "end_page_post_offset": 41802,
+    "anexo_nombre": "Annex I Competències Clau"
+  },
+  "materias": [
+    {
+      "titulo": "Biologia i Geologia",
+      "start_page_pre_offset": 55,
+      "start_page_post_offset": 41806,
+      "end_page_pre_offset": 88,
+      "end_page_post_offset": 41839
+    },
+    {
+      "titulo": "Digitalització",
+      "start_page_pre_offset": 89,
+      "start_page_post_offset": 41840,
+      "end_page_pre_offset": 104,
+      "end_page_post_offset": 41855
+    },
+    {
+      "titulo": "Economia i Emprenedoria",
+      "start_page_pre_offset": 105,
+      "start_page_post_offset": 41856,
+      "end_page_pre_offset": 118,
+      "end_page_post_offset": 41869
+    },
+    {
+      "titulo": "Educació en Valors Cívics i Ètics",
+      "start_page_pre_offset": 119,
+      "start_page_post_offset": 41870,
+      "end_page_pre_offset": 138,
+      "end_page_post_offset": 41889
+    },
+    {
+      "titulo": "Educació Física",
+      "start_page_pre_offset": 139,
+      "start_page_post_offset": 41890,
+      "end_page_pre_offset": 162,
+      "end_page_post_offset": 41913
+    },
+    {
+      "titulo": "Educació Plàstica, Visual i Audiovisual",
+      "start_page_pre_offset": 163,
+      "start_page_post_offset": 41914,
+      "end_page_pre_offset": 181,
+      "end_page_post_offset": 41932
+    },
+    {
+      "titulo": "Expressió Artística",
+      "start_page_pre_offset": 182,
+      "start_page_post_offset": 41933,
+      "end_page_pre_offset": 191,
+      "end_page_post_offset": 41942
+    },
+    {
+      "titulo": "Física i Química",
+      "start_page_pre_offset": 192,
+      "start_page_post_offset": 41943,
+      "end_page_pre_offset": 251,
+      "end_page_post_offset": 42002
+    },
+    {
+      "titulo": "Formació i Orientació Personal i Professional",
+      "start_page_pre_offset": 252,
+      "start_page_post_offset": 42003,
+      "end_page_pre_offset": 266,
+      "end_page_post_offset": 42017
+    },
+    {
+      "titulo": "Geografia i Història",
+      "start_page_pre_offset": 267,
+      "start_page_post_offset": 42018,
+      "end_page_pre_offset": 294,
+      "end_page_post_offset": 42045
+    },
+    {
+      "titulo": "Llatí",
+      "start_page_pre_offset": 295,
+      "start_page_post_offset": 42046,
+      "end_page_pre_offset": 305,
+      "end_page_post_offset": 42056
+    },
+    {
+      "titulo": "Matemàtiques",
+      "start_page_pre_offset": 306,
+      "start_page_post_offset": 42057,
+      "end_page_pre_offset": 335,
+      "end_page_post_offset": 42086
+    },
+    {
+      "titulo": "Música",
+      "start_page_pre_offset": 336,
+      "start_page_post_offset": 42087,
+      "end_page_pre_offset": 362,
+      "end_page_post_offset": 42113
+    },
+    {
+      "titulo": "Llengua Estrangera",
+      "start_page_pre_offset": 363,
+      "start_page_post_offset": 42114,
+      "end_page_pre_offset": 382,
+      "end_page_post_offset": 42133
+    },
+    {
+      "titulo": "Tecnologia i Digitalització",
+      "start_page_pre_offset": 383,
+      "start_page_post_offset": 42134,
+      "end_page_pre_offset": 430,
+      "end_page_post_offset": 42181
+    },
+    {
+      "titulo": "Valencià: Llengua i Literatura / Llengua Castellana i Literatura",
+      "start_page_pre_offset": 431,
+      "start_page_post_offset": 42182,
+      "end_page_pre_offset": 462,
+      "end_page_post_offset": 42213
+    },
+    {
+      "titulo": "Arts Escèniques",
+      "start_page_pre_offset": 464,
+      "start_page_post_offset": 42215,
+      "end_page_pre_offset": 479,
+      "end_page_post_offset": 42230
+    },
+    {
+      "titulo": "Creativitat Musical",
+      "start_page_pre_offset": 480,
+      "start_page_post_offset": 42231,
+      "end_page_pre_offset": 493,
+      "end_page_post_offset": 42244
+    },
+    {
+      "titulo": "Cultura Clàssica",
+      "start_page_pre_offset": 494,
+      "start_page_post_offset": 42245,
+      "end_page_pre_offset": 508,
+      "end_page_post_offset": 42259
+    },
+    {
+      "titulo": "Emprenedoria Social i Sostenible",
+      "start_page_pre_offset": 509,
+      "start_page_post_offset": 42260,
+      "end_page_pre_offset": 520,
+      "end_page_post_offset": 42271
+    },
+    {
+      "titulo": "Filosofia",
+      "start_page_pre_offset": 521,
+      "start_page_post_offset": 42272,
+      "end_page_pre_offset": 532,
+      "end_page_post_offset": 42283
+    },
+    {
+      "titulo": "Intel·ligència Artificial, Programació i Robòtica",
+      "start_page_pre_offset": 533,
+      "start_page_post_offset": 42284,
+      "end_page_pre_offset": 546,
+      "end_page_post_offset": 42297
+    },
+    {
+      "titulo": "Laboratori d’Arts Escèniques",
+      "start_page_pre_offset": 547,
+      "start_page_post_offset": 42298,
+      "end_page_pre_offset": 562,
+      "end_page_post_offset": 42313
+    },
+    {
+      "titulo": "Laboratori de Creació Audiovisual",
+      "start_page_pre_offset": 563,
+      "start_page_post_offset": 42314,
+      "end_page_pre_offset": 571,
+      "end_page_post_offset": 42322
+    },
+    {
+      "titulo": "Segona Llengua Estrangera",
+      "start_page_pre_offset": 572,
+      "start_page_post_offset": 42323,
+      "end_page_pre_offset": 594,
+      "end_page_post_offset": 42345
+    },
+    {
+      "titulo": "Taller d’Economia",
+      "start_page_pre_offset": 595,
+      "start_page_post_offset": 42346,
+      "end_page_pre_offset": 608,
+      "end_page_post_offset": 42359
+    },
+    {
+      "titulo": "Taller de Relacions Digitals Responsables",
+      "start_page_pre_offset": 609,
+      "start_page_post_offset": 42360,
+      "end_page_pre_offset": 620,
+      "end_page_post_offset": 42371
+    }
+  ]
+}

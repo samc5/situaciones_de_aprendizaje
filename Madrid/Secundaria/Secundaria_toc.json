@@ -1,0 +1,323 @@
+{
+  "lista_materias": [
+    "BIOLOGÍA Y GEOLOGÍA",
+    "CIENCIAS DE LA COMPUTACIÓN",
+    "CULTURA CLÁSICA",
+    "DIGITALIZACIÓN",
+    "ECONOMÍA Y EMPRENDIMIENTO",
+    "EDUCACIÓN FÍSICA",
+    "EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL",
+    "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+    "EXPRESIÓN ARTÍSTICA",
+    "FILOSOFÍA",
+    "FÍSICA Y QUÍMICA",
+    "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+    "GEOGRAFÍA E HISTORIA",
+    "LATÍN",
+    "LENGUA CASTELLANA Y LITERATURA",
+    "LENGUA EXTRANJERA",
+    "MÚSICA",
+    "SEGUNDA LENGUA EXTRANJERA",
+    "TECNOLOGÍA Y DIGITALIZACIÓN",
+    "TECNOLOGÍA"
+  ],
+  "offset": 395,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 399,
+      "start_page_post_offset": 4,
+      "end_page_pre_offset": 399,
+      "end_page_post_offset": 4,
+      "anexo_nombre": "Principios de la ESO: Proyectos significativos y relevantes (5% del horario escolar)"
+    },
+    {
+      "start_page_pre_offset": 415,
+      "start_page_post_offset": 20,
+      "end_page_pre_offset": 415,
+      "end_page_post_offset": 20,
+      "anexo_nombre": "Atención educativa para alumnos que no cursan Religión (Proyecto significativo y relevante)"
+    },
+    {
+      "start_page_pre_offset": 423,
+      "start_page_post_offset": 28,
+      "end_page_pre_offset": 423,
+      "end_page_post_offset": 28,
+      "anexo_nombre": "Biología y Geología - Ejemplo de actividad: Investigación de biodiversidad/método científico"
+    },
+    {
+      "start_page_pre_offset": 436,
+      "start_page_post_offset": 41,
+      "end_page_pre_offset": 436,
+      "end_page_post_offset": 41,
+      "anexo_nombre": "Ciencias de la Computación - Ejemplo de actividad: Diseño y programación de un videojuego con Scratch"
+    },
+    {
+      "start_page_pre_offset": 442,
+      "start_page_post_offset": 47,
+      "end_page_pre_offset": 442,
+      "end_page_post_offset": 47,
+      "anexo_nombre": "Cultura Clásica - Ejemplo de actividad: Proyecto «¿Quedamos en Roma?» (Ocio y cultura romana)"
+    },
+    {
+      "start_page_pre_offset": 449,
+      "start_page_post_offset": 54,
+      "end_page_pre_offset": 449,
+      "end_page_post_offset": 54,
+      "anexo_nombre": "Digitalización - Ejemplo de actividad: Programación de aplicación simple con rol de 'asistentes de aula'"
+    },
+    {
+      "start_page_pre_offset": 453,
+      "start_page_post_offset": 58,
+      "end_page_pre_offset": 454,
+      "end_page_post_offset": 59,
+      "anexo_nombre": "Economía y Emprendimiento - Ejemplo de actividad: Estudio comparativo de huella de carbono en la compra"
+    },
+    {
+      "start_page_pre_offset": 461,
+      "start_page_post_offset": 66,
+      "end_page_pre_offset": 461,
+      "end_page_post_offset": 66,
+      "anexo_nombre": "Educación Física - Ejemplo de actividad: Práctica del juego modificado (Enseñanza comprensiva del deporte)"
+    },
+    {
+      "start_page_pre_offset": 483,
+      "start_page_post_offset": 88,
+      "end_page_pre_offset": 484,
+      "end_page_post_offset": 89,
+      "anexo_nombre": "Educación Plástica, Visual y Audiovisual - Ejemplo de actividad: Diseño de carteles para jornadas culturales"
+    },
+    {
+      "start_page_pre_offset": 488,
+      "start_page_post_offset": 93,
+      "end_page_pre_offset": 488,
+      "end_page_post_offset": 93,
+      "anexo_nombre": "Expresión Artística - Ejemplo de actividad: Realización de un story-board para un cortometraje publicitario"
+    },
+    {
+      "start_page_pre_offset": 493,
+      "start_page_post_offset": 98,
+      "end_page_pre_offset": 493,
+      "end_page_post_offset": 98,
+      "anexo_nombre": "Filosofía - Ejemplo de actividad: Proyecto «¿Qué ocurriría en una pequeña comunidad sin ley?»"
+    },
+    {
+      "start_page_pre_offset": 499,
+      "start_page_post_offset": 104,
+      "end_page_pre_offset": 499,
+      "end_page_post_offset": 104,
+      "anexo_nombre": "Física y Química - Ejemplo de actividad: Análisis de eficiencia energética en el entorno doméstico y escolar"
+    },
+    {
+      "start_page_pre_offset": 512,
+      "start_page_post_offset": 117,
+      "end_page_pre_offset": 512,
+      "end_page_post_offset": 117,
+      "anexo_nombre": "Formación y Orientación Personal y Profesional - Ejemplo de actividad: Simulación de entrevista de trabajo"
+    },
+    {
+      "start_page_pre_offset": 519,
+      "start_page_post_offset": 124,
+      "end_page_pre_offset": 519,
+      "end_page_post_offset": 124,
+      "anexo_nombre": "Geografía e Historia - Ejemplo de actividad: Representación dramática sobre el inicio de la globalización (Galeón de Manila)"
+    },
+    {
+      "start_page_pre_offset": 540,
+      "start_page_post_offset": 145,
+      "end_page_pre_offset": 540,
+      "end_page_post_offset": 145,
+      "anexo_nombre": "Latín - Ejemplo de actividad: Investigación interdisciplinar sobre etimología de tecnicismos (Diccionario)"
+    },
+    {
+      "start_page_pre_offset": 548,
+      "start_page_post_offset": 153,
+      "end_page_pre_offset": 548,
+      "end_page_post_offset": 153,
+      "anexo_nombre": "Lengua Castellana y Literatura - Ejemplo de actividad: Realización de un booktrailer sobre un libro de interés"
+    },
+    {
+      "start_page_pre_offset": 579,
+      "start_page_post_offset": 184,
+      "end_page_pre_offset": 579,
+      "end_page_post_offset": 184,
+      "anexo_nombre": "Lengua Extranjera - Ejemplo de actividad: Planificación de visita a una ciudad en el país de la lengua extranjera"
+    },
+    {
+      "start_page_pre_offset": 646,
+      "start_page_post_offset": 251,
+      "end_page_pre_offset": 646,
+      "end_page_post_offset": 251,
+      "anexo_nombre": "Música - Ejemplo de actividad: Versionar una canción representativa de un estilo musical"
+    },
+    {
+      "start_page_pre_offset": 654,
+      "start_page_post_offset": 259,
+      "end_page_pre_offset": 654,
+      "end_page_post_offset": 259,
+      "anexo_nombre": "Segunda Lengua Extranjera - Ejemplo de actividad: Presentación sobre una tradición y/o fiesta propia de un país de la lengua extranjera"
+    },
+    {
+      "start_page_pre_offset": 667,
+      "start_page_post_offset": 272,
+      "end_page_pre_offset": 667,
+      "end_page_post_offset": 272,
+      "anexo_nombre": "Tecnología y Digitalización - Ejemplo de actividad: Diseño y construcción de un sistema de riego por goteo controlado"
+    },
+    {
+      "start_page_pre_offset": 675,
+      "start_page_post_offset": 280,
+      "end_page_pre_offset": 675,
+      "end_page_post_offset": 280,
+      "anexo_nombre": "Tecnología - Ejemplo de actividad: Diseño y construcción de un sistema de riego por goteo controlado"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 404,
+    "start_page_post_offset": 9,
+    "end_page_pre_offset": 404,
+    "end_page_post_offset": 9,
+    "anexo_nombre": "Artículo 14 Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "BIOLOGÍA Y GEOLOGÍA",
+      "start_page_pre_offset": 421,
+      "start_page_post_offset": 26,
+      "end_page_pre_offset": 433,
+      "end_page_post_offset": 38
+    },
+    {
+      "titulo": "CIENCIAS DE LA COMPUTACIÓN",
+      "start_page_pre_offset": 434,
+      "start_page_post_offset": 39,
+      "end_page_pre_offset": 440,
+      "end_page_post_offset": 45
+    },
+    {
+      "titulo": "CULTURA CLÁSICA",
+      "start_page_pre_offset": 441,
+      "start_page_post_offset": 46,
+      "end_page_pre_offset": 451,
+      "end_page_post_offset": 56
+    },
+    {
+      "titulo": "DIGITALIZACIÓN",
+      "start_page_pre_offset": 452,
+      "start_page_post_offset": 57,
+      "end_page_pre_offset": 452,
+      "end_page_post_offset": 57
+    },
+    {
+      "titulo": "ECONOMÍA Y EMPRENDIMIENTO",
+      "start_page_pre_offset": 453,
+      "start_page_post_offset": 58,
+      "end_page_pre_offset": 459,
+      "end_page_post_offset": 64
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 460,
+      "start_page_post_offset": 65,
+      "end_page_pre_offset": 476,
+      "end_page_post_offset": 81
+    },
+    {
+      "titulo": "EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL",
+      "start_page_pre_offset": 477,
+      "start_page_post_offset": 82,
+      "end_page_pre_offset": 486,
+      "end_page_post_offset": 91
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+      "start_page_pre_offset": 487,
+      "start_page_post_offset": 92,
+      "end_page_pre_offset": 487,
+      "end_page_post_offset": 92
+    },
+    {
+      "titulo": "EXPRESIÓN ARTÍSTICA",
+      "start_page_pre_offset": 487,
+      "start_page_post_offset": 92,
+      "end_page_pre_offset": 490,
+      "end_page_post_offset": 95
+    },
+    {
+      "titulo": "FILOSOFÍA",
+      "start_page_pre_offset": 491,
+      "start_page_post_offset": 96,
+      "end_page_pre_offset": 497,
+      "end_page_post_offset": 102
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 498,
+      "start_page_post_offset": 103,
+      "end_page_pre_offset": 510,
+      "end_page_post_offset": 115
+    },
+    {
+      "titulo": "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+      "start_page_pre_offset": 511,
+      "start_page_post_offset": 116,
+      "end_page_pre_offset": 517,
+      "end_page_post_offset": 122
+    },
+    {
+      "titulo": "GEOGRAFÍA E HISTORIA",
+      "start_page_pre_offset": 518,
+      "start_page_post_offset": 123,
+      "end_page_pre_offset": 538,
+      "end_page_post_offset": 143
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 539,
+      "start_page_post_offset": 144,
+      "end_page_pre_offset": 545,
+      "end_page_post_offset": 150
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 546,
+      "start_page_post_offset": 151,
+      "end_page_pre_offset": 577,
+      "end_page_post_offset": 182
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 578,
+      "start_page_post_offset": 183,
+      "end_page_pre_offset": 643,
+      "end_page_post_offset": 248
+    },
+    {
+      "titulo": "MÚSICA",
+      "start_page_pre_offset": 644,
+      "start_page_post_offset": 249,
+      "end_page_pre_offset": 652,
+      "end_page_post_offset": 257
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 653,
+      "start_page_post_offset": 258,
+      "end_page_pre_offset": 664,
+      "end_page_post_offset": 269
+    },
+    {
+      "titulo": "TECNOLOGÍA Y DIGITALIZACIÓN",
+      "start_page_pre_offset": 665,
+      "start_page_post_offset": 270,
+      "end_page_pre_offset": 673,
+      "end_page_post_offset": 278
+    },
+    {
+      "titulo": "TECNOLOGÍA",
+      "start_page_pre_offset": 674,
+      "start_page_post_offset": 279,
+      "end_page_pre_offset": 680,
+      "end_page_post_offset": 285
+    }
+  ]
+}

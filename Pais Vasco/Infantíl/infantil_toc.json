@@ -1,0 +1,47 @@
+{
+  "lista_materias": [
+    "Crecimiento en armonía",
+    "Descubrimiento y exploración del entorno",
+    "Comunicación y representación de la realidad"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 41,
+      "start_page_post_offset": 41,
+      "end_page_pre_offset": 42,
+      "end_page_post_offset": 42,
+      "anexo_nombre": "ANEXO III AL DECRETO 75/2023, DE 30 DE MAYO SITUACIONES DE APRENDIZAJE"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 16,
+    "start_page_post_offset": 16,
+    "end_page_pre_offset": 20,
+    "end_page_post_offset": 20,
+    "anexo_nombre": "ANEXO I. COMPETENCIAS CLAVE DE LA EDUCACIÓN INFANTIL"
+  },
+  "materias": [
+    {
+      "titulo": "Crecimiento en armonía",
+      "start_page_pre_offset": 21,
+      "start_page_post_offset": 21,
+      "end_page_pre_offset": 27,
+      "end_page_post_offset": 27
+    },
+    {
+      "titulo": "Descubrimiento y exploración del entorno",
+      "start_page_pre_offset": 27,
+      "start_page_post_offset": 27,
+      "end_page_pre_offset": 32,
+      "end_page_post_offset": 32
+    },
+    {
+      "titulo": "Comunicación y representación de la realidad",
+      "start_page_pre_offset": 32,
+      "start_page_post_offset": 32,
+      "end_page_pre_offset": 41,
+      "end_page_post_offset": 41
+    }
+  ]
+}

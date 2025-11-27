@@ -1,0 +1,48 @@
+{
+  "lista_materias": [
+    "Educació Infantil",
+    "Àrea I: Creixement en harmonia",
+    "Àrea II: Descobriment i exploració de l’entorn",
+    "Àrea III: Comunicació i representació de la realitat"
+  ],
+  "offset": 41031,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 41100,
+      "start_page_post_offset": 69,
+      "end_page_pre_offset": 41102,
+      "end_page_post_offset": 71,
+      "anexo_nombre": "Annex III. Situacions d’aprenentatge"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 41049,
+    "start_page_post_offset": 18,
+    "end_page_pre_offset": 41052,
+    "end_page_post_offset": 21,
+    "anexo_nombre": "Annex I. Competències clau en l’Educació Infantil"
+  },
+  "materias": [
+    {
+      "titulo": "Àrea I: Creixement en harmonia",
+      "start_page_pre_offset": 41058,
+      "start_page_post_offset": 27,
+      "end_page_pre_offset": 41136,
+      "end_page_post_offset": 39
+    },
+    {
+      "titulo": "Àrea II: Descobriment i exploració de l’entorn",
+      "start_page_pre_offset": 41071,
+      "start_page_post_offset": 40,
+      "end_page_pre_offset": 41149,
+      "end_page_post_offset": 52
+    },
+    {
+      "titulo": "Àrea III: Comunicació i representació de la realitat",
+      "start_page_pre_offset": 41084,
+      "start_page_post_offset": 53,
+      "end_page_pre_offset": 41099,
+      "end_page_post_offset": 68
+    }
+  ]
+}

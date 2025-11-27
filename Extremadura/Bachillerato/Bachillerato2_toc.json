@@ -1,0 +1,183 @@
+{
+  "lista_materias": [
+    "Historia del Arte",
+    "Historia de España",
+    "Historia de la Filosofía",
+    "Historia del Mundo Contemporáneo",
+    "Historia de la Música y de la Danza",
+    "Inteligencia Artificial",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Lenguaje y Práctica Musical",
+    "Literatura Dramática",
+    "Literatura Universal",
+    "Matemáticas",
+    "Matemáticas Aplicadas a las Ciencias Sociales",
+    "Movimientos Culturales y Artísticos",
+    "Psicología",
+    "Química",
+    "Técnicas de Expresión Gráfico-Plástica",
+    "Tecnología e Ingeniería",
+    "Volumen"
+  ],
+  "offset": 41414,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 41470,
+      "start_page_post_offset": 56,
+      "end_page_pre_offset": 41474,
+      "end_page_post_offset": 60,
+      "anexo_nombre": "ANEXO II. SITUACIONES DE APRENDIZAJE. PRINCIPIOS Y ORIENTACIONES GENERALES PARA SU DISEÑO EN BACHILLERATO"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 41457,
+    "start_page_post_offset": 43,
+    "end_page_pre_offset": 41469,
+    "end_page_post_offset": 55,
+    "anexo_nombre": "Anexo I. Competencias clave."
+  },
+  "materias": [
+    {
+      "titulo": "Historia del Arte",
+      "start_page_pre_offset": 41964,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 41988,
+      "end_page_post_offset": 85
+    },
+    {
+      "titulo": "Historia de España",
+      "start_page_pre_offset": 41989,
+      "start_page_post_offset": 86,
+      "end_page_pre_offset": 42019,
+      "end_page_post_offset": 116
+    },
+    {
+      "titulo": "Historia de la Filosofía",
+      "start_page_pre_offset": 42020,
+      "start_page_post_offset": 117,
+      "end_page_pre_offset": 42039,
+      "end_page_post_offset": 136
+    },
+    {
+      "titulo": "Historia del Mundo Contemporáneo",
+      "start_page_pre_offset": 42040,
+      "start_page_post_offset": 137,
+      "end_page_pre_offset": 42072,
+      "end_page_post_offset": 169
+    },
+    {
+      "titulo": "Historia de la Música y de la Danza",
+      "start_page_pre_offset": 42073,
+      "start_page_post_offset": 170,
+      "end_page_pre_offset": 42086,
+      "end_page_post_offset": 183
+    },
+    {
+      "titulo": "Inteligencia Artificial",
+      "start_page_pre_offset": 42087,
+      "start_page_post_offset": 184,
+      "end_page_pre_offset": 42101,
+      "end_page_post_offset": 198
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 42102,
+      "start_page_post_offset": 199,
+      "end_page_pre_offset": 42135,
+      "end_page_post_offset": 232
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 42136,
+      "start_page_post_offset": 233,
+      "end_page_pre_offset": 42180,
+      "end_page_post_offset": 277
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 42181,
+      "start_page_post_offset": 278,
+      "end_page_pre_offset": 42211,
+      "end_page_post_offset": 308
+    },
+    {
+      "titulo": "Lenguaje y Práctica Musical",
+      "start_page_pre_offset": 42212,
+      "start_page_post_offset": 309,
+      "end_page_pre_offset": 42229,
+      "end_page_post_offset": 326
+    },
+    {
+      "titulo": "Literatura Dramática",
+      "start_page_pre_offset": 42230,
+      "start_page_post_offset": 327,
+      "end_page_pre_offset": 42247,
+      "end_page_post_offset": 344
+    },
+    {
+      "titulo": "Literatura Universal",
+      "start_page_pre_offset": 42248,
+      "start_page_post_offset": 345,
+      "end_page_pre_offset": 42266,
+      "end_page_post_offset": 363
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 42267,
+      "start_page_post_offset": 364,
+      "end_page_pre_offset": 42327,
+      "end_page_post_offset": 424
+    },
+    {
+      "titulo": "Matemáticas Aplicadas a las Ciencias Sociales",
+      "start_page_pre_offset": 42328,
+      "start_page_post_offset": 425,
+      "end_page_pre_offset": 42358,
+      "end_page_post_offset": 455
+    },
+    {
+      "titulo": "Movimientos Culturales y Artísticos",
+      "start_page_pre_offset": 42359,
+      "start_page_post_offset": 456,
+      "end_page_pre_offset": 42396,
+      "end_page_post_offset": 493
+    },
+    {
+      "titulo": "Psicología",
+      "start_page_pre_offset": 42397,
+      "start_page_post_offset": 494,
+      "end_page_pre_offset": 42417,
+      "end_page_post_offset": 514
+    },
+    {
+      "titulo": "Química",
+      "start_page_pre_offset": 42418,
+      "start_page_post_offset": 515,
+      "end_page_pre_offset": 42466,
+      "end_page_post_offset": 563
+    },
+    {
+      "titulo": "Técnicas de Expresión Gráfico-Plástica",
+      "start_page_pre_offset": 42467,
+      "start_page_post_offset": 564,
+      "end_page_pre_offset": 42483,
+      "end_page_post_offset": 580
+    },
+    {
+      "titulo": "Tecnología e Ingeniería",
+      "start_page_pre_offset": 42484,
+      "start_page_post_offset": 581,
+      "end_page_pre_offset": 42507,
+      "end_page_post_offset": 604
+    },
+    {
+      "titulo": "Volumen",
+      "start_page_pre_offset": 42508,
+      "start_page_post_offset": 605,
+      "end_page_pre_offset": 42529,
+      "end_page_post_offset": 626
+    }
+  ]
+}

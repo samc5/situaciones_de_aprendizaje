@@ -1,0 +1,203 @@
+{
+  "lista_materias": [
+    "Introducción a la Filosofía",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Música",
+    "Segunda Lengua Extranjera",
+    "Tecnología (4º ESO)",
+    "Tecnología y Digitalización (2º y 3º ESO)",
+    "Unión Europea",
+    "ÁMBITO DE CIENCIAS APLICADAS (CFGB)",
+    "ÁMBITO COMUNICACIÓN Y CIENCIAS SOCIALES (CFGB)"
+  ],
+  "offset": 42531,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 42595,
+      "start_page_post_offset": 64,
+      "end_page_pre_offset": 42600,
+      "end_page_post_offset": 69,
+      "anexo_nombre": "Anexo II. Principios y orientaciones generales para el diseño de situaciones de aprendizaje en Educación Secundaria Obligatoria"
+    },
+    {
+      "start_page_pre_offset": 42935,
+      "start_page_post_offset": 404,
+      "end_page_pre_offset": 42937,
+      "end_page_post_offset": 406,
+      "anexo_nombre": "Situaciones de Aprendizaje de Introducción a la Filosofía"
+    },
+    {
+      "start_page_pre_offset": 42955,
+      "start_page_post_offset": 424,
+      "end_page_pre_offset": 42958,
+      "end_page_post_offset": 427,
+      "anexo_nombre": "Situaciones de Aprendizaje de Latín"
+    },
+    {
+      "start_page_pre_offset": 42994,
+      "start_page_post_offset": 463,
+      "end_page_pre_offset": 42998,
+      "end_page_post_offset": 467,
+      "anexo_nombre": "Situaciones de Aprendizaje de Lengua Castellana y Literatura"
+    },
+    {
+      "start_page_pre_offset": 43029,
+      "start_page_post_offset": 498,
+      "end_page_pre_offset": 43031,
+      "end_page_post_offset": 500,
+      "anexo_nombre": "Situaciones de Aprendizaje de Lengua Extranjera"
+    },
+    {
+      "start_page_pre_offset": 43072,
+      "start_page_post_offset": 541,
+      "end_page_pre_offset": 43074,
+      "end_page_post_offset": 543,
+      "anexo_nombre": "Situaciones de Aprendizaje de Matemáticas"
+    },
+    {
+      "start_page_pre_offset": 43100,
+      "start_page_post_offset": 569,
+      "end_page_pre_offset": 43103,
+      "end_page_post_offset": 572,
+      "anexo_nombre": "Situaciones de Aprendizaje de Música"
+    },
+    {
+      "start_page_pre_offset": 43129,
+      "start_page_post_offset": 598,
+      "end_page_pre_offset": 43131,
+      "end_page_post_offset": 600,
+      "anexo_nombre": "Situaciones de Aprendizaje de Segunda Lengua Extranjera"
+    },
+    {
+      "start_page_pre_offset": 43151,
+      "start_page_post_offset": 620,
+      "end_page_pre_offset": 43153,
+      "end_page_post_offset": 622,
+      "anexo_nombre": "Situaciones de Aprendizaje de Tecnología (4º ESO)"
+    },
+    {
+      "start_page_pre_offset": 43171,
+      "start_page_post_offset": 640,
+      "end_page_pre_offset": 43173,
+      "end_page_post_offset": 642,
+      "anexo_nombre": "Situaciones de Aprendizaje de Tecnología y Digitalización (2º y 3º ESO)"
+    },
+    {
+      "start_page_pre_offset": 43187,
+      "start_page_post_offset": 656,
+      "end_page_pre_offset": 43189,
+      "end_page_post_offset": 658,
+      "anexo_nombre": "Situaciones de Aprendizaje de Unión Europea"
+    },
+    {
+      "start_page_pre_offset": 43209,
+      "start_page_post_offset": 678,
+      "end_page_pre_offset": 43212,
+      "end_page_post_offset": 681,
+      "anexo_nombre": "Situaciones de Aprendizaje de CFGB Ámbito Ciencias Aplicadas"
+    },
+    {
+      "start_page_pre_offset": 43234,
+      "start_page_post_offset": 703,
+      "end_page_pre_offset": 43238,
+      "end_page_post_offset": 707,
+      "anexo_nombre": "Situaciones de Aprendizaje de CFGB Ámbito Comunicación y Ciencias Sociales"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 42581,
+    "start_page_post_offset": 50,
+    "end_page_pre_offset": 42594,
+    "end_page_post_offset": 63,
+    "anexo_nombre": "Anexo I. Competencias clave y Perfil de salida"
+  },
+  "materias": [
+    {
+      "titulo": "Introducción a la Filosofía",
+      "start_page_pre_offset": 42918,
+      "start_page_post_offset": 387,
+      "end_page_pre_offset": 42939,
+      "end_page_post_offset": 408
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 42940,
+      "start_page_post_offset": 409,
+      "end_page_pre_offset": 42960,
+      "end_page_post_offset": 429
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 42961,
+      "start_page_post_offset": 430,
+      "end_page_pre_offset": 43008,
+      "end_page_post_offset": 477
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 43009,
+      "start_page_post_offset": 478,
+      "end_page_pre_offset": 43035,
+      "end_page_post_offset": 504
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 43036,
+      "start_page_post_offset": 505,
+      "end_page_pre_offset": 43082,
+      "end_page_post_offset": 551
+    },
+    {
+      "titulo": "Música",
+      "start_page_pre_offset": 43083,
+      "start_page_post_offset": 552,
+      "end_page_pre_offset": 43106,
+      "end_page_post_offset": 575
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 43107,
+      "start_page_post_offset": 576,
+      "end_page_pre_offset": 43135,
+      "end_page_post_offset": 604
+    },
+    {
+      "titulo": "Tecnología (4º ESO)",
+      "start_page_pre_offset": 43136,
+      "start_page_post_offset": 605,
+      "end_page_pre_offset": 43155,
+      "end_page_post_offset": 624
+    },
+    {
+      "titulo": "Tecnología y Digitalización (2º y 3º ESO)",
+      "start_page_pre_offset": 43156,
+      "start_page_post_offset": 625,
+      "end_page_pre_offset": 43176,
+      "end_page_post_offset": 645
+    },
+    {
+      "titulo": "Unión Europea",
+      "start_page_pre_offset": 43177,
+      "start_page_post_offset": 646,
+      "end_page_pre_offset": 43190,
+      "end_page_post_offset": 659
+    },
+    {
+      "titulo": "ÁMBITO DE CIENCIAS APLICADAS (CFGB)",
+      "start_page_pre_offset": 43191,
+      "start_page_post_offset": 660,
+      "end_page_pre_offset": 43213,
+      "end_page_post_offset": 682
+    },
+    {
+      "titulo": "ÁMBITO COMUNICACIÓN Y CIENCIAS SOCIALES (CFGB)",
+      "start_page_pre_offset": 43214,
+      "start_page_post_offset": 683,
+      "end_page_pre_offset": 43241,
+      "end_page_post_offset": 710
+    }
+  ]
+}

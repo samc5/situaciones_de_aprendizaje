@@ -1,0 +1,271 @@
+{
+  "lista_materias": [
+    "Artes Escénicas y Danza",
+    "Biología y Geología",
+    "Competencias y Aprendizajes Funcionales para la Vida",
+    "Comunicación Audiovisual",
+    "Cultura Clásica",
+    "Digitalización",
+    "Digitalización Creativa",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Emprendimiento Personal y Social",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua de Signos Española",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Matemáticas A",
+    "Matemáticas B",
+    "Música",
+    "Proyecto de Investigación – Creaciones Audiovisuales y Plásticas",
+    "Proyecto de Investigación - Educación Financiera y Consumo Responsable",
+    "Proyecto de Investigación - El Mundo Clásico: Lenguaje, Historia y Patrimonio",
+    "Proyecto de Investigación - Filosofía. Retórica y Argumentación",
+    "Proyecto de Investigación - Investigación Científica e Innovación Tecnológica",
+    "Refuerzo de la Competencia en Comunicación Lingüística",
+    "Segunda Lengua Extranjera",
+    "Tecnología",
+    "Tecnología y Digitalización"
+  ],
+  "offset": 42534,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 43102,
+      "start_page_post_offset": 568,
+      "end_page_pre_offset": 43102,
+      "end_page_post_offset": 568,
+      "anexo_nombre": "Anexo V. Situaciones de aprendizaje."
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 42576,
+    "start_page_post_offset": 42,
+    "end_page_pre_offset": 42588,
+    "end_page_post_offset": 54,
+    "anexo_nombre": "Anexo II. Perfil de salida del alumnado al término de la enseñanza básica (Competencias Clave)"
+  },
+  "materias": [
+    {
+      "titulo": "Artes Escénicas y Danza",
+      "start_page_pre_offset": 42590,
+      "start_page_post_offset": 56,
+      "end_page_pre_offset": 42597,
+      "end_page_post_offset": 63
+    },
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 42597,
+      "start_page_post_offset": 63,
+      "end_page_pre_offset": 42614,
+      "end_page_post_offset": 80
+    },
+    {
+      "titulo": "Competencias y Aprendizajes Funcionales para la Vida",
+      "start_page_pre_offset": 42614,
+      "start_page_post_offset": 80,
+      "end_page_pre_offset": 42632,
+      "end_page_post_offset": 98
+    },
+    {
+      "titulo": "Comunicación Audiovisual",
+      "start_page_pre_offset": 42632,
+      "start_page_post_offset": 98,
+      "end_page_pre_offset": 42641,
+      "end_page_post_offset": 107
+    },
+    {
+      "titulo": "Cultura Clásica",
+      "start_page_pre_offset": 42641,
+      "start_page_post_offset": 107,
+      "end_page_pre_offset": 42648,
+      "end_page_post_offset": 114
+    },
+    {
+      "titulo": "Digitalización",
+      "start_page_pre_offset": 42648,
+      "start_page_post_offset": 114,
+      "end_page_pre_offset": 42657,
+      "end_page_post_offset": 123
+    },
+    {
+      "titulo": "Digitalización Creativa",
+      "start_page_pre_offset": 42657,
+      "start_page_post_offset": 123,
+      "end_page_pre_offset": 42677,
+      "end_page_post_offset": 143
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 42677,
+      "start_page_post_offset": 143,
+      "end_page_pre_offset": 42686,
+      "end_page_post_offset": 152
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 42686,
+      "start_page_post_offset": 152,
+      "end_page_pre_offset": 42708,
+      "end_page_post_offset": 174
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 42708,
+      "start_page_post_offset": 174,
+      "end_page_pre_offset": 42721,
+      "end_page_post_offset": 187
+    },
+    {
+      "titulo": "Emprendimiento Personal y Social",
+      "start_page_pre_offset": 42721,
+      "start_page_post_offset": 187,
+      "end_page_pre_offset": 42737,
+      "end_page_post_offset": 203
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 42737,
+      "start_page_post_offset": 203,
+      "end_page_pre_offset": 42755,
+      "end_page_post_offset": 221
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 42755,
+      "start_page_post_offset": 221,
+      "end_page_pre_offset": 42765,
+      "end_page_post_offset": 231
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 42765,
+      "start_page_post_offset": 231,
+      "end_page_pre_offset": 42799,
+      "end_page_post_offset": 265
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 42799,
+      "start_page_post_offset": 265,
+      "end_page_pre_offset": 42810,
+      "end_page_post_offset": 276
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 42810,
+      "start_page_post_offset": 276,
+      "end_page_pre_offset": 42840,
+      "end_page_post_offset": 306
+    },
+    {
+      "titulo": "Lengua de Signos Española",
+      "start_page_pre_offset": 42840,
+      "start_page_post_offset": 306,
+      "end_page_pre_offset": 42867,
+      "end_page_post_offset": 333
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 42867,
+      "start_page_post_offset": 333,
+      "end_page_pre_offset": 42892,
+      "end_page_post_offset": 358
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 42892,
+      "start_page_post_offset": 358,
+      "end_page_pre_offset": 42917,
+      "end_page_post_offset": 383
+    },
+    {
+      "titulo": "Matemáticas A",
+      "start_page_pre_offset": 42917,
+      "start_page_post_offset": 383,
+      "end_page_pre_offset": 42922,
+      "end_page_post_offset": 388
+    },
+    {
+      "titulo": "Matemáticas B",
+      "start_page_pre_offset": 42922,
+      "start_page_post_offset": 388,
+      "end_page_pre_offset": 42929,
+      "end_page_post_offset": 395
+    },
+    {
+      "titulo": "Música",
+      "start_page_pre_offset": 42929,
+      "start_page_post_offset": 395,
+      "end_page_pre_offset": 42941,
+      "end_page_post_offset": 407
+    },
+    {
+      "titulo": "Proyecto de Investigación – Creaciones Audiovisuales y Plásticas",
+      "start_page_pre_offset": 42941,
+      "start_page_post_offset": 407,
+      "end_page_pre_offset": 42949,
+      "end_page_post_offset": 415
+    },
+    {
+      "titulo": "Proyecto de Investigación - Educación Financiera y Consumo Responsable",
+      "start_page_pre_offset": 42949,
+      "start_page_post_offset": 415,
+      "end_page_pre_offset": 42958,
+      "end_page_post_offset": 424
+    },
+    {
+      "titulo": "Proyecto de Investigación - El Mundo Clásico: Lenguaje, Historia y Patrimonio",
+      "start_page_pre_offset": 42958,
+      "start_page_post_offset": 424,
+      "end_page_pre_offset": 42974,
+      "end_page_post_offset": 440
+    },
+    {
+      "titulo": "Proyecto de Investigación - Filosofía. Retórica y Argumentación",
+      "start_page_pre_offset": 42974,
+      "start_page_post_offset": 440,
+      "end_page_pre_offset": 42982,
+      "end_page_post_offset": 448
+    },
+    {
+      "titulo": "Proyecto de Investigación - Investigación Científica e Innovación Tecnológica",
+      "start_page_pre_offset": 42982,
+      "start_page_post_offset": 448,
+      "end_page_pre_offset": 42988,
+      "end_page_post_offset": 454
+    },
+    {
+      "titulo": "Refuerzo de la Competencia en Comunicación Lingüística",
+      "start_page_pre_offset": 42988,
+      "start_page_post_offset": 454,
+      "end_page_pre_offset": 42995,
+      "end_page_post_offset": 461
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 42995,
+      "start_page_post_offset": 461,
+      "end_page_pre_offset": 43018,
+      "end_page_post_offset": 484
+    },
+    {
+      "titulo": "Tecnología",
+      "start_page_pre_offset": 43018,
+      "start_page_post_offset": 484,
+      "end_page_pre_offset": 43028,
+      "end_page_post_offset": 494
+    },
+    {
+      "titulo": "Tecnología y Digitalización",
+      "start_page_pre_offset": 43028,
+      "start_page_post_offset": 494,
+      "end_page_pre_offset": 43042,
+      "end_page_post_offset": 508
+    }
+  ]
+}

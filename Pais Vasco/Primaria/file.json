@@ -1,0 +1,257 @@
+{
+  "lista_materias": [
+    "Lengua Vasca y Literatura",
+    "Lengua Castellana y Literatura",
+    "Primera Lengua extranjera",
+    "Matemáticas",
+    "Conocimiento del medio natural, social y cultural",
+    "Educación Artística",
+    "Educación Física",
+    "Valores cívicos y éticos",
+    "Ciencias de la Naturaleza",
+    "Geografía e Historia",
+    "Tecnología y Digitalización",
+    "Biología y Geología",
+    "Física y Química",
+    "Latín",
+    "Digitalización",
+    "Expresión Artística",
+    "Tecnología",
+    "Formación y Orientación Personal y Profesional",
+    "Música",
+    "Artes Escénicas",
+    "Cultura Científica",
+    "Ciencias Aplicadas a la actividad profesional",
+    "Taller de Matemáticas",
+    "Filosofía aplicada al desarrollo personal y social",
+    "Introducción a la Expresión Artística",
+    "Segunda Lengua Extranjera",
+    "Cultura Clásica",
+    "Bienestar Físico y Emocional",
+    "Desarrollo del Pensamiento Autónomo y Crítico",
+    "Iniciación a la Tecnología y a la Digitalización",
+    "Comunicación y Ciencias Sociales"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 386,
+      "start_page_post_offset": 386,
+      "end_page_pre_offset": 388,
+      "end_page_post_offset": 388,
+      "anexo_nombre": "ANEXO V AL DECRETO 77/2023, DE 30 DE MAYO SITUACIONES DE APRENDIZAJE"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 39,
+    "start_page_post_offset": 39,
+    "end_page_pre_offset": 47,
+    "end_page_post_offset": 47,
+    "anexo_nombre": "Competencias clave que se deben adquirir"
+  },
+  "materias": [
+    {
+      "titulo": "CONOCIMIENTO DEL MEDIO NATURAL, SOCIAL Y CULTURAL (Educación Primaria)",
+      "start_page_pre_offset": 48,
+      "start_page_post_offset": 48,
+      "end_page_pre_offset": 66,
+      "end_page_post_offset": 66
+    },
+    {
+      "titulo": "EDUCACIÓN ARTÍSTICA (Educación Primaria)",
+      "start_page_pre_offset": 66,
+      "start_page_post_offset": 66,
+      "end_page_pre_offset": 75,
+      "end_page_post_offset": 75
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS (Educación Primaria)",
+      "start_page_pre_offset": 75,
+      "start_page_post_offset": 75,
+      "end_page_pre_offset": 81,
+      "end_page_post_offset": 81
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA (Educación Primaria)",
+      "start_page_pre_offset": 81,
+      "start_page_post_offset": 81,
+      "end_page_pre_offset": 94,
+      "end_page_post_offset": 94
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA (Educación Primaria)",
+      "start_page_pre_offset": 94,
+      "start_page_post_offset": 94,
+      "end_page_pre_offset": 105,
+      "end_page_post_offset": 105
+    },
+    {
+      "titulo": "LENGUA VASCA Y LITERATURA Y LENGUA CASTELLANA Y LITERATURA (Educación Primaria)",
+      "start_page_pre_offset": 105,
+      "start_page_post_offset": 105,
+      "end_page_pre_offset": 122,
+      "end_page_post_offset": 122
+    },
+    {
+      "titulo": "MATEMÁTICAS (Educación Primaria)",
+      "start_page_pre_offset": 122,
+      "start_page_post_offset": 122,
+      "end_page_pre_offset": 138,
+      "end_page_post_offset": 138
+    },
+    {
+      "titulo": "PRIMERA LENGUA EXTRANJERA (ESO)",
+      "start_page_pre_offset": 138,
+      "start_page_post_offset": 138,
+      "end_page_pre_offset": 154,
+      "end_page_post_offset": 154
+    },
+    {
+      "titulo": "BIOLOGÍA Y GEOLOGÍA (ESO)",
+      "start_page_pre_offset": 154,
+      "start_page_post_offset": 154,
+      "end_page_pre_offset": 180,
+      "end_page_post_offset": 180
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA (ESO)",
+      "start_page_pre_offset": 180,
+      "start_page_post_offset": 180,
+      "end_page_pre_offset": 188,
+      "end_page_post_offset": 188
+    },
+    {
+      "titulo": "GEOGRAFÍA E HISTORIA (ESO)",
+      "start_page_pre_offset": 188,
+      "start_page_post_offset": 188,
+      "end_page_pre_offset": 201,
+      "end_page_post_offset": 201
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA (ESO)",
+      "start_page_pre_offset": 201,
+      "start_page_post_offset": 201,
+      "end_page_pre_offset": 213,
+      "end_page_post_offset": 213
+    },
+    {
+      "titulo": "MATEMÁTICAS (ESO)",
+      "start_page_pre_offset": 213,
+      "start_page_post_offset": 213,
+      "end_page_pre_offset": 234,
+      "end_page_post_offset": 234
+    },
+    {
+      "titulo": "MÚSICA",
+      "start_page_pre_offset": 234,
+      "start_page_post_offset": 234,
+      "end_page_pre_offset": 248,
+      "end_page_post_offset": 248
+    },
+    {
+      "titulo": "EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL",
+      "start_page_pre_offset": 248,
+      "start_page_post_offset": 248,
+      "end_page_pre_offset": 253,
+      "end_page_post_offset": 253
+    },
+    {
+      "titulo": "TECNOLOGÍA Y DIGITALIZACIÓN",
+      "start_page_pre_offset": 253,
+      "start_page_post_offset": 253,
+      "end_page_pre_offset": 260,
+      "end_page_post_offset": 260
+    },
+    {
+      "titulo": "EXPRESIÓN ARTÍSTICA",
+      "start_page_pre_offset": 260,
+      "start_page_post_offset": 260,
+      "end_page_pre_offset": 265,
+      "end_page_post_offset": 265
+    },
+    {
+      "titulo": "INTRODUCCIÓN A LA EXPRESIÓN ARTÍSTICA",
+      "start_page_pre_offset": 265,
+      "start_page_post_offset": 265,
+      "end_page_pre_offset": 270,
+      "end_page_post_offset": 270
+    },
+    {
+      "titulo": "ARTES ESCÉNICAS",
+      "start_page_pre_offset": 270,
+      "start_page_post_offset": 270,
+      "end_page_pre_offset": 274,
+      "end_page_post_offset": 274
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 274,
+      "start_page_post_offset": 274,
+      "end_page_pre_offset": 298,
+      "end_page_post_offset": 298
+    },
+    {
+      "titulo": "CULTURA CLÁSICA",
+      "start_page_pre_offset": 298,
+      "start_page_post_offset": 298,
+      "end_page_pre_offset": 317,
+      "end_page_post_offset": 317
+    },
+    {
+      "titulo": "FILOSOFÍA APLICADA AL DESARROLLO PERSONAL Y SOCIAL",
+      "start_page_pre_offset": 317,
+      "start_page_post_offset": 317,
+      "end_page_pre_offset": 322,
+      "end_page_post_offset": 322
+    },
+    {
+      "titulo": "CIENCIAS APLICADAS A LA ACTIVIDAD PROFESIONAL",
+      "start_page_pre_offset": 322,
+      "start_page_post_offset": 322,
+      "end_page_pre_offset": 328,
+      "end_page_post_offset": 328
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 328,
+      "start_page_post_offset": 328,
+      "end_page_pre_offset": 334,
+      "end_page_post_offset": 334
+    },
+    {
+      "titulo": "BIENESTAR FÍSICO Y EMOCIONAL",
+      "start_page_pre_offset": 334,
+      "start_page_post_offset": 334,
+      "end_page_pre_offset": 338,
+      "end_page_post_offset": 338
+    },
+    {
+      "titulo": "DESARROLLO DEL PENSAMIENTO AUTÓNOMO Y CRÍTICO",
+      "start_page_pre_offset": 338,
+      "start_page_post_offset": 338,
+      "end_page_pre_offset": 345,
+      "end_page_post_offset": 345
+    },
+    {
+      "titulo": "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+      "start_page_pre_offset": 345,
+      "start_page_post_offset": 345,
+      "end_page_pre_offset": 360,
+      "end_page_post_offset": 360
+    },
+    {
+      "titulo": "INICIACIÓN A LA TECNOLOGÍA Y A LA DIGITALIZACIÓN",
+      "start_page_pre_offset": 360,
+      "start_page_post_offset": 360,
+      "end_page_pre_offset": 374,
+      "end_page_post_offset": 374
+    },
+    {
+      "titulo": "COMUNICACIÓN Y CIENCIAS SOCIALES (CFGB - ANEXO IV)",
+      "start_page_pre_offset": 374,
+      "start_page_post_offset": 374,
+      "end_page_pre_offset": 385,
+      "end_page_post_offset": 385
+    }
+  ]
+}
