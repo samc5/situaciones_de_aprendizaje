@@ -1,0 +1,103 @@
+{
+  "lista_materias": [
+    "Ciencias de la Naturaleza",
+    "Ciencias Sociales",
+    "Lengua Castellana y Literatura",
+    "Matemáticas",
+    "Primera Lengua Extranjera",
+    "Educación Física",
+    "Valores Sociales y Cívicos",
+    "Segunda Lengua Extranjera",
+    "Educación Artística",
+    "Educación para la Ciudadanía y los Derechos Humanos"
+  ],
+  "offset": -1,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 5,
+      "start_page_post_offset": 4,
+      "end_page_pre_offset": 5,
+      "end_page_post_offset": 4,
+      "anexo_nombre": "Recomendaciones de metodología didáctica para el diseño de situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 2,
+    "start_page_post_offset": 1,
+    "end_page_pre_offset": 3,
+    "end_page_post_offset": 2,
+    "anexo_nombre": "Necesidad de la adquisición de las competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "Ciencias de la Naturaleza",
+      "start_page_pre_offset": 31,
+      "start_page_post_offset": 30,
+      "end_page_pre_offset": 44,
+      "end_page_post_offset": 43
+    },
+    {
+      "titulo": "Ciencias Sociales",
+      "start_page_pre_offset": 45,
+      "start_page_post_offset": 44,
+      "end_page_pre_offset": 58,
+      "end_page_post_offset": 57
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 59,
+      "start_page_post_offset": 58,
+      "end_page_pre_offset": 82,
+      "end_page_post_offset": 81
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 83,
+      "start_page_post_offset": 82,
+      "end_page_pre_offset": 105,
+      "end_page_post_offset": 104
+    },
+    {
+      "titulo": "Primera Lengua Extranjera",
+      "start_page_pre_offset": 105,
+      "start_page_post_offset": 104,
+      "end_page_pre_offset": 128,
+      "end_page_post_offset": 127
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 128,
+      "start_page_post_offset": 127,
+      "end_page_pre_offset": 145,
+      "end_page_post_offset": 144
+    },
+    {
+      "titulo": "Valores Sociales y Cívicos",
+      "start_page_pre_offset": 145,
+      "start_page_post_offset": 144,
+      "end_page_pre_offset": 162,
+      "end_page_post_offset": 161
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 162,
+      "start_page_post_offset": 161,
+      "end_page_pre_offset": 171,
+      "end_page_post_offset": 170
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page_pre_offset": 172,
+      "start_page_post_offset": 171,
+      "end_page_pre_offset": 188,
+      "end_page_post_offset": 187
+    },
+    {
+      "titulo": "Educación para la Ciudadanía y los Derechos Humanos",
+      "start_page_pre_offset": 188,
+      "start_page_post_offset": 187,
+      "end_page_pre_offset": 196,
+      "end_page_post_offset": 195
+    }
+  ]
+}

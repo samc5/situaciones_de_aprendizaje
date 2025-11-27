@@ -1,0 +1,47 @@
+{
+  "lista_materias": [
+    "Crecimiento en Armonía",
+    "Descubrimiento y Exploración del Entorno",
+    "Comunicación y Representación de la Realidad"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 61,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 62,
+      "end_page_post_offset": 62,
+      "anexo_nombre": "ANEXO III. Situaciones de Aprendizaje (Orientaciones sobre el diseño)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 59,
+    "start_page_post_offset": 59,
+    "end_page_pre_offset": 60,
+    "end_page_post_offset": 60,
+    "anexo_nombre": "ANEXO II. Vinculación de los Objetivos de la etapa con el Perfil competencial de Educación Infantil"
+  },
+  "materias": [
+    {
+      "titulo": "Crecimiento en Armonía",
+      "start_page_pre_offset": 20,
+      "start_page_post_offset": 20,
+      "end_page_pre_offset": 32,
+      "end_page_post_offset": 32
+    },
+    {
+      "titulo": "Descubrimiento y Exploración del Entorno",
+      "start_page_pre_offset": 33,
+      "start_page_post_offset": 33,
+      "end_page_pre_offset": 42,
+      "end_page_post_offset": 42
+    },
+    {
+      "titulo": "Comunicación y Representación de la Realidad",
+      "start_page_pre_offset": 43,
+      "start_page_post_offset": 43,
+      "end_page_pre_offset": 58,
+      "end_page_post_offset": 58
+    }
+  ]
+}

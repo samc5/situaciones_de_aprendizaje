@@ -1,0 +1,207 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Digitalización",
+    "Economía y Emprendimiento",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Educación en Valores Cívicos y Éticos",
+    "Expresión Artística",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Música",
+    "Tecnología",
+    "Tecnología y Digitalización",
+    "Ampliación de Cultura Clásica",
+    "Aprendizaje Social y Emocional",
+    "Artes Escénicas y Danza",
+    "Computación y Robótica",
+    "Cultura Científica",
+    "Cultura Clásica",
+    "Cultura del Flamenco",
+    "Dibujo Técnico",
+    "Filosofía",
+    "Filosofía y Argumentación",
+    "Iniciación a la Actividad Emprendedora y Empresarial",
+    "Oratoria y Debate",
+    "Proyecto de Educación Plástica y Audiovisual"
+  ],
+  "offset": 0,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 9,
+      "start_page_post_offset": 9,
+      "end_page_pre_offset": 9,
+      "end_page_post_offset": 9,
+      "anexo_nombre": "Artículo 3 Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 5,
+      "start_page_post_offset": 5,
+      "end_page_pre_offset": 5,
+      "end_page_post_offset": 5,
+      "anexo_nombre": "ANEXO VII. Situaciones de Aprendizaje (Referencia TOC)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 5,
+    "start_page_post_offset": 5,
+    "end_page_pre_offset": 5,
+    "end_page_post_offset": 5,
+    "anexo_nombre": "ANEXO VI. Vinculación de los Objetivos de la etapa con el Perfil de salida al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 57,
+      "start_page_post_offset": 57,
+      "end_page_pre_offset": 75,
+      "end_page_post_offset": 75
+    },
+    {
+      "titulo": "Digitalización",
+      "start_page_pre_offset": 75,
+      "start_page_post_offset": 75,
+      "end_page_pre_offset": 81,
+      "end_page_post_offset": 81
+    },
+    {
+      "titulo": "Economía y Emprendimiento",
+      "start_page_pre_offset": 81,
+      "start_page_post_offset": 81,
+      "end_page_pre_offset": 90,
+      "end_page_post_offset": 90
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 90,
+      "start_page_post_offset": 90,
+      "end_page_pre_offset": 113,
+      "end_page_post_offset": 113
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 113,
+      "start_page_post_offset": 113,
+      "end_page_pre_offset": 124,
+      "end_page_post_offset": 124
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 124,
+      "start_page_post_offset": 124,
+      "end_page_pre_offset": 132,
+      "end_page_post_offset": 132
+    },
+    {
+      "titulo": "Expresión Artística",
+      "start_page_pre_offset": 132,
+      "start_page_post_offset": 132,
+      "end_page_pre_offset": 137,
+      "end_page_post_offset": 137
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 137,
+      "start_page_post_offset": 137,
+      "end_page_pre_offset": 154,
+      "end_page_post_offset": 154
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 154,
+      "start_page_post_offset": 154,
+      "end_page_pre_offset": 161,
+      "end_page_post_offset": 161
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 161,
+      "start_page_post_offset": 161,
+      "end_page_pre_offset": 189,
+      "end_page_post_offset": 189
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 189,
+      "start_page_post_offset": 189,
+      "end_page_pre_offset": 197,
+      "end_page_post_offset": 197
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 197,
+      "start_page_post_offset": 197,
+      "end_page_pre_offset": 229,
+      "end_page_post_offset": 229
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 229,
+      "start_page_post_offset": 229,
+      "end_page_pre_offset": 252,
+      "end_page_post_offset": 252
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 252,
+      "start_page_post_offset": 252,
+      "end_page_pre_offset": 287,
+      "end_page_post_offset": 287
+    },
+    {
+      "titulo": "Música",
+      "start_page_pre_offset": 287,
+      "start_page_post_offset": 287,
+      "end_page_pre_offset": 295,
+      "end_page_post_offset": 295
+    },
+    {
+      "titulo": "Tecnología",
+      "start_page_pre_offset": 295,
+      "start_page_post_offset": 295,
+      "end_page_pre_offset": 302,
+      "end_page_post_offset": 302
+    },
+    {
+      "titulo": "Tecnología y Digitalización",
+      "start_page_pre_offset": 302,
+      "start_page_post_offset": 302,
+      "end_page_pre_offset": 312,
+      "end_page_post_offset": 312
+    },
+    {
+      "titulo": "Ampliación de Cultura Clásica",
+      "start_page_pre_offset": 312,
+      "start_page_post_offset": 312,
+      "end_page_pre_offset": 321,
+      "end_page_post_offset": 321
+    },
+    {
+      "titulo": "Aprendizaje Social y Emocional",
+      "start_page_pre_offset": 321,
+      "start_page_post_offset": 321,
+      "end_page_pre_offset": 329,
+      "end_page_post_offset": 329
+    },
+    {
+      "titulo": "Artes Escénicas y Danza",
+      "start_page_pre_offset": 329,
+      "start_page_post_offset": 329,
+      "end_page_pre_offset": 335,
+      "end_page_post_offset": 335
+    },
+    {
+      "titulo": "Computación y Robótica",
+      "start_page_pre_offset": 335,
+      "start_page_post_offset": 335,
+      "end_page_pre_offset": 336,
+      "end_page_post_offset": 336
+    }
+  ]
+}
