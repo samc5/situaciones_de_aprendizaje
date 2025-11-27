@@ -1,0 +1,247 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Física y Química",
+    "Geografía e Historia",
+    "Lengua Castellana y Literatura",
+    "Matemáticas",
+    "Primera Lengua Extranjera – Inglés",
+    "Segunda Lengua Extranjera",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Taller de Plástica, Visual y Audiovisual 2º ESO",
+    "Música",
+    "Tecnología y Digitalización",
+    "Tecnología 4º ESO",
+    "Educación en Valores Cívicos y Éticos 2º ESO",
+    "Ética y Filosofía 4º ESO",
+    "Segunda Lengua Extranjera (Francés)",
+    "Cultura Clásica 3º ESO",
+    "Latín 4º ESO",
+    "Cultura a través del Diálogo – 1º ESO",
+    "Introducción a la Economía Familiar 2º ESO",
+    "Economía y Emprendimiento 4º ESO",
+    "Formación y Orientación Personal y Profesional 4º ESO",
+    "Introducción al Pensamiento Computacional 3º ESO",
+    "Tecnología para la Vida 1º ESO",
+    "Educación Ambiental 2º ESO",
+    "Cultura Científica 4º ESO",
+    "Técnicas de Laboratorio 4º ESO",
+    "Escuela de Voluntariado"
+  ],
+  "offset": 11715,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 11983,
+      "start_page_post_offset": 268,
+      "end_page_pre_offset": 11983,
+      "end_page_post_offset": 268,
+      "anexo_nombre": "ANEXO III Situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 11723,
+    "start_page_post_offset": 8,
+    "end_page_pre_offset": 11755,
+    "end_page_post_offset": 40,
+    "anexo_nombre": "ANEXO I Perfil de salida del alumnado al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 11756,
+      "start_page_post_offset": 41,
+      "end_page_pre_offset": 11766,
+      "end_page_post_offset": 51
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 11767,
+      "start_page_post_offset": 52,
+      "end_page_pre_offset": 11774,
+      "end_page_post_offset": 59
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 11775,
+      "start_page_post_offset": 60,
+      "end_page_pre_offset": 11787,
+      "end_page_post_offset": 72
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 11788,
+      "start_page_post_offset": 73,
+      "end_page_pre_offset": 11801,
+      "end_page_post_offset": 86
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 11802,
+      "start_page_post_offset": 87,
+      "end_page_pre_offset": 11819,
+      "end_page_post_offset": 104
+    },
+    {
+      "titulo": "Primera Lengua Extranjera – Inglés",
+      "start_page_pre_offset": 11820,
+      "start_page_post_offset": 105,
+      "end_page_pre_offset": 11831,
+      "end_page_post_offset": 116
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 11832,
+      "start_page_post_offset": 117,
+      "end_page_pre_offset": 11842,
+      "end_page_post_offset": 127
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 11843,
+      "start_page_post_offset": 128,
+      "end_page_pre_offset": 11857,
+      "end_page_post_offset": 142
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 11858,
+      "start_page_post_offset": 143,
+      "end_page_pre_offset": 11866,
+      "end_page_post_offset": 151
+    },
+    {
+      "titulo": "Taller de Plástica, Visual y Audiovisual 2º ESO",
+      "start_page_pre_offset": 11866,
+      "start_page_post_offset": 151,
+      "end_page_pre_offset": 11871,
+      "end_page_post_offset": 156
+    },
+    {
+      "titulo": "Música",
+      "start_page_pre_offset": 11872,
+      "start_page_post_offset": 157,
+      "end_page_pre_offset": 11879,
+      "end_page_post_offset": 164
+    },
+    {
+      "titulo": "Tecnología y Digitalización",
+      "start_page_pre_offset": 11880,
+      "start_page_post_offset": 165,
+      "end_page_pre_offset": 11890,
+      "end_page_post_offset": 175
+    },
+    {
+      "titulo": "Tecnología 4º ESO",
+      "start_page_pre_offset": 11890,
+      "start_page_post_offset": 175,
+      "end_page_pre_offset": 11895,
+      "end_page_post_offset": 180
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos 2º ESO",
+      "start_page_pre_offset": 11896,
+      "start_page_post_offset": 181,
+      "end_page_pre_offset": 11900,
+      "end_page_post_offset": 185
+    },
+    {
+      "titulo": "Ética y Filosofía 4º ESO",
+      "start_page_pre_offset": 11901,
+      "start_page_post_offset": 186,
+      "end_page_pre_offset": 11903,
+      "end_page_post_offset": 188
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera (Francés)",
+      "start_page_pre_offset": 11904,
+      "start_page_post_offset": 189,
+      "end_page_pre_offset": 11917,
+      "end_page_post_offset": 202
+    },
+    {
+      "titulo": "Cultura Clásica 3º ESO",
+      "start_page_pre_offset": 11918,
+      "start_page_post_offset": 203,
+      "end_page_pre_offset": 11920,
+      "end_page_post_offset": 205
+    },
+    {
+      "titulo": "Latín 4º ESO",
+      "start_page_pre_offset": 11921,
+      "start_page_post_offset": 206,
+      "end_page_pre_offset": 11926,
+      "end_page_post_offset": 211
+    },
+    {
+      "titulo": "Cultura a través del Diálogo – 1º ESO",
+      "start_page_pre_offset": 11927,
+      "start_page_post_offset": 212,
+      "end_page_pre_offset": 11934,
+      "end_page_post_offset": 219
+    },
+    {
+      "titulo": "Introducción a la Economía Familiar 2º ESO",
+      "start_page_pre_offset": 11935,
+      "start_page_post_offset": 220,
+      "end_page_pre_offset": 11939,
+      "end_page_post_offset": 224
+    },
+    {
+      "titulo": "Economía y Emprendimiento 4º ESO",
+      "start_page_pre_offset": 11940,
+      "start_page_post_offset": 225,
+      "end_page_pre_offset": 11945,
+      "end_page_post_offset": 230
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional 4º ESO",
+      "start_page_pre_offset": 11946,
+      "start_page_post_offset": 231,
+      "end_page_pre_offset": 11950,
+      "end_page_post_offset": 235
+    },
+    {
+      "titulo": "Introducción al Pensamiento Computacional 3º ESO",
+      "start_page_pre_offset": 11951,
+      "start_page_post_offset": 236,
+      "end_page_pre_offset": 11954,
+      "end_page_post_offset": 239
+    },
+    {
+      "titulo": "Tecnología para la Vida 1º ESO",
+      "start_page_pre_offset": 11955,
+      "start_page_post_offset": 240,
+      "end_page_pre_offset": 11959,
+      "end_page_post_offset": 244
+    },
+    {
+      "titulo": "Educación Ambiental 2º ESO",
+      "start_page_pre_offset": 11960,
+      "start_page_post_offset": 245,
+      "end_page_pre_offset": 11964,
+      "end_page_post_offset": 249
+    },
+    {
+      "titulo": "Cultura Científica 4º ESO",
+      "start_page_pre_offset": 11965,
+      "start_page_post_offset": 250,
+      "end_page_pre_offset": 11968,
+      "end_page_post_offset": 253
+    },
+    {
+      "titulo": "Técnicas de Laboratorio 4º ESO",
+      "start_page_pre_offset": 11969,
+      "start_page_post_offset": 254,
+      "end_page_pre_offset": 11973,
+      "end_page_post_offset": 258
+    },
+    {
+      "titulo": "Escuela de Voluntariado",
+      "start_page_pre_offset": 11974,
+      "start_page_post_offset": 259,
+      "end_page_pre_offset": 11982,
+      "end_page_post_offset": 267
+    }
+  ]
+}

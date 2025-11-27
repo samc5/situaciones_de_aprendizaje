@@ -1,0 +1,70 @@
+{
+  "lista_materias": [
+    "Crecimiento en Armonía",
+    "Descubrimiento y exploración del entorno",
+    "Comunicación y representación de la realidad",
+    "Lengua Extranjera",
+    "Educación Emocional y para la Creatividad"
+  ],
+  "offset": 10513,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 10565,
+      "start_page_post_offset": 52,
+      "end_page_pre_offset": 10566,
+      "end_page_post_offset": 53,
+      "anexo_nombre": "ANEXO III Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 10567,
+      "start_page_post_offset": 54,
+      "end_page_pre_offset": 10568,
+      "end_page_post_offset": 55,
+      "anexo_nombre": "ANEXO IV Sugerencias educativas para el Primer Ciclo de Educación Infantil"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 10530,
+    "start_page_post_offset": 17,
+    "end_page_pre_offset": 10532,
+    "end_page_post_offset": 19,
+    "anexo_nombre": "ANEXO I Competencias clave en Educación Infantil"
+  },
+  "materias": [
+    {
+      "titulo": "Crecimiento en Armonía",
+      "start_page_pre_offset": 10533,
+      "start_page_post_offset": 20,
+      "end_page_pre_offset": 10539,
+      "end_page_post_offset": 26
+    },
+    {
+      "titulo": "Descubrimiento y exploración del entorno",
+      "start_page_pre_offset": 10540,
+      "start_page_post_offset": 27,
+      "end_page_pre_offset": 10543,
+      "end_page_post_offset": 30
+    },
+    {
+      "titulo": "Comunicación y representación de la realidad",
+      "start_page_pre_offset": 10544,
+      "start_page_post_offset": 31,
+      "end_page_pre_offset": 10550,
+      "end_page_post_offset": 37
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 10551,
+      "start_page_post_offset": 38,
+      "end_page_pre_offset": 10555,
+      "end_page_post_offset": 42
+    },
+    {
+      "titulo": "Educación Emocional y para la Creatividad",
+      "start_page_pre_offset": 10556,
+      "start_page_post_offset": 43,
+      "end_page_pre_offset": 10564,
+      "end_page_post_offset": 51
+    }
+  ]
+}

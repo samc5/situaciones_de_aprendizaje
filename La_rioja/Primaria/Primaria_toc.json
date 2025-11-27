@@ -1,0 +1,104 @@
+{
+  "lista_materias": [
+    "Conocimiento del Medio Natural, Social y Cultural",
+    "Educación Plástica y Visual",
+    "Música y Danza",
+    "Educación Física",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Religión",
+    "Dramatización y Teatro",
+    "Educación en Valores cívicos y éticos",
+    "Educación Emocional y para la Creatividad"
+  ],
+  "offset": 11495,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 11693,
+      "start_page_post_offset": 198,
+      "end_page_pre_offset": 11694,
+      "end_page_post_offset": 199,
+      "anexo_nombre": "ANEXO III Situaciones de aprendizaje y principios para su diseño"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 11520,
+    "start_page_post_offset": 25,
+    "end_page_pre_offset": 11535,
+    "end_page_post_offset": 40,
+    "anexo_nombre": "ANEXO I Perfil de salida del alumnado al término de la enseñanza básica y Descriptores operativos de las competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "Conocimiento del Medio Natural, Social y Cultural",
+      "start_page_pre_offset": 11536,
+      "start_page_post_offset": 41,
+      "end_page_pre_offset": 11552,
+      "end_page_post_offset": 57
+    },
+    {
+      "titulo": "Educación Plástica y Visual",
+      "start_page_pre_offset": 11552,
+      "start_page_post_offset": 57,
+      "end_page_pre_offset": 11561,
+      "end_page_post_offset": 66
+    },
+    {
+      "titulo": "Música y Danza",
+      "start_page_pre_offset": 11561,
+      "start_page_post_offset": 66,
+      "end_page_pre_offset": 11581,
+      "end_page_post_offset": 86
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 11581,
+      "start_page_post_offset": 86,
+      "end_page_pre_offset": 11591,
+      "end_page_post_offset": 96
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 11591,
+      "start_page_post_offset": 96,
+      "end_page_pre_offset": 11608,
+      "end_page_post_offset": 113
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 11608,
+      "start_page_post_offset": 113,
+      "end_page_pre_offset": 11641,
+      "end_page_post_offset": 146
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 11641,
+      "start_page_post_offset": 146,
+      "end_page_pre_offset": 11658,
+      "end_page_post_offset": 163
+    },
+    {
+      "titulo": "Dramatización y Teatro",
+      "start_page_pre_offset": 11658,
+      "start_page_post_offset": 163,
+      "end_page_pre_offset": 11665,
+      "end_page_post_offset": 170
+    },
+    {
+      "titulo": "Educación en Valores cívicos y éticos",
+      "start_page_pre_offset": 11665,
+      "start_page_post_offset": 170,
+      "end_page_pre_offset": 11670,
+      "end_page_post_offset": 175
+    },
+    {
+      "titulo": "Educación Emocional y para la Creatividad",
+      "start_page_pre_offset": 11670,
+      "start_page_post_offset": 175,
+      "end_page_pre_offset": 11692,
+      "end_page_post_offset": 197
+    }
+  ]
+}
