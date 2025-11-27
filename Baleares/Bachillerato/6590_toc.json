@@ -1,0 +1,359 @@
+{
+  "lista_materias": [
+    "Ampliació de Matemàtiques",
+    "Anàlisi Musical",
+    "Arts Escèniques",
+    "Biologia",
+    "Biologia, Geologia i Ciències Ambientals",
+    "Ciències Generals",
+    "Cor i Tècnica Vocal",
+    "Cultura Audiovisual",
+    "Dibuix Artístic",
+    "Dibuix Tècnic",
+    "Dibuix Tècnic Aplicat a les Arts Plàstiques i al Disseny",
+    "Disseny",
+    "Economia",
+    "Economia, Emprenedoria i Activitat Empresarial",
+    "Educació Física",
+    "Filosofia",
+    "Física",
+    "Física i Química",
+    "Geografia",
+    "Geologia i Ciències Ambientals",
+    "Grec",
+    "Història d’Espanya",
+    "Història de la Filosofia",
+    "Història de la Música i de la Dansa",
+    "Història i Cultura de les Illes Balears",
+    "Llatí",
+    "Llengua Castellana i Literatura",
+    "Llengua Catalana i Literatura",
+    "Llengua Estrangera",
+    "Matemàtiques",
+    "Matemàtiques Aplicades a les Ciències Socials",
+    "Matemàtiques Generals",
+    "Moviments Culturals i Artístics",
+    "Programació i Tractament de Dades",
+    "Projectes Artístics",
+    "Psicologia",
+    "Química",
+    "Segona Llengua Estrangera",
+    "Tècniques d’Expressió Graficoplàstica",
+    "Tècniques Experimentals",
+    "Tecnologia i Enginyeria",
+    "Volum"
+  ],
+  "offset": 31958,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 32533,
+      "start_page_post_offset": 575,
+      "end_page_pre_offset": 32536,
+      "end_page_post_offset": 578,
+      "anexo_nombre": "ANNEX 3 Situacions d’aprenentatge"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 31978,
+    "start_page_post_offset": 20,
+    "end_page_pre_offset": 31989,
+    "end_page_post_offset": 31,
+    "anexo_nombre": "ANNEX 1 Competències clau en el batxillerat"
+  },
+  "materias": [
+    {
+      "titulo": "Ampliació de Matemàtiques",
+      "start_page_pre_offset": 31990,
+      "start_page_post_offset": 32,
+      "end_page_pre_offset": 32000,
+      "end_page_post_offset": 42
+    },
+    {
+      "titulo": "Anàlisi Musical",
+      "start_page_pre_offset": 32000,
+      "start_page_post_offset": 42,
+      "end_page_pre_offset": 32009,
+      "end_page_post_offset": 51
+    },
+    {
+      "titulo": "Arts Escèniques",
+      "start_page_pre_offset": 32009,
+      "start_page_post_offset": 51,
+      "end_page_pre_offset": 32019,
+      "end_page_post_offset": 61
+    },
+    {
+      "titulo": "Biologia",
+      "start_page_pre_offset": 32019,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 32029,
+      "end_page_post_offset": 71
+    },
+    {
+      "titulo": "Biologia, Geologia i Ciències Ambientals",
+      "start_page_pre_offset": 32029,
+      "start_page_post_offset": 71,
+      "end_page_pre_offset": 32040,
+      "end_page_post_offset": 82
+    },
+    {
+      "titulo": "Ciències Generals",
+      "start_page_pre_offset": 32040,
+      "start_page_post_offset": 82,
+      "end_page_pre_offset": 32049,
+      "end_page_post_offset": 91
+    },
+    {
+      "titulo": "Cor i Tècnica Vocal",
+      "start_page_pre_offset": 32049,
+      "start_page_post_offset": 91,
+      "end_page_pre_offset": 32057,
+      "end_page_post_offset": 99
+    },
+    {
+      "titulo": "Cultura Audiovisual",
+      "start_page_pre_offset": 32057,
+      "start_page_post_offset": 99,
+      "end_page_pre_offset": 32066,
+      "end_page_post_offset": 108
+    },
+    {
+      "titulo": "Dibuix Artístic",
+      "start_page_pre_offset": 32066,
+      "start_page_post_offset": 108,
+      "end_page_pre_offset": 32081,
+      "end_page_post_offset": 123
+    },
+    {
+      "titulo": "Dibuix Tècnic",
+      "start_page_pre_offset": 32081,
+      "start_page_post_offset": 123,
+      "end_page_pre_offset": 32090,
+      "end_page_post_offset": 132
+    },
+    {
+      "titulo": "Dibuix Tècnic Aplicat a les Arts Plàstiques i al Disseny",
+      "start_page_pre_offset": 32090,
+      "start_page_post_offset": 132,
+      "end_page_pre_offset": 32098,
+      "end_page_post_offset": 140
+    },
+    {
+      "titulo": "Disseny",
+      "start_page_pre_offset": 32098,
+      "start_page_post_offset": 140,
+      "end_page_pre_offset": 32109,
+      "end_page_post_offset": 151
+    },
+    {
+      "titulo": "Economia",
+      "start_page_pre_offset": 32109,
+      "start_page_post_offset": 151,
+      "end_page_pre_offset": 32118,
+      "end_page_post_offset": 160
+    },
+    {
+      "titulo": "Economia, Emprenedoria i Activitat Empresarial",
+      "start_page_pre_offset": 32118,
+      "start_page_post_offset": 160,
+      "end_page_pre_offset": 32126,
+      "end_page_post_offset": 168
+    },
+    {
+      "titulo": "Educació Física",
+      "start_page_pre_offset": 32126,
+      "start_page_post_offset": 168,
+      "end_page_pre_offset": 32147,
+      "end_page_post_offset": 189
+    },
+    {
+      "titulo": "Filosofia",
+      "start_page_pre_offset": 32147,
+      "start_page_post_offset": 189,
+      "end_page_pre_offset": 32159,
+      "end_page_post_offset": 201
+    },
+    {
+      "titulo": "Física",
+      "start_page_pre_offset": 32159,
+      "start_page_post_offset": 201,
+      "end_page_pre_offset": 32168,
+      "end_page_post_offset": 210
+    },
+    {
+      "titulo": "Física i Química",
+      "start_page_pre_offset": 32168,
+      "start_page_post_offset": 210,
+      "end_page_pre_offset": 32188,
+      "end_page_post_offset": 230
+    },
+    {
+      "titulo": "Geografia",
+      "start_page_pre_offset": 32188,
+      "start_page_post_offset": 230,
+      "end_page_pre_offset": 32199,
+      "end_page_post_offset": 241
+    },
+    {
+      "titulo": "Geologia i Ciències Ambientals",
+      "start_page_pre_offset": 32199,
+      "start_page_post_offset": 241,
+      "end_page_pre_offset": 32209,
+      "end_page_post_offset": 251
+    },
+    {
+      "titulo": "Grec",
+      "start_page_pre_offset": 32209,
+      "start_page_post_offset": 251,
+      "end_page_pre_offset": 32226,
+      "end_page_post_offset": 268
+    },
+    {
+      "titulo": "Història d’Espanya",
+      "start_page_pre_offset": 32226,
+      "start_page_post_offset": 268,
+      "end_page_pre_offset": 32240,
+      "end_page_post_offset": 282
+    },
+    {
+      "titulo": "Història de la Filosofia",
+      "start_page_pre_offset": 32240,
+      "start_page_post_offset": 282,
+      "end_page_pre_offset": 32250,
+      "end_page_post_offset": 292
+    },
+    {
+      "titulo": "Història de la Música i de la Dansa",
+      "start_page_pre_offset": 32250,
+      "start_page_post_offset": 292,
+      "end_page_pre_offset": 32282,
+      "end_page_post_offset": 324
+    },
+    {
+      "titulo": "Història i Cultura de les Illes Balears",
+      "start_page_pre_offset": 32282,
+      "start_page_post_offset": 324,
+      "end_page_pre_offset": 32310,
+      "end_page_post_offset": 352
+    },
+    {
+      "titulo": "Llatí",
+      "start_page_pre_offset": 32310,
+      "start_page_post_offset": 352,
+      "end_page_pre_offset": 32328,
+      "end_page_post_offset": 370
+    },
+    {
+      "titulo": "Llengua Castellana i Literatura",
+      "start_page_pre_offset": 32328,
+      "start_page_post_offset": 370,
+      "end_page_pre_offset": 32351,
+      "end_page_post_offset": 393
+    },
+    {
+      "titulo": "Llengua Catalana i Literatura",
+      "start_page_pre_offset": 32351,
+      "start_page_post_offset": 393,
+      "end_page_pre_offset": 32373,
+      "end_page_post_offset": 415
+    },
+    {
+      "titulo": "Llengua Estrangera",
+      "start_page_pre_offset": 32373,
+      "start_page_post_offset": 415,
+      "end_page_pre_offset": 32396,
+      "end_page_post_offset": 438
+    },
+    {
+      "titulo": "Matemàtiques",
+      "start_page_pre_offset": 32396,
+      "start_page_post_offset": 438,
+      "end_page_pre_offset": 32414,
+      "end_page_post_offset": 456
+    },
+    {
+      "titulo": "Matemàtiques Aplicades a les Ciències Socials",
+      "start_page_pre_offset": 32414,
+      "start_page_post_offset": 456,
+      "end_page_pre_offset": 32431,
+      "end_page_post_offset": 473
+    },
+    {
+      "titulo": "Matemàtiques Generals",
+      "start_page_pre_offset": 32431,
+      "start_page_post_offset": 473,
+      "end_page_pre_offset": 32443,
+      "end_page_post_offset": 485
+    },
+    {
+      "titulo": "Moviments Culturals i Artístics",
+      "start_page_pre_offset": 32443,
+      "start_page_post_offset": 485,
+      "end_page_pre_offset": 32453,
+      "end_page_post_offset": 495
+    },
+    {
+      "titulo": "Programació i Tractament de Dades",
+      "start_page_pre_offset": 32453,
+      "start_page_post_offset": 495,
+      "end_page_pre_offset": 32463,
+      "end_page_post_offset": 505
+    },
+    {
+      "titulo": "Projectes Artístics",
+      "start_page_pre_offset": 32463,
+      "start_page_post_offset": 505,
+      "end_page_pre_offset": 32470,
+      "end_page_post_offset": 512
+    },
+    {
+      "titulo": "Psicologia",
+      "start_page_pre_offset": 32470,
+      "start_page_post_offset": 512,
+      "end_page_pre_offset": 32481,
+      "end_page_post_offset": 523
+    },
+    {
+      "titulo": "Química",
+      "start_page_pre_offset": 32481,
+      "start_page_post_offset": 523,
+      "end_page_pre_offset": 32492,
+      "end_page_post_offset": 534
+    },
+    {
+      "titulo": "Segona Llengua Estrangera",
+      "start_page_pre_offset": 32492,
+      "start_page_post_offset": 534,
+      "end_page_pre_offset": 32495,
+      "end_page_post_offset": 537
+    },
+    {
+      "titulo": "Tècniques d’Expressió Graficoplàstica",
+      "start_page_pre_offset": 32495,
+      "start_page_post_offset": 537,
+      "end_page_pre_offset": 32505,
+      "end_page_post_offset": 547
+    },
+    {
+      "titulo": "Tècniques Experimentals",
+      "start_page_pre_offset": 32505,
+      "start_page_post_offset": 547,
+      "end_page_pre_offset": 32513,
+      "end_page_post_offset": 555
+    },
+    {
+      "titulo": "Tecnologia i Enginyeria",
+      "start_page_pre_offset": 32513,
+      "start_page_post_offset": 555,
+      "end_page_pre_offset": 32525,
+      "end_page_post_offset": 567
+    },
+    {
+      "titulo": "Volum",
+      "start_page_pre_offset": 32525,
+      "start_page_post_offset": 567,
+      "end_page_pre_offset": 32533,
+      "end_page_post_offset": 575
+    }
+  ]
+}

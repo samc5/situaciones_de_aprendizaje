@@ -1,0 +1,206 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Conocimiento de las Matemáticas",
+    "Conocimiento del Lenguaje",
+    "Control y Robótica",
+    "Cultura Científica",
+    "Cultura Clásica",
+    "Digitalización",
+    "Economía y Emprendimiento",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Financiera",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Expresión Artística",
+    "Física y Química",
+    "Formación para la Empresa y el Empleo",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Geografía Económica",
+    "Iniciación a la Actividad Emprendedora y Empresarial",
+    "Laboratorio de Ciencias",
+    "Latín",
+    "Lengua Castellana y Literatura"
+  ],
+  "offset": 48849,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 13,
+      "start_page_post_offset": 48862,
+      "end_page_pre_offset": 13,
+      "end_page_post_offset": 48862,
+      "anexo_nombre": "Artículo 14. Situaciones de aprendizaje"
+    },
+    {
+      "start_page_pre_offset": 61,
+      "start_page_post_offset": 48910,
+      "end_page_pre_offset": 65,
+      "end_page_post_offset": 48914,
+      "anexo_nombre": "ANEXO II.C Orientaciones para el diseño y desarrollo de situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 36,
+    "start_page_post_offset": 48885,
+    "end_page_pre_offset": 40,
+    "end_page_post_offset": 48889,
+    "anexo_nombre": "ANEXO I.A Competencias Clave en Educación Secundaria Obligatoria"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 67,
+      "start_page_post_offset": 48915,
+      "end_page_pre_offset": 88,
+      "end_page_post_offset": 48936
+    },
+    {
+      "titulo": "Conocimiento de las Matemáticas",
+      "start_page_pre_offset": 89,
+      "start_page_post_offset": 48937,
+      "end_page_pre_offset": 106,
+      "end_page_post_offset": 48954
+    },
+    {
+      "titulo": "Conocimiento del Lenguaje",
+      "start_page_pre_offset": 107,
+      "start_page_post_offset": 48955,
+      "end_page_pre_offset": 124,
+      "end_page_post_offset": 48972
+    },
+    {
+      "titulo": "Control y Robótica",
+      "start_page_pre_offset": 125,
+      "start_page_post_offset": 48973,
+      "end_page_pre_offset": 133,
+      "end_page_post_offset": 48981
+    },
+    {
+      "titulo": "Cultura Científica",
+      "start_page_pre_offset": 134,
+      "start_page_post_offset": 48982,
+      "end_page_pre_offset": 146,
+      "end_page_post_offset": 48994
+    },
+    {
+      "titulo": "Cultura Clásica",
+      "start_page_pre_offset": 147,
+      "start_page_post_offset": 48995,
+      "end_page_pre_offset": 161,
+      "end_page_post_offset": 49009
+    },
+    {
+      "titulo": "Digitalización",
+      "start_page_pre_offset": 162,
+      "start_page_post_offset": 49010,
+      "end_page_pre_offset": 171,
+      "end_page_post_offset": 49019
+    },
+    {
+      "titulo": "Economía y Emprendimiento",
+      "start_page_pre_offset": 172,
+      "start_page_post_offset": 49020,
+      "end_page_pre_offset": 183,
+      "end_page_post_offset": 49031
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 184,
+      "start_page_post_offset": 49032,
+      "end_page_pre_offset": 194,
+      "end_page_post_offset": 49042
+    },
+    {
+      "titulo": "Educación Financiera",
+      "start_page_pre_offset": 195,
+      "start_page_post_offset": 49043,
+      "end_page_pre_offset": 203,
+      "end_page_post_offset": 49051
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 204,
+      "start_page_post_offset": 49052,
+      "end_page_pre_offset": 230,
+      "end_page_post_offset": 49078
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual",
+      "start_page_pre_offset": 231,
+      "start_page_post_offset": 49079,
+      "end_page_pre_offset": 246,
+      "end_page_post_offset": 49094
+    },
+    {
+      "titulo": "Expresión Artística",
+      "start_page_pre_offset": 247,
+      "start_page_post_offset": 49095,
+      "end_page_pre_offset": 256,
+      "end_page_post_offset": 49104
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 257,
+      "start_page_post_offset": 49105,
+      "end_page_pre_offset": 274,
+      "end_page_post_offset": 49122
+    },
+    {
+      "titulo": "Formación para la Empresa y el Empleo",
+      "start_page_pre_offset": 275,
+      "start_page_post_offset": 49123,
+      "end_page_pre_offset": 283,
+      "end_page_post_offset": 49131
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 284,
+      "start_page_post_offset": 49132,
+      "end_page_pre_offset": 294,
+      "end_page_post_offset": 49142
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 295,
+      "start_page_post_offset": 49143,
+      "end_page_pre_offset": 316,
+      "end_page_post_offset": 49164
+    },
+    {
+      "titulo": "Geografía Económica",
+      "start_page_pre_offset": 317,
+      "start_page_post_offset": 49165,
+      "end_page_pre_offset": 325,
+      "end_page_post_offset": 49173
+    },
+    {
+      "titulo": "Iniciación a la Actividad Emprendedora y Empresarial",
+      "start_page_pre_offset": 326,
+      "start_page_post_offset": 49174,
+      "end_page_pre_offset": 337,
+      "end_page_post_offset": 49185
+    },
+    {
+      "titulo": "Laboratorio de Ciencias",
+      "start_page_pre_offset": 338,
+      "start_page_post_offset": 49186,
+      "end_page_pre_offset": 349,
+      "end_page_post_offset": 49197
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 350,
+      "start_page_post_offset": 49198,
+      "end_page_pre_offset": 362,
+      "end_page_post_offset": 49210
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 363,
+      "start_page_post_offset": 49211,
+      "end_page_pre_offset": 394,
+      "end_page_post_offset": 49242
+    }
+  ]
+}

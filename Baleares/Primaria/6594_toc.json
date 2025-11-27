@@ -1,0 +1,88 @@
+{
+  "lista_materias": [
+    "Coneixement del Medi Natural, Social i Cultural",
+    "Educació Artística",
+    "Educació Física",
+    "Llengua Castellana i Literatura",
+    "Llengua Catalana i Literatura",
+    "Llengua Estrangera",
+    "Matemàtiques",
+    "Educació en Valors Cívics i Ètics",
+    "Religió/Atenció Educativa"
+  ],
+  "offset": 31427,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 31607,
+      "start_page_post_offset": 180,
+      "end_page_pre_offset": 31610,
+      "end_page_post_offset": 183,
+      "anexo_nombre": "Annex 3: Situacions d'aprenentatge"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 31444,
+    "start_page_post_offset": 17,
+    "end_page_pre_offset": 31457,
+    "end_page_post_offset": 30,
+    "anexo_nombre": "Annex 1: Perfil de sortida dels alumnes al final de l'ensenyament bàsic"
+  },
+  "materias": [
+    {
+      "titulo": "Coneixement del Medi Natural, Social i Cultural",
+      "start_page_pre_offset": 31458,
+      "start_page_post_offset": 31,
+      "end_page_pre_offset": 31482,
+      "end_page_post_offset": 55
+    },
+    {
+      "titulo": "Educació Artística",
+      "start_page_pre_offset": 31483,
+      "start_page_post_offset": 56,
+      "end_page_pre_offset": 31495,
+      "end_page_post_offset": 68
+    },
+    {
+      "titulo": "Educació en Valors Cívics i Ètics",
+      "start_page_pre_offset": 31496,
+      "start_page_post_offset": 69,
+      "end_page_pre_offset": 31503,
+      "end_page_post_offset": 76
+    },
+    {
+      "titulo": "Educació Física",
+      "start_page_pre_offset": 31504,
+      "start_page_post_offset": 77,
+      "end_page_pre_offset": 31520,
+      "end_page_post_offset": 93
+    },
+    {
+      "titulo": "Llengua Castellana i Literatura",
+      "start_page_pre_offset": 31521,
+      "start_page_post_offset": 94,
+      "end_page_pre_offset": 31542,
+      "end_page_post_offset": 115
+    },
+    {
+      "titulo": "Llengua Catalana i Literatura",
+      "start_page_pre_offset": 31543,
+      "start_page_post_offset": 116,
+      "end_page_pre_offset": 31564,
+      "end_page_post_offset": 137
+    },
+    {
+      "titulo": "Llengua Estrangera",
+      "start_page_pre_offset": 31565,
+      "start_page_post_offset": 138,
+      "end_page_pre_offset": 31581,
+      "end_page_post_offset": 154
+    },
+    {
+      "titulo": "Matemàtiques",
+      "start_page_pre_offset": 31582,
+      "start_page_post_offset": 155,
+      "end_page_pre_offset": 31606,
+      "end_page_post_offset": 179
+    }
+  ]
+}

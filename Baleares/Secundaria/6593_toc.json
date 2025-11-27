@@ -1,0 +1,215 @@
+{
+  "lista_materias": [
+    "Biologia i Geologia",
+    "Cooperació i Serveis a la Comunitat",
+    "Cultura Clàssica",
+    "Digitalització",
+    "Economia i Emprenedoria",
+    "Educació en Valors Cívics i Ètics",
+    "Educació Física",
+    "Educació Plàstica, Visual i Audiovisual",
+    "Expressió Artística",
+    "Física i Química",
+    "Formació i Orientació Personal i Professional",
+    "Geografia i Història",
+    "Igualtat de Gènere",
+    "Introducció a la Filosofia",
+    "Llatí",
+    "Llengua Castellana i Literatura",
+    "Llengua Catalana i Literatura",
+    "Llengua Estrangera",
+    "Matemàtiques",
+    "Matemàtiques A",
+    "Matemàtiques B",
+    "Recursos Digitals",
+    "Segona Llengua Estrangera",
+    "Taller de Consum Responsable"
+  ],
+  "offset": 31611,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 31945,
+      "start_page_post_offset": 334,
+      "end_page_pre_offset": 31947,
+      "end_page_post_offset": 336,
+      "anexo_nombre": "ANNEX 3 Situacions d’aprenentatge"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 31631,
+    "start_page_post_offset": 20,
+    "end_page_pre_offset": 31644,
+    "end_page_post_offset": 33,
+    "anexo_nombre": "ANNEX 1 Perfil de sortida dels alumnes al final de l'ensenyament bàsic"
+  },
+  "materias": [
+    {
+      "titulo": "Biologia i Geologia",
+      "start_page_pre_offset": 31645,
+      "start_page_post_offset": 34,
+      "end_page_pre_offset": 31658,
+      "end_page_post_offset": 47
+    },
+    {
+      "titulo": "Cooperació i Serveis a la Comunitat",
+      "start_page_pre_offset": 31659,
+      "start_page_post_offset": 48,
+      "end_page_pre_offset": 31664,
+      "end_page_post_offset": 53
+    },
+    {
+      "titulo": "Cultura Clàssica",
+      "start_page_pre_offset": 31665,
+      "start_page_post_offset": 54,
+      "end_page_pre_offset": 31676,
+      "end_page_post_offset": 65
+    },
+    {
+      "titulo": "Digitalització",
+      "start_page_pre_offset": 31677,
+      "start_page_post_offset": 66,
+      "end_page_pre_offset": 31684,
+      "end_page_post_offset": 73
+    },
+    {
+      "titulo": "Economia i Emprenedoria",
+      "start_page_pre_offset": 31685,
+      "start_page_post_offset": 74,
+      "end_page_pre_offset": 31695,
+      "end_page_post_offset": 84
+    },
+    {
+      "titulo": "Educació en Valors Cívics i Ètics",
+      "start_page_pre_offset": 31696,
+      "start_page_post_offset": 85,
+      "end_page_pre_offset": 31704,
+      "end_page_post_offset": 93
+    },
+    {
+      "titulo": "Educació Física",
+      "start_page_pre_offset": 31705,
+      "start_page_post_offset": 94,
+      "end_page_pre_offset": 31720,
+      "end_page_post_offset": 109
+    },
+    {
+      "titulo": "Educació Plàstica, Visual i Audiovisual",
+      "start_page_pre_offset": 31721,
+      "start_page_post_offset": 110,
+      "end_page_pre_offset": 31730,
+      "end_page_post_offset": 119
+    },
+    {
+      "titulo": "Expressió Artística",
+      "start_page_pre_offset": 31731,
+      "start_page_post_offset": 120,
+      "end_page_pre_offset": 31737,
+      "end_page_post_offset": 126
+    },
+    {
+      "titulo": "Física i Química",
+      "start_page_pre_offset": 31738,
+      "start_page_post_offset": 127,
+      "end_page_pre_offset": 31751,
+      "end_page_post_offset": 140
+    },
+    {
+      "titulo": "Formació i Orientació Personal i Professional",
+      "start_page_pre_offset": 31752,
+      "start_page_post_offset": 141,
+      "end_page_pre_offset": 31760,
+      "end_page_post_offset": 149
+    },
+    {
+      "titulo": "Geografia i Història",
+      "start_page_pre_offset": 31761,
+      "start_page_post_offset": 150,
+      "end_page_pre_offset": 31781,
+      "end_page_post_offset": 170
+    },
+    {
+      "titulo": "Igualtat de Gènere",
+      "start_page_pre_offset": 31782,
+      "start_page_post_offset": 171,
+      "end_page_pre_offset": 31788,
+      "end_page_post_offset": 177
+    },
+    {
+      "titulo": "Introducció a la Filosofia",
+      "start_page_pre_offset": 31789,
+      "start_page_post_offset": 178,
+      "end_page_pre_offset": 31797,
+      "end_page_post_offset": 186
+    },
+    {
+      "titulo": "Llatí",
+      "start_page_pre_offset": 31798,
+      "start_page_post_offset": 187,
+      "end_page_pre_offset": 31806,
+      "end_page_post_offset": 195
+    },
+    {
+      "titulo": "Llengua Castellana i Literatura",
+      "start_page_pre_offset": 31807,
+      "start_page_post_offset": 196,
+      "end_page_pre_offset": 31829,
+      "end_page_post_offset": 218
+    },
+    {
+      "titulo": "Llengua Catalana i Literatura",
+      "start_page_pre_offset": 31830,
+      "start_page_post_offset": 219,
+      "end_page_pre_offset": 31851,
+      "end_page_post_offset": 240
+    },
+    {
+      "titulo": "Llengua Estrangera",
+      "start_page_pre_offset": 31852,
+      "start_page_post_offset": 241,
+      "end_page_pre_offset": 31866,
+      "end_page_post_offset": 255
+    },
+    {
+      "titulo": "Matemàtiques",
+      "start_page_pre_offset": 31867,
+      "start_page_post_offset": 256,
+      "end_page_pre_offset": 31904,
+      "end_page_post_offset": 293
+    },
+    {
+      "titulo": "Matemàtiques A",
+      "start_page_pre_offset": 31881,
+      "start_page_post_offset": 270,
+      "end_page_pre_offset": 31887,
+      "end_page_post_offset": 276
+    },
+    {
+      "titulo": "Matemàtiques B",
+      "start_page_pre_offset": 31888,
+      "start_page_post_offset": 277,
+      "end_page_pre_offset": 31893,
+      "end_page_post_offset": 282
+    },
+    {
+      "titulo": "Recursos Digitals",
+      "start_page_pre_offset": 31905,
+      "start_page_post_offset": 294,
+      "end_page_pre_offset": 31911,
+      "end_page_post_offset": 300
+    },
+    {
+      "titulo": "Segona Llengua Estrangera",
+      "start_page_pre_offset": 31912,
+      "start_page_post_offset": 301,
+      "end_page_pre_offset": 31914,
+      "end_page_post_offset": 303
+    },
+    {
+      "titulo": "Taller de Consum Responsable",
+      "start_page_pre_offset": 31915,
+      "start_page_post_offset": 304,
+      "end_page_pre_offset": 31924,
+      "end_page_post_offset": 313
+    }
+  ]
+}

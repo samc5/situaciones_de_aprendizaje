@@ -1,0 +1,256 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Cultura Clásica",
+    "Cultura y Ciudadanía Digital",
+    "Economía Personal y Social",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Física",
+    "Expresión Artística",
+    "Filosofía",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Historia y Geografía de Canarias",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas"
+  ],
+  "offset": -15321,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 15395,
+      "start_page_post_offset": 75,
+      "end_page_pre_offset": 15396,
+      "end_page_post_offset": 76,
+      "anexo_nombre": "Biología y Geología - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15444,
+      "start_page_post_offset": 124,
+      "end_page_pre_offset": 15446,
+      "end_page_post_offset": 126,
+      "anexo_nombre": "Cultura Clásica - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15465,
+      "start_page_post_offset": 145,
+      "end_page_pre_offset": 15466,
+      "end_page_post_offset": 146,
+      "anexo_nombre": "Cultura y Ciudadanía Digital - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15500,
+      "start_page_post_offset": 180,
+      "end_page_pre_offset": 15501,
+      "end_page_post_offset": 181,
+      "anexo_nombre": "Economía Personal y Social - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15544,
+      "start_page_post_offset": 223,
+      "end_page_pre_offset": 15544,
+      "end_page_post_offset": 223,
+      "anexo_nombre": "Educación en Valores Cívicos y Éticos - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15558,
+      "start_page_post_offset": 238,
+      "end_page_pre_offset": 15559,
+      "end_page_post_offset": 239,
+      "anexo_nombre": "Educación Física - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15639,
+      "start_page_post_offset": 254,
+      "end_page_pre_offset": 15640,
+      "end_page_post_offset": 255,
+      "anexo_nombre": "Expresión Artística - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15654,
+      "start_page_post_offset": 269,
+      "end_page_pre_offset": 15655,
+      "end_page_post_offset": 270,
+      "anexo_nombre": "Filosofía - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15667,
+      "start_page_post_offset": 282,
+      "end_page_pre_offset": 15668,
+      "end_page_post_offset": 283,
+      "anexo_nombre": "Física y Química - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15707,
+      "start_page_post_offset": 322,
+      "end_page_pre_offset": 15708,
+      "end_page_post_offset": 323,
+      "anexo_nombre": "Formación y Orientación Personal y Profesional - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15729,
+      "start_page_post_offset": 344,
+      "end_page_pre_offset": 15730,
+      "end_page_post_offset": 345,
+      "anexo_nombre": "Geografía e Historia - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15803,
+      "start_page_post_offset": 419,
+      "end_page_pre_offset": 15804,
+      "end_page_post_offset": 420,
+      "anexo_nombre": "Historia y Geografía de Canarias - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15827,
+      "start_page_post_offset": 443,
+      "end_page_pre_offset": 15829,
+      "end_page_post_offset": 445,
+      "anexo_nombre": "Latín - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15850,
+      "start_page_post_offset": 466,
+      "end_page_pre_offset": 15851,
+      "end_page_post_offset": 467,
+      "anexo_nombre": "Lengua Castellana y Literatura - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15939,
+      "start_page_post_offset": 555,
+      "end_page_pre_offset": 15940,
+      "end_page_post_offset": 556,
+      "anexo_nombre": "Lengua Extranjera - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    },
+    {
+      "start_page_pre_offset": 15997,
+      "start_page_post_offset": 613,
+      "end_page_pre_offset": 15998,
+      "end_page_post_offset": 614,
+      "anexo_nombre": "Matemáticas - Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 15372,
+    "start_page_post_offset": 51,
+    "end_page_pre_offset": 15385,
+    "end_page_post_offset": 64,
+    "anexo_nombre": "Perfil de salida del alumnado al término de la enseñanza básica y competencias clave en el Bachillerato"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología",
+      "start_page_pre_offset": 15386,
+      "start_page_post_offset": 65,
+      "end_page_pre_offset": 15433,
+      "end_page_post_offset": 113
+    },
+    {
+      "titulo": "Cultura Clásica",
+      "start_page_pre_offset": 15434,
+      "start_page_post_offset": 114,
+      "end_page_pre_offset": 15458,
+      "end_page_post_offset": 138
+    },
+    {
+      "titulo": "Cultura y Ciudadanía Digital",
+      "start_page_pre_offset": 15459,
+      "start_page_post_offset": 139,
+      "end_page_pre_offset": 15494,
+      "end_page_post_offset": 174
+    },
+    {
+      "titulo": "Economía Personal y Social",
+      "start_page_pre_offset": 15495,
+      "start_page_post_offset": 175,
+      "end_page_pre_offset": 15535,
+      "end_page_post_offset": 215
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 15536,
+      "start_page_post_offset": 216,
+      "end_page_pre_offset": 15552,
+      "end_page_post_offset": 232
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 15553,
+      "start_page_post_offset": 233,
+      "end_page_pre_offset": 15632,
+      "end_page_post_offset": 252
+    },
+    {
+      "titulo": "Expresión Artística",
+      "start_page_pre_offset": 15633,
+      "start_page_post_offset": 253,
+      "end_page_pre_offset": 15648,
+      "end_page_post_offset": 268
+    },
+    {
+      "titulo": "Filosofía",
+      "start_page_pre_offset": 15649,
+      "start_page_post_offset": 269,
+      "end_page_pre_offset": 15660,
+      "end_page_post_offset": 275
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 15661,
+      "start_page_post_offset": 276,
+      "end_page_pre_offset": 15702,
+      "end_page_post_offset": 317
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional",
+      "start_page_pre_offset": 15703,
+      "start_page_post_offset": 318,
+      "end_page_pre_offset": 15719,
+      "end_page_post_offset": 334
+    },
+    {
+      "titulo": "Geografía e Historia",
+      "start_page_pre_offset": 15720,
+      "start_page_post_offset": 335,
+      "end_page_pre_offset": 15794,
+      "end_page_post_offset": 409
+    },
+    {
+      "titulo": "Historia y Geografía de Canarias",
+      "start_page_pre_offset": 15795,
+      "start_page_post_offset": 411,
+      "end_page_pre_offset": 15818,
+      "end_page_post_offset": 434
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 15819,
+      "start_page_post_offset": 435,
+      "end_page_pre_offset": 15840,
+      "end_page_post_offset": 456
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 15841,
+      "start_page_post_offset": 457,
+      "end_page_pre_offset": 15931,
+      "end_page_post_offset": 547
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 15932,
+      "start_page_post_offset": 548,
+      "end_page_pre_offset": 15988,
+      "end_page_post_offset": 604
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 15989,
+      "start_page_post_offset": 605,
+      "end_page_pre_offset": 16063,
+      "end_page_post_offset": 743
+    }
+  ]
+}

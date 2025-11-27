@@ -1,0 +1,103 @@
+{
+  "lista_materias": [
+    "Ciencias de la Naturaleza",
+    "Ciencias Sociales",
+    "Educación Plástica y Visual",
+    "Música y Danza",
+    "Educación Física",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Educación en Valores Cívicos y Éticos",
+    "Segunda Lengua Extranjera"
+  ],
+  "offset": 48315,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 66,
+      "start_page_post_offset": 48381,
+      "end_page_pre_offset": 70,
+      "end_page_post_offset": 48385,
+      "anexo_nombre": "ANEXO II.C Orientaciones para el diseño y desarrollo de situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 26,
+    "start_page_post_offset": 48341,
+    "end_page_pre_offset": 53,
+    "end_page_post_offset": 48368,
+    "anexo_nombre": "ANEXO I. A Competencias Clave en Educación Primaria (Definición y Vinculación)"
+  },
+  "materias": [
+    {
+      "titulo": "CIENCIAS DE LA NATURALEZA",
+      "start_page_pre_offset": 71,
+      "start_page_post_offset": 48386,
+      "end_page_pre_offset": 115,
+      "end_page_post_offset": 48430
+    },
+    {
+      "titulo": "CIENCIAS SOCIALES",
+      "start_page_pre_offset": 115,
+      "start_page_post_offset": 48430,
+      "end_page_pre_offset": 164,
+      "end_page_post_offset": 48479
+    },
+    {
+      "titulo": "EDUCACIÓN PLÁSTICA Y VISUAL",
+      "start_page_pre_offset": 164,
+      "start_page_post_offset": 48479,
+      "end_page_pre_offset": 196,
+      "end_page_post_offset": 48511
+    },
+    {
+      "titulo": "MÚSICA Y DANZA",
+      "start_page_pre_offset": 196,
+      "start_page_post_offset": 48511,
+      "end_page_pre_offset": 243,
+      "end_page_post_offset": 48558
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 243,
+      "start_page_post_offset": 48558,
+      "end_page_pre_offset": 304,
+      "end_page_post_offset": 48619
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 304,
+      "start_page_post_offset": 48619,
+      "end_page_pre_offset": 360,
+      "end_page_post_offset": 48675
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 360,
+      "start_page_post_offset": 48675,
+      "end_page_pre_offset": 413,
+      "end_page_post_offset": 48728
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 413,
+      "start_page_post_offset": 48728,
+      "end_page_pre_offset": 476,
+      "end_page_post_offset": 48791
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+      "start_page_pre_offset": 476,
+      "start_page_post_offset": 48791,
+      "end_page_pre_offset": 495,
+      "end_page_post_offset": 48810
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 495,
+      "start_page_post_offset": 48810,
+      "end_page_pre_offset": 534,
+      "end_page_post_offset": 48849
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lista_materias": [
+    "Área 1. Crecimiento en Armonía",
+    "Área 2. Descubrimiento y Exploración del Entorno",
+    "Área 3. Comunicación y Representación de la Realidad",
+    "Conocimiento del Medio Natural, Social y Cultural",
+    "Educación Artística",
+    "Educación Física",
+    "Educación en Valores Cívicos y Éticos",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas"
+  ],
+  "offset": 18026,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 18081,
+      "start_page_post_offset": 55,
+      "end_page_pre_offset": 18081,
+      "end_page_post_offset": 55,
+      "anexo_nombre": "ANEXO I-B. Situaciones de aprendizaje en la Etapa de Educación Infantil"
+    },
+    {
+      "start_page_pre_offset": 18202,
+      "start_page_post_offset": 176,
+      "end_page_pre_offset": 18202,
+      "end_page_post_offset": 176,
+      "anexo_nombre": "ANEXO II-B. Situaciones de aprendizaje en la etapa de Educación Primaria"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 18038,
+    "start_page_post_offset": 12,
+    "end_page_pre_offset": 18039,
+    "end_page_post_offset": 13,
+    "anexo_nombre": "Artículo 18. Competencias y Perfil de salida del alumnado al término de la enseñanza básica"
+  },
+  "materias": [
+    {
+      "titulo": "Área 1. Crecimiento en Armonía",
+      "start_page_pre_offset": 18050,
+      "start_page_post_offset": 24,
+      "end_page_pre_offset": 18060,
+      "end_page_post_offset": 34
+    },
+    {
+      "titulo": "Área 2. Descubrimiento y Exploración del Entorno",
+      "start_page_pre_offset": 18061,
+      "start_page_post_offset": 35,
+      "end_page_pre_offset": 18068,
+      "end_page_post_offset": 42
+    },
+    {
+      "titulo": "Área 3. Comunicación y Representación de la Realidad",
+      "start_page_pre_offset": 18069,
+      "start_page_post_offset": 43,
+      "end_page_pre_offset": 18080,
+      "end_page_post_offset": 54
+    },
+    {
+      "titulo": "Conocimiento del Medio Natural, Social y Cultural",
+      "start_page_pre_offset": 18082,
+      "start_page_post_offset": 56,
+      "end_page_pre_offset": 18105,
+      "end_page_post_offset": 79
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page_pre_offset": 18106,
+      "start_page_post_offset": 80,
+      "end_page_pre_offset": 18117,
+      "end_page_post_offset": 91
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 18118,
+      "start_page_post_offset": 92,
+      "end_page_pre_offset": 18133,
+      "end_page_post_offset": 107
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 18134,
+      "start_page_post_offset": 108,
+      "end_page_pre_offset": 18141,
+      "end_page_post_offset": 115
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 18142,
+      "start_page_post_offset": 116,
+      "end_page_pre_offset": 18162,
+      "end_page_post_offset": 136
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 18163,
+      "start_page_post_offset": 137,
+      "end_page_pre_offset": 18178,
+      "end_page_post_offset": 152
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 18179,
+      "start_page_post_offset": 153,
+      "end_page_pre_offset": 18201,
+      "end_page_post_offset": 175
+    }
+  ]
+}

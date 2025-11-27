@@ -1,0 +1,79 @@
+{
+  "lista_materias": [
+    "Conocimiento del Medio Natural, Social y Cultural",
+    "Educación Artística",
+    "Educación Física",
+    "Educación en Valores Cívicos y Éticos",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas"
+  ],
+  "offset": 24353,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 24458,
+      "start_page_post_offset": 105,
+      "end_page_pre_offset": 24459,
+      "end_page_post_offset": 106,
+      "anexo_nombre": "Anexo III: Situaciones de aprendizaje. Elementos a tener en cuenta para elaborar una situación de aprendizaje y Modelo para el diseño"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 24370,
+    "start_page_post_offset": 17,
+    "end_page_pre_offset": 24378,
+    "end_page_post_offset": 25,
+    "anexo_nombre": "Anexo I: Perfil de salida del alumnado al término de la enseñanza básica y Competencias clave"
+  },
+  "materias": [
+    {
+      "titulo": "Conocimiento del Medio Natural, Social y Cultural",
+      "start_page_pre_offset": 24379,
+      "start_page_post_offset": 26,
+      "end_page_pre_offset": 24394,
+      "end_page_post_offset": 41
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page_pre_offset": 24395,
+      "start_page_post_offset": 42,
+      "end_page_pre_offset": 24402,
+      "end_page_post_offset": 49
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 24403,
+      "start_page_post_offset": 50,
+      "end_page_pre_offset": 24413,
+      "end_page_post_offset": 60
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 24414,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 24418,
+      "end_page_post_offset": 65
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 24419,
+      "start_page_post_offset": 66,
+      "end_page_pre_offset": 24431,
+      "end_page_post_offset": 78
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 24432,
+      "start_page_post_offset": 79,
+      "end_page_pre_offset": 24442,
+      "end_page_post_offset": 89
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 24443,
+      "start_page_post_offset": 90,
+      "end_page_pre_offset": 24457,
+      "end_page_post_offset": 104
+    }
+  ]
+}

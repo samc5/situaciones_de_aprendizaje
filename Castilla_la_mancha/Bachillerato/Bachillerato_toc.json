@@ -1,0 +1,343 @@
+{
+  "lista_materias": [
+    "Análisis Musical",
+    "Anatomía Aplicada",
+    "Artes Escénicas",
+    "Biología, Geología y Ciencias Ambientales",
+    "Biología",
+    "Ciencias Generales",
+    "Coro y Técnica Vocal",
+    "Creación de Contenidos Artísticos y Audiovisuales",
+    "Desarrollo Digital",
+    "Dibujo Artístico",
+    "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño",
+    "Dibujo Técnico",
+    "Diseño",
+    "Economía, Emprendimiento y Actividad Empresarial",
+    "Educación Física",
+    "Empresa y Diseño de Modelos de Negocio",
+    "Filosofía",
+    "Física y Química",
+    "Física",
+    "Fundamentos Artísticos",
+    "Geografía",
+    "Geología y Ciencias Ambientales",
+    "Griego",
+    "Historia de España",
+    "Historia de la Filosofía",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lenguaje y Práctica Musical",
+    "Literatura Dramática",
+    "Literatura Universal",
+    "Matemáticas Aplicadas a las Ciencias Sociales",
+    "Matemáticas Generales",
+    "Matemáticas",
+    "Movimientos Culturales y Artísticos",
+    "Proyectos Artísticos de Música, Danza y Arte Dramático",
+    "Psicología",
+    "Química",
+    "Técnicas de Expresión Gráfico-plástica",
+    "Tecnología e Ingeniería",
+    "Volumen"
+  ],
+  "offset": 24730,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 342,
+      "start_page_post_offset": 25072,
+      "end_page_pre_offset": 342,
+      "end_page_post_offset": 25072,
+      "anexo_nombre": "Anexo III: Situaciones de Aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 20,
+    "start_page_post_offset": 24750,
+    "end_page_pre_offset": 29,
+    "end_page_post_offset": 24759,
+    "anexo_nombre": "Anexo I: Competencias clave en el Bachillerato"
+  },
+  "materias": [
+    {
+      "titulo": "Análisis Musical",
+      "start_page_pre_offset": 30,
+      "start_page_post_offset": 24760,
+      "end_page_pre_offset": 35,
+      "end_page_post_offset": 24765
+    },
+    {
+      "titulo": "Anatomía Aplicada",
+      "start_page_pre_offset": 35,
+      "start_page_post_offset": 24765,
+      "end_page_pre_offset": 40,
+      "end_page_post_offset": 24770
+    },
+    {
+      "titulo": "Artes Escénicas",
+      "start_page_pre_offset": 40,
+      "start_page_post_offset": 24770,
+      "end_page_pre_offset": 47,
+      "end_page_post_offset": 24777
+    },
+    {
+      "titulo": "Biología, Geología y Ciencias Ambientales",
+      "start_page_pre_offset": 47,
+      "start_page_post_offset": 24777,
+      "end_page_pre_offset": 53,
+      "end_page_post_offset": 24783
+    },
+    {
+      "titulo": "Biología",
+      "start_page_pre_offset": 53,
+      "start_page_post_offset": 24783,
+      "end_page_pre_offset": 58,
+      "end_page_post_offset": 24788
+    },
+    {
+      "titulo": "Ciencias Generales",
+      "start_page_pre_offset": 58,
+      "start_page_post_offset": 24788,
+      "end_page_pre_offset": 64,
+      "end_page_post_offset": 24794
+    },
+    {
+      "titulo": "Coro y Técnica Vocal",
+      "start_page_pre_offset": 64,
+      "start_page_post_offset": 24794,
+      "end_page_pre_offset": 69,
+      "end_page_post_offset": 24799
+    },
+    {
+      "titulo": "Creación de Contenidos Artísticos y Audiovisuales",
+      "start_page_pre_offset": 69,
+      "start_page_post_offset": 24799,
+      "end_page_pre_offset": 80,
+      "end_page_post_offset": 24810
+    },
+    {
+      "titulo": "Desarrollo Digital",
+      "start_page_pre_offset": 80,
+      "start_page_post_offset": 24810,
+      "end_page_pre_offset": 85,
+      "end_page_post_offset": 24815
+    },
+    {
+      "titulo": "Dibujo Artístico",
+      "start_page_pre_offset": 85,
+      "start_page_post_offset": 24815,
+      "end_page_pre_offset": 94,
+      "end_page_post_offset": 24824
+    },
+    {
+      "titulo": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño",
+      "start_page_pre_offset": 94,
+      "start_page_post_offset": 24824,
+      "end_page_pre_offset": 99,
+      "end_page_post_offset": 24829
+    },
+    {
+      "titulo": "Dibujo Técnico",
+      "start_page_pre_offset": 99,
+      "start_page_post_offset": 24829,
+      "end_page_pre_offset": 104,
+      "end_page_post_offset": 24834
+    },
+    {
+      "titulo": "Diseño",
+      "start_page_pre_offset": 104,
+      "start_page_post_offset": 24834,
+      "end_page_pre_offset": 110,
+      "end_page_post_offset": 24840
+    },
+    {
+      "titulo": "Economía, Emprendimiento y Actividad Empresarial",
+      "start_page_pre_offset": 110,
+      "start_page_post_offset": 24840,
+      "end_page_pre_offset": 120,
+      "end_page_post_offset": 24850
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 120,
+      "start_page_post_offset": 24850,
+      "end_page_pre_offset": 127,
+      "end_page_post_offset": 24857
+    },
+    {
+      "titulo": "Empresa y Diseño de Modelos de Negocio",
+      "start_page_pre_offset": 127,
+      "start_page_post_offset": 24857,
+      "end_page_pre_offset": 132,
+      "end_page_post_offset": 24862
+    },
+    {
+      "titulo": "Filosofía",
+      "start_page_pre_offset": 132,
+      "start_page_post_offset": 24862,
+      "end_page_pre_offset": 139,
+      "end_page_post_offset": 24869
+    },
+    {
+      "titulo": "Física y Química",
+      "start_page_pre_offset": 139,
+      "start_page_post_offset": 24869,
+      "end_page_pre_offset": 145,
+      "end_page_post_offset": 24875
+    },
+    {
+      "titulo": "Física",
+      "start_page_pre_offset": 145,
+      "start_page_post_offset": 24875,
+      "end_page_pre_offset": 150,
+      "end_page_post_offset": 24880
+    },
+    {
+      "titulo": "Fundamentos Artísticos",
+      "start_page_pre_offset": 150,
+      "start_page_post_offset": 24880,
+      "end_page_pre_offset": 160,
+      "end_page_post_offset": 24890
+    },
+    {
+      "titulo": "Geografía",
+      "start_page_pre_offset": 160,
+      "start_page_post_offset": 24890,
+      "end_page_pre_offset": 167,
+      "end_page_post_offset": 24897
+    },
+    {
+      "titulo": "Geología y Ciencias Ambientales",
+      "start_page_pre_offset": 167,
+      "start_page_post_offset": 24897,
+      "end_page_pre_offset": 173,
+      "end_page_post_offset": 24903
+    },
+    {
+      "titulo": "Griego",
+      "start_page_pre_offset": 173,
+      "start_page_post_offset": 24903,
+      "end_page_pre_offset": 183,
+      "end_page_post_offset": 24913
+    },
+    {
+      "titulo": "Historia de España",
+      "start_page_pre_offset": 183,
+      "start_page_post_offset": 24913,
+      "end_page_pre_offset": 210,
+      "end_page_post_offset": 24940
+    },
+    {
+      "titulo": "Historia de la Filosofía",
+      "start_page_pre_offset": 210,
+      "start_page_post_offset": 24940,
+      "end_page_pre_offset": 220,
+      "end_page_post_offset": 24950
+    },
+    {
+      "titulo": "Latín",
+      "start_page_pre_offset": 220,
+      "start_page_post_offset": 24950,
+      "end_page_pre_offset": 230,
+      "end_page_post_offset": 24960
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 230,
+      "start_page_post_offset": 24960,
+      "end_page_pre_offset": 244,
+      "end_page_post_offset": 24974
+    },
+    {
+      "titulo": "Lenguaje y Práctica Musical",
+      "start_page_pre_offset": 244,
+      "start_page_post_offset": 24974,
+      "end_page_pre_offset": 259,
+      "end_page_post_offset": 24989
+    },
+    {
+      "titulo": "Literatura Dramática",
+      "start_page_pre_offset": 259,
+      "start_page_post_offset": 24989,
+      "end_page_pre_offset": 265,
+      "end_page_post_offset": 24995
+    },
+    {
+      "titulo": "Literatura Universal",
+      "start_page_pre_offset": 265,
+      "start_page_post_offset": 24995,
+      "end_page_pre_offset": 271,
+      "end_page_post_offset": 25001
+    },
+    {
+      "titulo": "Matemáticas Aplicadas a las Ciencias Sociales",
+      "start_page_pre_offset": 271,
+      "start_page_post_offset": 25001,
+      "end_page_pre_offset": 281,
+      "end_page_post_offset": 25011
+    },
+    {
+      "titulo": "Matemáticas Generales",
+      "start_page_pre_offset": 281,
+      "start_page_post_offset": 25011,
+      "end_page_pre_offset": 289,
+      "end_page_post_offset": 25019
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 289,
+      "start_page_post_offset": 25019,
+      "end_page_pre_offset": 300,
+      "end_page_post_offset": 25030
+    },
+    {
+      "titulo": "Movimientos Culturales y Artísticos",
+      "start_page_pre_offset": 300,
+      "start_page_post_offset": 25030,
+      "end_page_pre_offset": 305,
+      "end_page_post_offset": 25035
+    },
+    {
+      "titulo": "Proyectos Artísticos de Música, Danza y Arte Dramático",
+      "start_page_pre_offset": 305,
+      "start_page_post_offset": 25035,
+      "end_page_pre_offset": 313,
+      "end_page_post_offset": 25043
+    },
+    {
+      "titulo": "Psicología",
+      "start_page_pre_offset": 313,
+      "start_page_post_offset": 25043,
+      "end_page_pre_offset": 317,
+      "end_page_post_offset": 25047
+    },
+    {
+      "titulo": "Química",
+      "start_page_pre_offset": 317,
+      "start_page_post_offset": 25047,
+      "end_page_pre_offset": 324,
+      "end_page_post_offset": 25054
+    },
+    {
+      "titulo": "Técnicas de Expresión Gráfico-plástica",
+      "start_page_pre_offset": 324,
+      "start_page_post_offset": 25054,
+      "end_page_pre_offset": 329,
+      "end_page_post_offset": 25059
+    },
+    {
+      "titulo": "Tecnología e Ingeniería",
+      "start_page_pre_offset": 329,
+      "start_page_post_offset": 25059,
+      "end_page_pre_offset": 337,
+      "end_page_post_offset": 25067
+    },
+    {
+      "titulo": "Volumen",
+      "start_page_pre_offset": 337,
+      "start_page_post_offset": 25067,
+      "end_page_pre_offset": 342,
+      "end_page_post_offset": 25072
+    }
+  ]
+}

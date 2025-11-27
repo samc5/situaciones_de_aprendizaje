@@ -1,0 +1,158 @@
+{
+  "lista_materias": [
+    "Conocimiento del Medio Natural, Social y Cultural",
+    "Educación Artística",
+    "Educación Física",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Emocional y para la Creatividad",
+    "Segunda Lengua Extranjera"
+  ],
+  "offset": 45513,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 45558,
+      "start_page_post_offset": 45,
+      "end_page_pre_offset": 45559,
+      "end_page_post_offset": 46,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Conocimiento del Medio Natural, Social y Cultural"
+    },
+    {
+      "start_page_pre_offset": 45608,
+      "start_page_post_offset": 95,
+      "end_page_pre_offset": 45609,
+      "end_page_post_offset": 96,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Educación Artística"
+    },
+    {
+      "start_page_pre_offset": 45635,
+      "start_page_post_offset": 122,
+      "end_page_pre_offset": 45636,
+      "end_page_post_offset": 123,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Educación Emocional y para la Creatividad"
+    },
+    {
+      "start_page_pre_offset": 45667,
+      "start_page_post_offset": 154,
+      "end_page_pre_offset": 45668,
+      "end_page_post_offset": 155,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Educación Física"
+    },
+    {
+      "start_page_pre_offset": 45697,
+      "start_page_post_offset": 184,
+      "end_page_pre_offset": 45698,
+      "end_page_post_offset": 185,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Educación en Valores Cívicos y Éticos"
+    },
+    {
+      "start_page_pre_offset": 45714,
+      "start_page_post_offset": 201,
+      "end_page_pre_offset": 45715,
+      "end_page_post_offset": 202,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Lengua Castellana y Literatura"
+    },
+    {
+      "start_page_pre_offset": 45763,
+      "start_page_post_offset": 250,
+      "end_page_pre_offset": 45765,
+      "end_page_post_offset": 252,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Lengua Extranjera"
+    },
+    {
+      "start_page_pre_offset": 45799,
+      "start_page_post_offset": 286,
+      "end_page_pre_offset": 45801,
+      "end_page_post_offset": 288,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Matemáticas"
+    },
+    {
+      "start_page_pre_offset": 45844,
+      "start_page_post_offset": 331,
+      "end_page_pre_offset": 45847,
+      "end_page_post_offset": 334,
+      "anexo_nombre": "Situaciones de aprendizaje, orientaciones metodológicas, estrategias y recursos didácticos - Segunda Lengua Extranjera"
+    },
+    {
+      "start_page_pre_offset": 45857,
+      "start_page_post_offset": 344,
+      "end_page_pre_offset": 45858,
+      "end_page_post_offset": 345,
+      "anexo_nombre": "ANEXO 3 SITUACIONES DE APRENDIZAJE (General Description)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 45538,
+    "start_page_post_offset": 25,
+    "end_page_pre_offset": 45547,
+    "end_page_post_offset": 34,
+    "anexo_nombre": "ANEXO 1 PERFIL DE SALIDA DEL ALUMNADO AL TÉRMINO DE LA ENSEÑANZA BÁSICA"
+  },
+  "materias": [
+    {
+      "titulo": "Conocimiento del Medio Natural, Social y Cultural",
+      "start_page_pre_offset": 45548,
+      "start_page_post_offset": 35,
+      "end_page_pre_offset": 45599,
+      "end_page_post_offset": 86
+    },
+    {
+      "titulo": "Educación Artística",
+      "start_page_pre_offset": 45600,
+      "start_page_post_offset": 87,
+      "end_page_pre_offset": 45628,
+      "end_page_post_offset": 115
+    },
+    {
+      "titulo": "Educación Emocional y para la Creatividad",
+      "start_page_pre_offset": 45629,
+      "start_page_post_offset": 116,
+      "end_page_pre_offset": 45658,
+      "end_page_post_offset": 145
+    },
+    {
+      "titulo": "Educación Física",
+      "start_page_pre_offset": 45659,
+      "start_page_post_offset": 146,
+      "end_page_pre_offset": 45689,
+      "end_page_post_offset": 176
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos",
+      "start_page_pre_offset": 45690,
+      "start_page_post_offset": 177,
+      "end_page_pre_offset": 45705,
+      "end_page_post_offset": 192
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura",
+      "start_page_pre_offset": 45706,
+      "start_page_post_offset": 193,
+      "end_page_pre_offset": 45753,
+      "end_page_post_offset": 240
+    },
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 45754,
+      "start_page_post_offset": 241,
+      "end_page_pre_offset": 45790,
+      "end_page_post_offset": 277
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 45791,
+      "start_page_post_offset": 278,
+      "end_page_pre_offset": 45835,
+      "end_page_post_offset": 322
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 45836,
+      "start_page_post_offset": 323,
+      "end_page_pre_offset": 45856,
+      "end_page_post_offset": 343
+    }
+  ]
+}

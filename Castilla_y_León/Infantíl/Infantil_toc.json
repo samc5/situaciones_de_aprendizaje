@@ -1,0 +1,54 @@
+{
+  "lista_materias": [
+    "Crecimiento en Armonía",
+    "Descubrimiento y Exploración del Entorno",
+    "Comunicación y Representación de la Realidad"
+  ],
+  "offset": -48190,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 48216,
+      "start_page_post_offset": 26,
+      "end_page_pre_offset": 48220,
+      "end_page_post_offset": 30,
+      "anexo_nombre": "ANEXO II.A. Principios Metodológicos de la Etapa (Guiding design)"
+    },
+    {
+      "start_page_pre_offset": 48224,
+      "start_page_post_offset": 34,
+      "end_page_pre_offset": 48228,
+      "end_page_post_offset": 38,
+      "anexo_nombre": "ANEXO II.C. Orientaciones para el Diseño y Desarrollo de Situaciones de Aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 48210,
+    "start_page_post_offset": 20,
+    "end_page_pre_offset": 48215,
+    "end_page_post_offset": 25,
+    "anexo_nombre": "ANEXO I. Competencias Clave en Educación Infantil"
+  },
+  "materias": [
+    {
+      "titulo": "Crecimiento en Armonía",
+      "start_page_pre_offset": 48229,
+      "start_page_post_offset": 39,
+      "end_page_pre_offset": 48256,
+      "end_page_post_offset": 66
+    },
+    {
+      "titulo": "Descubrimiento y Exploración del Entorno",
+      "start_page_pre_offset": 48257,
+      "start_page_post_offset": 67,
+      "end_page_pre_offset": 48277,
+      "end_page_post_offset": 87
+    },
+    {
+      "titulo": "Comunicación y Representación de la Realidad",
+      "start_page_pre_offset": 48278,
+      "start_page_post_offset": 88,
+      "end_page_pre_offset": 48315,
+      "end_page_post_offset": 125
+    }
+  ]
+}

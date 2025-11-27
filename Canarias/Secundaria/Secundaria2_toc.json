@@ -1,0 +1,182 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Cultura Clásica",
+    "Cultura y Ciudadanía Digital",
+    "Economía Personal y Social",
+    "Economía y Emprendimiento",
+    "Educación en Valores Cívicos y Éticos",
+    "Educación Física",
+    "Expresión Artística",
+    "Filosofía",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Historia y Geografía de Canarias",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Matemáticas A",
+    "Matemáticas B"
+  ],
+  "offset": 15321,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 15331,
+      "start_page_post_offset": 10,
+      "end_page_pre_offset": 15331,
+      "end_page_post_offset": 10,
+      "anexo_nombre": "Regulación de la programación didáctica en situaciones de aprendizaje (Artículo 3.6 y 3.8 que remite a Anexo 4)"
+    },
+    {
+      "start_page_pre_offset": 15395,
+      "start_page_post_offset": 74,
+      "end_page_pre_offset": 15396,
+      "end_page_post_offset": 75,
+      "anexo_nombre": "Orientaciones metodológicas para el diseño de Situaciones de aprendizaje (Ejemplo introductorio del Anexo 2: Biología y Geología)"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 15372,
+    "start_page_post_offset": 51,
+    "end_page_pre_offset": 15385,
+    "end_page_post_offset": 64,
+    "anexo_nombre": "Perfil de salida del alumnado al término de la enseñanza básica y competencias clave en el Bachillerato (Anexo 1)"
+  },
+  "materias": [
+    {
+      "titulo": "BIOLOGÍA Y GEOLOGÍA",
+      "start_page_pre_offset": 15386,
+      "start_page_post_offset": 65,
+      "end_page_pre_offset": 15433,
+      "end_page_post_offset": 112
+    },
+    {
+      "titulo": "CULTURA CLÁSICA",
+      "start_page_pre_offset": 15434,
+      "start_page_post_offset": 113,
+      "end_page_pre_offset": 15458,
+      "end_page_post_offset": 137
+    },
+    {
+      "titulo": "CULTURA Y CIUDADANÍA DIGITAL",
+      "start_page_pre_offset": 15459,
+      "start_page_post_offset": 138,
+      "end_page_pre_offset": 15494,
+      "end_page_post_offset": 173
+    },
+    {
+      "titulo": "ECONOMÍA PERSONAL Y SOCIAL",
+      "start_page_pre_offset": 15495,
+      "start_page_post_offset": 174,
+      "end_page_pre_offset": 15510,
+      "end_page_post_offset": 189
+    },
+    {
+      "titulo": "ECONOMÍA Y EMPRENDIMIENTO",
+      "start_page_pre_offset": 15511,
+      "start_page_post_offset": 190,
+      "end_page_pre_offset": 15535,
+      "end_page_post_offset": 214
+    },
+    {
+      "titulo": "EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS",
+      "start_page_pre_offset": 15536,
+      "start_page_post_offset": 215,
+      "end_page_pre_offset": 15552,
+      "end_page_post_offset": 231
+    },
+    {
+      "titulo": "EDUCACIÓN FÍSICA",
+      "start_page_pre_offset": 15553,
+      "start_page_post_offset": 232,
+      "end_page_pre_offset": 15567,
+      "end_page_post_offset": 246
+    },
+    {
+      "titulo": "EXPRESIÓN ARTÍSTICA",
+      "start_page_pre_offset": 15568,
+      "start_page_post_offset": 247,
+      "end_page_pre_offset": 15632,
+      "end_page_post_offset": 311
+    },
+    {
+      "titulo": "FILOSOFÍA",
+      "start_page_pre_offset": 15633,
+      "start_page_post_offset": 312,
+      "end_page_pre_offset": 15660,
+      "end_page_post_offset": 339
+    },
+    {
+      "titulo": "FÍSICA Y QUÍMICA",
+      "start_page_pre_offset": 15661,
+      "start_page_post_offset": 340,
+      "end_page_pre_offset": 15702,
+      "end_page_post_offset": 381
+    },
+    {
+      "titulo": "FORMACIÓN Y ORIENTACIÓN PERSONAL Y PROFESIONAL",
+      "start_page_pre_offset": 15703,
+      "start_page_post_offset": 382,
+      "end_page_pre_offset": 15719,
+      "end_page_post_offset": 398
+    },
+    {
+      "titulo": "GEOGRAFÍA E HISTORIA",
+      "start_page_pre_offset": 15720,
+      "start_page_post_offset": 399,
+      "end_page_pre_offset": 15794,
+      "end_page_post_offset": 473
+    },
+    {
+      "titulo": "HISTORIA Y GEOGRAFÍA DE CANARIAS",
+      "start_page_pre_offset": 15795,
+      "start_page_post_offset": 474,
+      "end_page_pre_offset": 15818,
+      "end_page_post_offset": 497
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 15819,
+      "start_page_post_offset": 498,
+      "end_page_pre_offset": 15840,
+      "end_page_post_offset": 519
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 15841,
+      "start_page_post_offset": 520,
+      "end_page_pre_offset": 15890,
+      "end_page_post_offset": 569
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 15891,
+      "start_page_post_offset": 570,
+      "end_page_pre_offset": 15988,
+      "end_page_post_offset": 667
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 15989,
+      "start_page_post_offset": 668,
+      "end_page_pre_offset": 16037,
+      "end_page_post_offset": 716
+    },
+    {
+      "titulo": "MATEMÁTICAS A",
+      "start_page_pre_offset": 16038,
+      "start_page_post_offset": 717,
+      "end_page_pre_offset": 16050,
+      "end_page_post_offset": 729
+    },
+    {
+      "titulo": "MATEMÁTICAS B",
+      "start_page_pre_offset": 16051,
+      "start_page_post_offset": 730,
+      "end_page_pre_offset": 16063,
+      "end_page_post_offset": 742
+    }
+  ]
+}

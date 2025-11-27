@@ -1,0 +1,148 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Geografía e Historia",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Tecnología y Digitalización",
+    "Física y Química",
+    "Música",
+    "Educación en Valores Cívicos y Éticos",
+    "Matemáticas A",
+    "Matemáticas B",
+    "Economía y Emprendimiento",
+    "Latín",
+    "Digitalización",
+    "Expresión Artística",
+    "Formación y Orientación Personal y Profesional",
+    "Segunda Lengua Extranjera",
+    "Tecnología",
+    "Conocimiento de las Matemáticas",
+    "Conocimiento del Lenguaje",
+    "Control y Robótica",
+    "Cultura Clásica",
+    "Iniciación a la Actividad Emprendedora y Empresarial",
+    "Resolución de Problemas",
+    "Taller de Artes Plásticas",
+    "Taller de Expresión Musical",
+    "Cultura Científica",
+    "Educación Financiera",
+    "Formación para la Empresa y el Empleo",
+    "Geografía Económica",
+    "Laboratorio de Ciencias",
+    "Lengua y Cultura China",
+    "Lengua y Cultura Gallega",
+    "Literatura Universal",
+    "Programación Informática",
+    "Taller de Artes Escénicas",
+    "Taller de Filosofía",
+    "Religión / Alternativa",
+    "Tutoría"
+  ],
+  "offset": 48849,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 48910,
+      "start_page_post_offset": 61,
+      "end_page_pre_offset": 48913,
+      "end_page_post_offset": 64,
+      "anexo_nombre": "ANEXO II.C ORIENTACIONES PARA EL DISEÑO Y DESARROLLO DE SITUACIONES DE APRENDIZAJE"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 48885,
+    "start_page_post_offset": 36,
+    "end_page_pre_offset": 48889,
+    "end_page_post_offset": 40,
+    "anexo_nombre": "ANEXO I.A COMPETENCIAS CLAVE EN EDUCACIÓN SECUNDARIA OBLIGATORIA"
+  },
+  "materias": [
+    {
+      "titulo": "Lengua Extranjera",
+      "start_page_pre_offset": 49245,
+      "start_page_post_offset": 66,
+      "end_page_pre_offset": 49299,
+      "end_page_post_offset": 120
+    },
+    {
+      "titulo": "Lengua y Cultura China",
+      "start_page_pre_offset": 49300,
+      "start_page_post_offset": 121,
+      "end_page_pre_offset": 49328,
+      "end_page_post_offset": 149
+    },
+    {
+      "titulo": "Literatura Universal",
+      "start_page_pre_offset": 49329,
+      "start_page_post_offset": 150,
+      "end_page_pre_offset": 49337,
+      "end_page_post_offset": 158
+    },
+    {
+      "titulo": "Matemáticas",
+      "start_page_pre_offset": 49338,
+      "start_page_post_offset": 159,
+      "end_page_pre_offset": 49397,
+      "end_page_post_offset": 218
+    },
+    {
+      "titulo": "Resolución de Problemas",
+      "start_page_pre_offset": 49398,
+      "start_page_post_offset": 219,
+      "end_page_pre_offset": 49406,
+      "end_page_post_offset": 227
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera",
+      "start_page_pre_offset": 49407,
+      "start_page_post_offset": 228,
+      "end_page_pre_offset": 49455,
+      "end_page_post_offset": 276
+    },
+    {
+      "titulo": "Taller de Artes Escénicas",
+      "start_page_pre_offset": 49456,
+      "start_page_post_offset": 277,
+      "end_page_pre_offset": 49465,
+      "end_page_post_offset": 286
+    },
+    {
+      "titulo": "Taller de Artes Plásticas",
+      "start_page_pre_offset": 49466,
+      "start_page_post_offset": 287,
+      "end_page_pre_offset": 49475,
+      "end_page_post_offset": 296
+    },
+    {
+      "titulo": "Taller de Expresión Musical",
+      "start_page_pre_offset": 49476,
+      "start_page_post_offset": 297,
+      "end_page_pre_offset": 49484,
+      "end_page_post_offset": 305
+    },
+    {
+      "titulo": "Taller de Filosofía",
+      "start_page_pre_offset": 49485,
+      "start_page_post_offset": 306,
+      "end_page_pre_offset": 49493,
+      "end_page_post_offset": 314
+    },
+    {
+      "titulo": "Tecnología",
+      "start_page_pre_offset": 49494,
+      "start_page_post_offset": 315,
+      "end_page_pre_offset": 49504,
+      "end_page_post_offset": 325
+    },
+    {
+      "titulo": "Tecnología y Digitalización",
+      "start_page_pre_offset": 49505,
+      "start_page_post_offset": 326,
+      "end_page_pre_offset": 49520,
+      "end_page_post_offset": 341
+    }
+  ]
+}

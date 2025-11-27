@@ -1,0 +1,174 @@
+{
+  "lista_materias": [
+    "BIOLOGÍA Y GEOLOGÍA",
+    "HISTORIA DE ESPAÑA",
+    "HISTORIA DE LA FILOSOFÍA",
+    "HISTORIA DE LA MÚSICA Y LA DANZA",
+    "HISTORIA DEL ARTE",
+    "LATÍN",
+    "LENGUA CASTELLANA Y LITERATURA",
+    "LENGUA EXTRANJERA",
+    "LENGUAJE Y PRÁCTICA MUSICAL",
+    "LITERATURA DRAMÁTICA",
+    "LITERATURA UNIVERSAL",
+    "MATEMÁTICAS",
+    "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+    "MATEMÁTICAS GENERALES",
+    "SEGUNDA LENGUA EXTRANJERA",
+    "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+    "TECNOLOGÍA E INGENIERÍA",
+    "VOLUMEN"
+  ],
+  "offset": 15321,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 17263,
+      "start_page_post_offset": 601,
+      "end_page_pre_offset": 17264,
+      "end_page_post_offset": 602,
+      "anexo_nombre": "ANEXO 4. SITUACIONES DE APRENDIZAJE"
+    },
+    {
+      "start_page_pre_offset": 15331,
+      "start_page_post_offset": 10,
+      "end_page_pre_offset": 15331,
+      "end_page_post_offset": 10,
+      "anexo_nombre": "Artículo 3.8: Marco general para el diseño de situaciones de aprendizaje"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 15372,
+    "start_page_post_offset": 51,
+    "end_page_pre_offset": 15385,
+    "end_page_post_offset": 64,
+    "anexo_nombre": "Perfil de salida del alumnado al término de la enseñanza básica y competencias clave en el Bachillerato"
+  },
+  "materias": [
+    {
+      "titulo": "BIOLOGÍA Y GEOLOGÍA",
+      "start_page_pre_offset": 15386,
+      "start_page_post_offset": 65,
+      "end_page_pre_offset": 16727,
+      "end_page_post_offset": 406
+    },
+    {
+      "titulo": "HISTORIA DE ESPAÑA",
+      "start_page_pre_offset": 16728,
+      "start_page_post_offset": 407,
+      "end_page_pre_offset": 16752,
+      "end_page_post_offset": 431
+    },
+    {
+      "titulo": "HISTORIA DE LA FILOSOFÍA",
+      "start_page_pre_offset": 16753,
+      "start_page_post_offset": 432,
+      "end_page_pre_offset": 16770,
+      "end_page_post_offset": 449
+    },
+    {
+      "titulo": "HISTORIA DE LA MÚSICA Y LA DANZA",
+      "start_page_pre_offset": 16771,
+      "start_page_post_offset": 450,
+      "end_page_pre_offset": 16787,
+      "end_page_post_offset": 466
+    },
+    {
+      "titulo": "HISTORIA DEL ARTE",
+      "start_page_pre_offset": 16788,
+      "start_page_post_offset": 467,
+      "end_page_pre_offset": 16835,
+      "end_page_post_offset": 514
+    },
+    {
+      "titulo": "LATÍN",
+      "start_page_pre_offset": 16836,
+      "start_page_post_offset": 515,
+      "end_page_pre_offset": 16873,
+      "end_page_post_offset": 552
+    },
+    {
+      "titulo": "LENGUA CASTELLANA Y LITERATURA",
+      "start_page_pre_offset": 16874,
+      "start_page_post_offset": 553,
+      "end_page_pre_offset": 16927,
+      "end_page_post_offset": 606
+    },
+    {
+      "titulo": "LENGUA EXTRANJERA",
+      "start_page_pre_offset": 16928,
+      "start_page_post_offset": 607,
+      "end_page_pre_offset": 16965,
+      "end_page_post_offset": 644
+    },
+    {
+      "titulo": "LENGUAJE Y PRÁCTICA MUSICAL",
+      "start_page_pre_offset": 16966,
+      "start_page_post_offset": 645,
+      "end_page_pre_offset": 16981,
+      "end_page_post_offset": 660
+    },
+    {
+      "titulo": "LITERATURA DRAMÁTICA",
+      "start_page_pre_offset": 16982,
+      "start_page_post_offset": 661,
+      "end_page_pre_offset": 17001,
+      "end_page_post_offset": 680
+    },
+    {
+      "titulo": "LITERATURA UNIVERSAL",
+      "start_page_pre_offset": 17002,
+      "start_page_post_offset": 681,
+      "end_page_pre_offset": 17020,
+      "end_page_post_offset": 699
+    },
+    {
+      "titulo": "MATEMÁTICAS",
+      "start_page_pre_offset": 17021,
+      "start_page_post_offset": 700,
+      "end_page_pre_offset": 17053,
+      "end_page_post_offset": 732
+    },
+    {
+      "titulo": "MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES",
+      "start_page_pre_offset": 17054,
+      "start_page_post_offset": 733,
+      "end_page_pre_offset": 17085,
+      "end_page_post_offset": 764
+    },
+    {
+      "titulo": "MATEMÁTICAS GENERALES",
+      "start_page_pre_offset": 17086,
+      "start_page_post_offset": 765,
+      "end_page_pre_offset": 17161,
+      "end_page_post_offset": 840
+    },
+    {
+      "titulo": "SEGUNDA LENGUA EXTRANJERA",
+      "start_page_pre_offset": 17162,
+      "start_page_post_offset": 841,
+      "end_page_pre_offset": 17199,
+      "end_page_post_offset": 878
+    },
+    {
+      "titulo": "TÉCNICAS DE EXPRESIÓN GRÁFICO-PLÁSTICA",
+      "start_page_pre_offset": 17200,
+      "start_page_post_offset": 879,
+      "end_page_pre_offset": 17216,
+      "end_page_post_offset": 895
+    },
+    {
+      "titulo": "TECNOLOGÍA E INGENIERÍA",
+      "start_page_pre_offset": 17217,
+      "start_page_post_offset": 896,
+      "end_page_pre_offset": 17245,
+      "end_page_post_offset": 924
+    },
+    {
+      "titulo": "VOLUMEN",
+      "start_page_pre_offset": 17246,
+      "start_page_post_offset": 925,
+      "end_page_pre_offset": 17262,
+      "end_page_post_offset": 941
+    }
+  ]
+}

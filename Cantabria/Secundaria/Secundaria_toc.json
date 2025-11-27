@@ -1,0 +1,472 @@
+{
+  "lista_materias": [
+    "Biología y Geología",
+    "Digitalización",
+    "Economía y Emprendimiento",
+    "Educación Física",
+    "Educación Plástica, Visual y Audiovisual",
+    "Educación en Valores Cívicos y Éticos",
+    "Física y Química",
+    "Formación y Orientación Personal y Profesional",
+    "Geografía e Historia",
+    "Latín",
+    "Lengua Castellana y Literatura",
+    "Lengua Extranjera",
+    "Matemáticas",
+    "Segunda Lengua Extranjera",
+    "Tecnología",
+    "Tecnología y Digitalización",
+    "Análisis Musical",
+    "Artes Escénicas",
+    "Biología",
+    "Biología, Geología y Ciencias Ambientales",
+    "Ciencias Generales",
+    "Coro y Técnica Vocal",
+    "Cultura Audiovisual",
+    "Dibujo Artístico",
+    "Dibujo Técnico",
+    "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño",
+    "Diseño",
+    "Economía",
+    "Economía, Emprendimiento y Actividad Empresarial",
+    "Filosofía",
+    "Física",
+    "Fundamentos Artísticos",
+    "Geología y Ciencias Ambientales",
+    "Geografía",
+    "Griego",
+    "Historia del Arte",
+    "Historia de España",
+    "Historia de la Filosofía",
+    "Historia de la Música y de la Danza",
+    "Lenguaje y Práctica Musical",
+    "Literatura Dramática",
+    "Literatura Universal",
+    "Matemáticas Aplicadas a las Ciencias Sociales",
+    "Matemáticas Generales",
+    "Movimientos Culturales y Artísticos",
+    "Proyectos Artísticos",
+    "Química",
+    "Técnicas de Expresión Gráfico-plástica",
+    "Tecnología e Ingeniería",
+    "Volumen"
+  ],
+  "offset": -20440,
+  "seccion_diseno": [
+    {
+      "start_page_pre_offset": 20758,
+      "start_page_post_offset": 318,
+      "end_page_pre_offset": 20759,
+      "end_page_post_offset": 319,
+      "anexo_nombre": "ANEXO I-B Situaciones de Aprendizaje en Educación Secundaria Obligatoria"
+    },
+    {
+      "start_page_pre_offset": 21319,
+      "start_page_post_offset": 879,
+      "end_page_pre_offset": 21320,
+      "end_page_post_offset": 880,
+      "anexo_nombre": "ANEXO II-B Situaciones de Aprendizaje en Bachillerato"
+    }
+  ],
+  "competencias_claves": {
+    "start_page_pre_offset": 20445,
+    "start_page_post_offset": 5,
+    "end_page_pre_offset": 20445,
+    "end_page_post_offset": 5,
+    "anexo_nombre": "Artículo 5. Competencias clave y perfil de salida. (ESO)"
+  },
+  "materias": [
+    {
+      "titulo": "Biología y Geología (ESO)",
+      "start_page_pre_offset": 20477,
+      "start_page_post_offset": 37,
+      "end_page_pre_offset": 20492,
+      "end_page_post_offset": 52
+    },
+    {
+      "titulo": "Digitalización (ESO)",
+      "start_page_pre_offset": 20493,
+      "start_page_post_offset": 53,
+      "end_page_pre_offset": 20501,
+      "end_page_post_offset": 61
+    },
+    {
+      "titulo": "Economía y Emprendimiento (ESO)",
+      "start_page_pre_offset": 20502,
+      "start_page_post_offset": 62,
+      "end_page_pre_offset": 20513,
+      "end_page_post_offset": 73
+    },
+    {
+      "titulo": "Educación Física (ESO)",
+      "start_page_pre_offset": 20514,
+      "start_page_post_offset": 74,
+      "end_page_pre_offset": 20532,
+      "end_page_post_offset": 92
+    },
+    {
+      "titulo": "Educación Plástica, Visual y Audiovisual (ESO)",
+      "start_page_pre_offset": 20533,
+      "start_page_post_offset": 93,
+      "end_page_pre_offset": 20543,
+      "end_page_post_offset": 103
+    },
+    {
+      "titulo": "Educación en Valores Cívicos y Éticos (ESO)",
+      "start_page_pre_offset": 20544,
+      "start_page_post_offset": 104,
+      "end_page_pre_offset": 20562,
+      "end_page_post_offset": 122
+    },
+    {
+      "titulo": "Física y Química (ESO)",
+      "start_page_pre_offset": 20563,
+      "start_page_post_offset": 123,
+      "end_page_pre_offset": 20578,
+      "end_page_post_offset": 138
+    },
+    {
+      "titulo": "Formación y Orientación Personal y Profesional (ESO)",
+      "start_page_pre_offset": 20579,
+      "start_page_post_offset": 139,
+      "end_page_pre_offset": 20590,
+      "end_page_post_offset": 150
+    },
+    {
+      "titulo": "Geografía e Historia (ESO)",
+      "start_page_pre_offset": 20591,
+      "start_page_post_offset": 151,
+      "end_page_pre_offset": 20616,
+      "end_page_post_offset": 176
+    },
+    {
+      "titulo": "Latín (ESO)",
+      "start_page_pre_offset": 20617,
+      "start_page_post_offset": 177,
+      "end_page_pre_offset": 20627,
+      "end_page_post_offset": 187
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura (ESO)",
+      "start_page_pre_offset": 20628,
+      "start_page_post_offset": 188,
+      "end_page_pre_offset": 20653,
+      "end_page_post_offset": 213
+    },
+    {
+      "titulo": "Lengua Extranjera (ESO)",
+      "start_page_pre_offset": 20654,
+      "start_page_post_offset": 214,
+      "end_page_pre_offset": 20671,
+      "end_page_post_offset": 231
+    },
+    {
+      "titulo": "Matemáticas (ESO)",
+      "start_page_pre_offset": 20672,
+      "start_page_post_offset": 232,
+      "end_page_pre_offset": 20710,
+      "end_page_post_offset": 270
+    },
+    {
+      "titulo": "Segunda Lengua Extranjera (ESO)",
+      "start_page_pre_offset": 20711,
+      "start_page_post_offset": 271,
+      "end_page_pre_offset": 20732,
+      "end_page_post_offset": 292
+    },
+    {
+      "titulo": "Tecnología (ESO)",
+      "start_page_pre_offset": 20733,
+      "start_page_post_offset": 293,
+      "end_page_pre_offset": 20744,
+      "end_page_post_offset": 304
+    },
+    {
+      "titulo": "Tecnología y Digitalización (ESO)",
+      "start_page_pre_offset": 20745,
+      "start_page_post_offset": 305,
+      "end_page_pre_offset": 20757,
+      "end_page_post_offset": 317
+    },
+    {
+      "titulo": "Análisis Musical (Bachillerato)",
+      "start_page_pre_offset": 20793,
+      "start_page_post_offset": 353,
+      "end_page_pre_offset": 20801,
+      "end_page_post_offset": 361
+    },
+    {
+      "titulo": "Artes Escénicas (Bachillerato)",
+      "start_page_pre_offset": 20802,
+      "start_page_post_offset": 362,
+      "end_page_pre_offset": 20812,
+      "end_page_post_offset": 372
+    },
+    {
+      "titulo": "Biología (Bachillerato)",
+      "start_page_pre_offset": 20813,
+      "start_page_post_offset": 373,
+      "end_page_pre_offset": 20822,
+      "end_page_post_offset": 382
+    },
+    {
+      "titulo": "Biología, Geología y Ciencias Ambientales (Bachillerato)",
+      "start_page_pre_offset": 20823,
+      "start_page_post_offset": 383,
+      "end_page_pre_offset": 20835,
+      "end_page_post_offset": 395
+    },
+    {
+      "titulo": "Ciencias Generales (Bachillerato)",
+      "start_page_pre_offset": 20836,
+      "start_page_post_offset": 396,
+      "end_page_pre_offset": 20845,
+      "end_page_post_offset": 405
+    },
+    {
+      "titulo": "Coro y Técnica Vocal (Bachillerato)",
+      "start_page_pre_offset": 20846,
+      "start_page_post_offset": 406,
+      "end_page_pre_offset": 20854,
+      "end_page_post_offset": 414
+    },
+    {
+      "titulo": "Cultura Audiovisual (Bachillerato)",
+      "start_page_pre_offset": 20855,
+      "start_page_post_offset": 415,
+      "end_page_pre_offset": 20864,
+      "end_page_post_offset": 424
+    },
+    {
+      "titulo": "Dibujo Artístico (Bachillerato)",
+      "start_page_pre_offset": 20865,
+      "start_page_post_offset": 425,
+      "end_page_pre_offset": 20880,
+      "end_page_post_offset": 440
+    },
+    {
+      "titulo": "Dibujo Técnico (Bachillerato)",
+      "start_page_pre_offset": 20881,
+      "start_page_post_offset": 441,
+      "end_page_pre_offset": 20890,
+      "end_page_post_offset": 450
+    },
+    {
+      "titulo": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño (Bachillerato)",
+      "start_page_pre_offset": 20891,
+      "start_page_post_offset": 451,
+      "end_page_pre_offset": 20899,
+      "end_page_post_offset": 459
+    },
+    {
+      "titulo": "Diseño (Bachillerato)",
+      "start_page_pre_offset": 20900,
+      "start_page_post_offset": 460,
+      "end_page_pre_offset": 20910,
+      "end_page_post_offset": 470
+    },
+    {
+      "titulo": "Economía (Bachillerato)",
+      "start_page_pre_offset": 20911,
+      "start_page_post_offset": 471,
+      "end_page_pre_offset": 20920,
+      "end_page_post_offset": 480
+    },
+    {
+      "titulo": "Economía, Emprendimiento y Actividad Empresarial (Bachillerato)",
+      "start_page_pre_offset": 20921,
+      "start_page_post_offset": 481,
+      "end_page_pre_offset": 20928,
+      "end_page_post_offset": 488
+    },
+    {
+      "titulo": "Educación Física (Bachillerato)",
+      "start_page_pre_offset": 20929,
+      "start_page_post_offset": 489,
+      "end_page_pre_offset": 20952,
+      "end_page_post_offset": 512
+    },
+    {
+      "titulo": "Filosofía (Bachillerato)",
+      "start_page_pre_offset": 20953,
+      "start_page_post_offset": 513,
+      "end_page_pre_offset": 20967,
+      "end_page_post_offset": 527
+    },
+    {
+      "titulo": "Física (Bachillerato)",
+      "start_page_pre_offset": 20968,
+      "start_page_post_offset": 528,
+      "end_page_pre_offset": 20977,
+      "end_page_post_offset": 537
+    },
+    {
+      "titulo": "Física y Química (Bachillerato)",
+      "start_page_pre_offset": 20978,
+      "start_page_post_offset": 538,
+      "end_page_pre_offset": 20988,
+      "end_page_post_offset": 548
+    },
+    {
+      "titulo": "Fundamentos Artísticos (Bachillerato)",
+      "start_page_pre_offset": 20989,
+      "start_page_post_offset": 549,
+      "end_page_pre_offset": 20999,
+      "end_page_post_offset": 559
+    },
+    {
+      "titulo": "Geología y Ciencias Ambientales (Bachillerato)",
+      "start_page_pre_offset": 21000,
+      "start_page_post_offset": 560,
+      "end_page_pre_offset": 21011,
+      "end_page_post_offset": 571
+    },
+    {
+      "titulo": "Geografía (Bachillerato)",
+      "start_page_pre_offset": 21012,
+      "start_page_post_offset": 572,
+      "end_page_pre_offset": 21023,
+      "end_page_post_offset": 583
+    },
+    {
+      "titulo": "Griego (Bachillerato)",
+      "start_page_pre_offset": 21024,
+      "start_page_post_offset": 584,
+      "end_page_pre_offset": 21043,
+      "end_page_post_offset": 603
+    },
+    {
+      "titulo": "Historia del Arte (Bachillerato)",
+      "start_page_pre_offset": 21044,
+      "start_page_post_offset": 604,
+      "end_page_pre_offset": 21056,
+      "end_page_post_offset": 616
+    },
+    {
+      "titulo": "Historia de España (Bachillerato)",
+      "start_page_pre_offset": 21057,
+      "start_page_post_offset": 617,
+      "end_page_pre_offset": 21073,
+      "end_page_post_offset": 633
+    },
+    {
+      "titulo": "Historia de la Filosofía (Bachillerato)",
+      "start_page_pre_offset": 21074,
+      "start_page_post_offset": 634,
+      "end_page_pre_offset": 21085,
+      "end_page_post_offset": 645
+    },
+    {
+      "titulo": "Historia de la Música y de la Danza (Bachillerato)",
+      "start_page_pre_offset": 21103,
+      "start_page_post_offset": 663,
+      "end_page_pre_offset": 21110,
+      "end_page_post_offset": 670
+    },
+    {
+      "titulo": "Latín (Bachillerato)",
+      "start_page_pre_offset": 21111,
+      "start_page_post_offset": 671,
+      "end_page_pre_offset": 21128,
+      "end_page_post_offset": 688
+    },
+    {
+      "titulo": "Lengua Castellana y Literatura (Bachillerato)",
+      "start_page_pre_offset": 21130,
+      "start_page_post_offset": 690,
+      "end_page_pre_offset": 21155,
+      "end_page_post_offset": 715
+    },
+    {
+      "titulo": "Lengua Extranjera (Bachillerato)",
+      "start_page_pre_offset": 21156,
+      "start_page_post_offset": 716,
+      "end_page_pre_offset": 21174,
+      "end_page_post_offset": 734
+    },
+    {
+      "titulo": "Lenguaje y Práctica Musical (Bachillerato)",
+      "start_page_pre_offset": 21174,
+      "start_page_post_offset": 734,
+      "end_page_pre_offset": 21181,
+      "end_page_post_offset": 741
+    },
+    {
+      "titulo": "Literatura Dramática (Bachillerato)",
+      "start_page_pre_offset": 21181,
+      "start_page_post_offset": 741,
+      "end_page_pre_offset": 21193,
+      "end_page_post_offset": 753
+    },
+    {
+      "titulo": "Literatura Universal (Bachillerato)",
+      "start_page_pre_offset": 21194,
+      "start_page_post_offset": 754,
+      "end_page_pre_offset": 21203,
+      "end_page_post_offset": 763
+    },
+    {
+      "titulo": "Matemáticas (Bachillerato)",
+      "start_page_pre_offset": 21204,
+      "start_page_post_offset": 764,
+      "end_page_pre_offset": 21217,
+      "end_page_post_offset": 777
+    },
+    {
+      "titulo": "Matemáticas Aplicadas a las Ciencias Sociales (Bachillerato)",
+      "start_page_pre_offset": 21223,
+      "start_page_post_offset": 783,
+      "end_page_pre_offset": 21236,
+      "end_page_post_offset": 796
+    },
+    {
+      "titulo": "Matemáticas Generales (Bachillerato)",
+      "start_page_pre_offset": 21241,
+      "start_page_post_offset": 801,
+      "end_page_pre_offset": 21252,
+      "end_page_post_offset": 812
+    },
+    {
+      "titulo": "Movimientos Culturales y Artísticos (Bachillerato)",
+      "start_page_pre_offset": 21254,
+      "start_page_post_offset": 814,
+      "end_page_pre_offset": 21263,
+      "end_page_post_offset": 823
+    },
+    {
+      "titulo": "Proyectos Artísticos (Bachillerato)",
+      "start_page_pre_offset": 21264,
+      "start_page_post_offset": 824,
+      "end_page_pre_offset": 21271,
+      "end_page_post_offset": 831
+    },
+    {
+      "titulo": "Química (Bachillerato)",
+      "start_page_pre_offset": 21272,
+      "start_page_post_offset": 832,
+      "end_page_pre_offset": 21281,
+      "end_page_post_offset": 841
+    },
+    {
+      "titulo": "Técnicas de Expresión Gráfico-plástica (Bachillerato)",
+      "start_page_pre_offset": 21284,
+      "start_page_post_offset": 844,
+      "end_page_pre_offset": 21294,
+      "end_page_post_offset": 854
+    },
+    {
+      "titulo": "Tecnología e Ingeniería (Bachillerato)",
+      "start_page_pre_offset": 21295,
+      "start_page_post_offset": 855,
+      "end_page_pre_offset": 21308,
+      "end_page_post_offset": 868
+    },
+    {
+      "titulo": "Volumen (Bachillerato)",
+      "start_page_pre_offset": 21309,
+      "start_page_post_offset": 869,
+      "end_page_pre_offset": 21318,
+      "end_page_post_offset": 878
+    }
+  ]
+}
