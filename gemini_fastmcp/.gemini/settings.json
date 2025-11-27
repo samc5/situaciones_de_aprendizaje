@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "Dice Roller": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "/mnt/c/Users/cowan/Documents/Smile/situaciones/gemini_fastmcp/server.py"
+      ]
+    }
+  }
+}

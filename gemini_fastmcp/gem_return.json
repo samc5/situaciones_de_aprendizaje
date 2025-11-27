@@ -1,0 +1,212 @@
+{
+    "type": "object",
+    "properties": {
+      "language": {
+        "type": "string",
+        "description": "Language of the content"
+      },
+      "title": {
+        "type": "string",
+        "description": "Title of the activity set"
+      },
+      "context": {
+        "type": "string",
+        "description": "Context for the activities"
+      },
+      "justification": {
+        "type": "string",
+        "description": "Justification for the activities"
+      },
+      "agelvl": {
+        "type": "string",
+        "description": "Age level",
+        "enum": ["infantil", "primaria", "secundaria", "bachillerato"]
+      },
+      "SDG": {
+        "type": "array",
+        "description": "Sustainable Development Goals",
+        "items": {
+          "type": "string",
+          "enum": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"]
+        }
+      },
+      "activity1": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Activity title"
+          },
+          "description": {
+            "type": "string",
+            "description": "Activity description"
+          },
+          "duration": {
+            "type": "number",
+            "description": "Duration in minutes"
+          },
+          "sessions": {
+            "type": "number",
+            "description": "Number of sessions"
+          },
+          "competencies": {
+            "type": "array",
+            "description": "List of competencies",
+            "items": {
+              "type": "string"
+            }
+          },
+          "AInara": {
+            "type": "array",
+            "description": "AI features available",
+            "items": {
+              "type": "string",
+              "enum": ["[image]", "[text]", "[audios]", "[document]", "[audiobook]", "[reading]", "[easy_reading]", "[cefr]", "[subtitles]", "[quiz]", "[relations]", "[wordssearch]", "[multiformat]"]
+            }
+          },
+          "Criteria": {
+            "type": "object",
+            "description": "Evaluation criteria",
+            "properties": {
+              "0": {"type": "string"},
+              "1": {"type": "string"},
+              "2": {"type": "string"},
+              "3": {"type": "string"},
+              "4": {"type": "string"}
+            },
+            "required": ["0", "1", "2", "3", "4"]
+          }
+        },
+        "required": ["title", "description", "duration", "sessions", "competencies", "Criteria"]
+      },
+      "activity2": {
+        "type": "object",
+        "properties": {
+          "title": {"type": "string"},
+          "description": {"type": "string"},
+          "duration": {"type": "number"},
+          "sessions": {"type": "number"},
+          "competencies": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "AInara": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["[image]", "[text]", "[audios]", "[document]", "[audiobook]", "[reading]", "[easy_reading]", "[cefr]", "[subtitles]", "[quiz]", "[relations]", "[wordssearch]", "[multiformat]"]
+            }
+          },
+          "Criteria": {
+            "type": "object",
+            "properties": {
+              "0": {"type": "string"},
+              "1": {"type": "string"},
+              "2": {"type": "string"},
+              "3": {"type": "string"},
+              "4": {"type": "string"}
+            },
+            "required": ["0", "1", "2", "3", "4"]
+          }
+        },
+        "required": ["title", "description", "duration", "sessions", "competencies", "Criteria"]
+      },
+      "activity3": {
+        "type": "object",
+        "properties": {
+          "title": {"type": "string"},
+          "description": {"type": "string"},
+          "duration": {"type": "number"},
+          "sessions": {"type": "number"},
+          "competencies": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "AInara": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["[image]", "[text]", "[audios]", "[document]", "[audiobook]", "[reading]", "[easy_reading]", "[cefr]", "[subtitles]", "[quiz]", "[relations]", "[wordssearch]", "[multiformat]"]
+            }
+          },
+          "Criteria": {
+            "type": "object",
+            "properties": {
+              "0": {"type": "string"},
+              "1": {"type": "string"},
+              "2": {"type": "string"},
+              "3": {"type": "string"},
+              "4": {"type": "string"}
+            },
+            "required": ["0", "1", "2", "3", "4"]
+          }
+        },
+        "required": ["title", "description", "duration", "sessions", "competencies", "Criteria"]
+      },
+      "activity4": {
+        "type": "object",
+        "properties": {
+          "title": {"type": "string"},
+          "description": {"type": "string"},
+          "duration": {"type": "number"},
+          "sessions": {"type": "number"},
+          "competencies": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "AInara": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["[image]", "[text]", "[audios]", "[document]", "[audiobook]", "[reading]", "[easy_reading]", "[cefr]", "[subtitles]", "[quiz]", "[relations]", "[wordssearch]", "[multiformat]"]
+            }
+          },
+          "Criteria": {
+            "type": "object",
+            "properties": {
+              "0": {"type": "string"},
+              "1": {"type": "string"},
+              "2": {"type": "string"},
+              "3": {"type": "string"},
+              "4": {"type": "string"}
+            },
+            "required": ["0", "1", "2", "3", "4"]
+          }
+        },
+        "required": ["title", "description", "duration", "sessions", "competencies", "Criteria"]
+      },
+      "activity5": {
+        "type": "object",
+        "properties": {
+          "title": {"type": "string"},
+          "description": {"type": "string"},
+          "duration": {"type": "number"},
+          "sessions": {"type": "number"},
+          "competencies": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "AInara": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["[image]", "[text]", "[audios]", "[document]", "[audiobook]", "[reading]", "[easy_reading]", "[cefr]", "[subtitles]", "[quiz]", "[relations]", "[wordssearch]", "[multiformat]"]
+            }
+          },
+          "Criteria": {
+            "type": "object",
+            "properties": {
+              "0": {"type": "string"},
+              "1": {"type": "string"},
+              "2": {"type": "string"},
+              "3": {"type": "string"},
+              "4": {"type": "string"}
+            },
+            "required": ["0", "1", "2", "3", "4"]
+          }
+        },
+        "required": ["title", "description", "duration", "sessions", "competencies", "Criteria"]
+      }
+    },
+    "required": ["language", "title", "context", "justification", "agelvl", "activity1"]
+  }

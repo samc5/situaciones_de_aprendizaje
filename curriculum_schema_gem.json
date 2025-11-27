@@ -1,0 +1,133 @@
+{
+    "type": "object",
+    "properties": {
+        "metadata": {
+            "type": "object",
+            "properties": {
+                "region": { "type": "string" },
+                "educational_stage": { "type": "string" },
+                "version": { "type": "string" },
+                "strings": {
+                    "type": "object",
+                    "properties": {
+                        "stage_objectives": { "type": "string" },
+                        "key_competencies": { "type": "string" },
+                        "operational_descriptors": { "type": "string" },
+                        "areas": { "type": "string" },
+                        "cycle": { "type": "string" },
+                        "specific_competencies": { "type": "string" },
+                        "evaluation_criteria": { "type": "string" },
+                        "contents": { "type": "string" },
+                        "blocks": { "type": "string" },
+                        "knowledge_skills": { "type": "string" }
+                    },
+                    "required": [
+                        "stage_objectives",
+                        "key_competencies",
+                        "operational_descriptors",
+                        "areas",
+                        "cycle",
+                        "specific_competencies",
+                        "evaluation_criteria",
+                        "contents",
+                        "blocks",
+                        "knowledge_skills"
+                    ]
+                }
+            },
+            "required": ["region", "educational_stage", "version", "strings"]
+        },
+        "data": {
+            "type": "object",
+            "properties": {
+                "stage_objectives": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "key_competencies": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": { "type": "string" },
+                            "name": { "type": "string" },
+                            "operational_descriptors": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "id": { "type": "string" },
+                                        "name": { "type": "string" }
+                                    },
+                                    "required": ["id", "name"]
+                                }
+                            }
+                        },
+                        "required": ["id", "name", "operational_descriptors"]
+                    }
+                },
+                "areas": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "name": { "type": "string" },
+                            "contents": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "cycle": { "type": "string" },
+                                        "courses": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "name": { "type": "string"},
+                                                    "specific_competencies": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "object",
+                                                            "properties": {
+                                                                "name": { "type": "string" },
+                                                                "evaluation_criteria": {
+                                                                    "type": "array",
+                                                                    "items": { "type": "string" }
+                                                                }
+                                                            },
+                                                            "required": ["name", "evaluation_criteria"]
+                                                        }
+                                                    },
+                                                    "contents": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "object",
+                                                            "properties": {
+                                                                "block_name": { "type": "string" },
+                                                                "knowledge_skills": {
+                                                                    "type": "array",
+                                                                    "items": { "type": "string" }
+                                                                }
+                                                            },
+                                                            "required": ["block_name", "knowledge_skills"]
+                                                        }
+                                                    }
+                                                },
+                                                "required": ["name", "specific_competencies", "contents"]
+                                            }
+                                        }
+                                    },
+                                    "required": ["cycle", "courses"]
+                                }
+                            }
+                        },
+                        "required": ["name", "contents"]
+                    }
+                }
+            },
+            "required": ["stage_objectives", "key_competencies", "areas"]
+        }
+    }
+}

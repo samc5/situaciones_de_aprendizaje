@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Lesson Plan Visualizer",
+  "description": "An attractive visualizer to preview and validate AI-generated lesson plans. It displays lesson activities, competencies, and evaluation criteria in a structured format, and flags potential errors in the data.",
+  "requestFramePermissions": []
+}
